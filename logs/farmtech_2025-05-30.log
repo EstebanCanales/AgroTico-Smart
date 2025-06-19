@@ -1,0 +1,1528 @@
+2025-05-30 21:18:18,759 [INFO] Inicio del sistema
+2025-05-30 21:18:19,889 [INFO] Lectura BMP390
+2025-05-30 21:18:19,936 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://127.0.0.1:8080
+2025-05-30 21:18:19,937 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-30 21:18:20,103 [INFO] Lectura LTR390
+2025-05-30 21:18:20,593 [WARNING] Lectura serial fallida o formato incorrecto
+2025-05-30 21:18:20,611 [ERROR] Error al leer datos climáticos NASA
+2025-05-30 21:18:20,613 [INFO] Datos JSON preparados para envío
+2025-05-30 21:18:21,669 [INFO] Lectura BMP390
+2025-05-30 21:18:21,846 [INFO] Lectura LTR390
+2025-05-30 21:18:22,771 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-30 21:18:22,779 [ERROR] Error al leer datos climáticos NASA
+2025-05-30 21:18:22,780 [INFO] Datos JSON preparados para envío
+2025-05-30 21:18:23,830 [INFO] Lectura BMP390
+2025-05-30 21:18:24,006 [INFO] Lectura LTR390
+2025-05-30 21:18:24,948 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-30 21:18:25,270 [INFO] 192.168.95.247 - - [30/May/2025 21:18:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-30 21:18:27,012 [INFO] Movimiento hacia adelante
+2025-05-30 21:18:27,028 [INFO] 192.168.95.247 - - [30/May/2025 21:18:27] "POST /mover HTTP/1.1" 200 -
+2025-05-30 21:18:31,854 [INFO] 192.168.95.247 - - [30/May/2025 21:18:31] "POST /mover HTTP/1.1" 200 -
+2025-05-30 21:18:31,964 [INFO] Movimiento hacia adelante
+2025-05-30 21:18:33,492 [INFO] 192.168.95.247 - - [30/May/2025 21:18:33] "GET / HTTP/1.1" 200 -
+2025-05-30 21:18:34,990 [INFO] Movimiento hacia adelante
+2025-05-30 21:18:35,340 [INFO] 192.168.95.247 - - [30/May/2025 21:18:35] "POST /mover HTTP/1.1" 200 -
+2025-05-30 21:18:37,452 [INFO] 192.168.95.247 - - [30/May/2025 21:18:37] "GET / HTTP/1.1" 200 -
+2025-05-30 23:40:32,636 [INFO] 192.168.95.247 - - [30/May/2025 23:40:32] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:40:32,637 [INFO] Movimiento hacia adelante
+2025-05-30 23:40:35,159 [INFO] 192.168.95.247 - - [30/May/2025 23:40:35] "GET / HTTP/1.1" 200 -
+2025-05-30 23:40:35,687 [INFO] Movimiento hacia adelante
+2025-05-30 23:40:38,714 [INFO] Movimiento hacia adelante
+2025-05-30 23:40:39,941 [INFO] 192.168.95.247 - - [30/May/2025 23:40:39] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:40:41,722 [INFO] 192.168.95.247 - - [30/May/2025 23:40:41] "GET / HTTP/1.1" 200 -
+2025-05-30 23:41:04,024 [INFO] 192.168.95.247 - - [30/May/2025 23:41:04] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:41:04,028 [INFO] Movimiento hacia atrás
+2025-05-30 23:41:06,864 [INFO] 192.168.95.247 - - [30/May/2025 23:41:06] "GET / HTTP/1.1" 200 -
+2025-05-30 23:41:07,196 [INFO] Movimiento hacia atrás
+2025-05-30 23:41:07,603 [INFO] 192.168.95.247 - - [30/May/2025 23:41:07] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:41:08,772 [INFO] 192.168.95.247 - - [30/May/2025 23:41:08] "GET / HTTP/1.1" 200 -
+2025-05-30 23:41:16,365 [INFO] 192.168.95.247 - - [30/May/2025 23:41:16] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:41:16,366 [INFO] Movimiento a la derecha
+2025-05-30 23:41:16,379 [INFO] 192.168.95.247 - - [30/May/2025 23:41:16] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:41:17,682 [INFO] 192.168.95.247 - - [30/May/2025 23:41:17] "GET / HTTP/1.1" 200 -
+2025-05-30 23:41:18,334 [INFO] 192.168.95.247 - - [30/May/2025 23:41:18] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:41:19,554 [INFO] 192.168.95.247 - - [30/May/2025 23:41:19] "GET / HTTP/1.1" 200 -
+2025-05-30 23:41:38,591 [INFO] 192.168.95.247 - - [30/May/2025 23:41:38] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:41:38,591 [INFO] Movimiento a la izquierda
+2025-05-30 23:41:38,601 [INFO] 192.168.95.247 - - [30/May/2025 23:41:38] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:41:39,771 [INFO] 192.168.95.247 - - [30/May/2025 23:41:39] "GET / HTTP/1.1" 200 -
+2025-05-30 23:41:40,364 [INFO] 192.168.95.247 - - [30/May/2025 23:41:40] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:41:41,486 [INFO] 192.168.95.247 - - [30/May/2025 23:41:41] "GET / HTTP/1.1" 200 -
+2025-05-30 23:41:45,806 [INFO] Movimiento a la derecha
+2025-05-30 23:41:45,808 [INFO] 192.168.95.247 - - [30/May/2025 23:41:45] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:41:48,334 [INFO] 192.168.95.247 - - [30/May/2025 23:41:48] "GET / HTTP/1.1" 200 -
+2025-05-30 23:41:48,954 [INFO] Movimiento a la derecha
+2025-05-30 23:41:49,152 [INFO] 192.168.95.247 - - [30/May/2025 23:41:49] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:41:50,381 [INFO] 192.168.95.247 - - [30/May/2025 23:41:50] "GET / HTTP/1.1" 200 -
+2025-05-30 23:42:20,610 [INFO] 192.168.95.247 - - [30/May/2025 23:42:20] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:42:20,611 [INFO] Movimiento a la derecha
+2025-05-30 23:42:20,624 [INFO] 192.168.95.247 - - [30/May/2025 23:42:20] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:42:21,672 [INFO] 192.168.95.247 - - [30/May/2025 23:42:21] "GET / HTTP/1.1" 200 -
+2025-05-30 23:42:22,468 [INFO] 192.168.95.247 - - [30/May/2025 23:42:22] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:42:23,504 [INFO] 192.168.95.247 - - [30/May/2025 23:42:23] "GET / HTTP/1.1" 200 -
+2025-05-30 23:42:39,590 [INFO] 192.168.95.247 - - [30/May/2025 23:42:39] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:42:39,590 [INFO] Movimiento a la derecha
+2025-05-30 23:42:42,181 [INFO] 192.168.95.247 - - [30/May/2025 23:42:42] "GET / HTTP/1.1" 200 -
+2025-05-30 23:42:42,748 [INFO] Movimiento a la derecha
+2025-05-30 23:42:43,726 [INFO] 192.168.95.247 - - [30/May/2025 23:42:43] "POST /mover HTTP/1.1" 200 -
+2025-05-30 23:43:12,206 [INFO] 192.168.95.247 - - [30/May/2025 23:43:12] "GET / HTTP/1.1" 200 -
+2025-05-30 23:44:21,038 [INFO] Inicio del sistema
+2025-05-30 23:44:22,169 [INFO] Lectura BMP390
+2025-05-30 23:44:22,213 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://127.0.0.1:8080
+2025-05-30 23:44:22,213 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-30 23:44:22,386 [INFO] Lectura LTR390
+2025-05-30 23:44:22,487 [WARNING] Lectura serial fallida o formato incorrecto
+2025-05-30 23:44:22,505 [ERROR] Error al leer datos climáticos NASA
+2025-05-30 23:44:22,506 [INFO] Datos JSON preparados para envío
+2025-05-30 23:44:23,557 [INFO] Lectura BMP390
+2025-05-30 23:44:23,740 [INFO] Lectura LTR390
+2025-05-30 23:44:24,664 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-30 23:44:29,206 [INFO] Lectura datos climáticos NASA
+2025-05-30 23:44:29,208 [INFO] Datos JSON preparados para envío
+2025-05-30 23:44:30,258 [INFO] Lectura BMP390
+2025-05-30 23:44:30,434 [INFO] Lectura LTR390
+2025-05-30 23:44:30,437 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-30 23:44:34,108 [INFO] Lectura datos climáticos NASA
+2025-05-30 23:44:34,109 [INFO] Datos JSON preparados para envío
+2025-05-30 23:44:35,161 [INFO] Lectura BMP390
+2025-05-30 23:44:35,339 [INFO] Lectura LTR390
+2025-05-30 23:44:35,342 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-30 23:44:39,327 [INFO] Lectura datos climáticos NASA
+2025-05-30 23:44:39,328 [INFO] Datos JSON preparados para envío
+2025-05-30 23:44:40,378 [INFO] Lectura BMP390
+2025-05-30 23:44:40,721 [INFO] Lectura LTR390
+2025-05-30 23:44:40,724 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-30 23:44:44,240 [INFO] Lectura datos climáticos NASA
+2025-05-30 23:44:44,242 [INFO] Datos JSON preparados para envío
+2025-05-30 23:44:45,295 [INFO] Lectura BMP390
+2025-05-30 23:44:45,472 [INFO] Lectura LTR390
+2025-05-30 23:44:45,475 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:35:29,661 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:35:29,662 [INFO] Datos JSON preparados para envío
+2025-05-31 00:35:30,712 [INFO] Lectura BMP390
+2025-05-31 00:35:30,892 [INFO] Lectura LTR390
+2025-05-31 00:35:30,895 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:35:34,886 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:35:34,888 [INFO] Datos JSON preparados para envío
+2025-05-31 00:35:35,944 [INFO] Lectura BMP390
+2025-05-31 00:35:36,121 [INFO] Lectura LTR390
+2025-05-31 00:35:36,124 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:35:39,802 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:35:39,804 [INFO] Datos JSON preparados para envío
+2025-05-31 00:35:40,858 [INFO] Lectura BMP390
+2025-05-31 00:35:41,038 [INFO] Lectura LTR390
+2025-05-31 00:35:41,041 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:35:44,408 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:35:44,409 [INFO] Datos JSON preparados para envío
+2025-05-31 00:35:45,458 [INFO] Lectura BMP390
+2025-05-31 00:35:45,634 [INFO] Lectura LTR390
+2025-05-31 00:35:45,637 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:35:49,328 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:35:49,331 [INFO] Datos JSON preparados para envío
+2025-05-31 00:35:50,384 [INFO] Lectura BMP390
+2025-05-31 00:35:50,564 [INFO] Lectura LTR390
+2025-05-31 00:35:50,570 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:35:59,442 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:35:59,444 [INFO] Datos JSON preparados para envío
+2025-05-31 00:36:00,496 [INFO] Lectura BMP390
+2025-05-31 00:36:00,679 [INFO] Lectura LTR390
+2025-05-31 00:36:00,682 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:36:04,698 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:36:04,701 [INFO] Datos JSON preparados para envío
+2025-05-31 00:36:05,758 [INFO] Lectura BMP390
+2025-05-31 00:36:05,942 [INFO] Lectura LTR390
+2025-05-31 00:36:05,947 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:36:09,603 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:36:09,606 [INFO] Datos JSON preparados para envío
+2025-05-31 00:36:10,657 [INFO] Lectura BMP390
+2025-05-31 00:36:10,838 [INFO] Lectura LTR390
+2025-05-31 00:36:10,845 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:36:14,825 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:36:14,828 [INFO] Datos JSON preparados para envío
+2025-05-31 00:36:15,881 [INFO] Lectura BMP390
+2025-05-31 00:36:16,065 [INFO] Lectura LTR390
+2025-05-31 00:36:16,072 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:36:20,044 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:36:20,045 [INFO] Datos JSON preparados para envío
+2025-05-31 00:36:21,098 [INFO] Lectura BMP390
+2025-05-31 00:36:21,278 [INFO] Lectura LTR390
+2025-05-31 00:36:21,284 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:36:43,786 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:36:43,788 [INFO] Datos JSON preparados para envío
+2025-05-31 00:36:44,838 [INFO] Lectura BMP390
+2025-05-31 00:36:45,016 [INFO] Lectura LTR390
+2025-05-31 00:36:45,020 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:36:48,925 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:36:48,928 [INFO] Datos JSON preparados para envío
+2025-05-31 00:36:49,980 [INFO] Lectura BMP390
+2025-05-31 00:36:50,164 [INFO] Lectura LTR390
+2025-05-31 00:36:50,169 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:36:53,996 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:36:53,998 [INFO] Datos JSON preparados para envío
+2025-05-31 00:36:55,053 [INFO] Lectura BMP390
+2025-05-31 00:36:55,238 [INFO] Lectura LTR390
+2025-05-31 00:36:55,245 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:36:59,101 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:36:59,104 [INFO] Datos JSON preparados para envío
+2025-05-31 00:37:00,162 [INFO] Lectura BMP390
+2025-05-31 00:37:00,342 [INFO] Lectura LTR390
+2025-05-31 00:37:00,348 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:37:04,110 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:37:04,113 [INFO] Datos JSON preparados para envío
+2025-05-31 00:37:05,167 [INFO] Lectura BMP390
+2025-05-31 00:37:05,350 [INFO] Lectura LTR390
+2025-05-31 00:37:05,356 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:37:09,197 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:37:09,198 [INFO] Datos JSON preparados para envío
+2025-05-31 00:37:10,254 [INFO] Lectura BMP390
+2025-05-31 00:37:10,435 [INFO] Lectura LTR390
+2025-05-31 00:37:10,441 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:37:14,249 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:37:14,252 [INFO] Datos JSON preparados para envío
+2025-05-31 00:37:15,308 [INFO] Lectura BMP390
+2025-05-31 00:37:15,491 [INFO] Lectura LTR390
+2025-05-31 00:37:15,497 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:37:19,645 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:37:19,648 [INFO] Datos JSON preparados para envío
+2025-05-31 00:37:20,700 [INFO] Lectura BMP390
+2025-05-31 00:37:20,876 [INFO] Lectura LTR390
+2025-05-31 00:37:20,879 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:37:24,256 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:37:24,259 [INFO] Datos JSON preparados para envío
+2025-05-31 00:37:25,311 [INFO] Lectura BMP390
+2025-05-31 00:37:25,491 [INFO] Lectura LTR390
+2025-05-31 00:37:25,497 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:37:29,478 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:37:29,481 [INFO] Datos JSON preparados para envío
+2025-05-31 00:37:30,534 [INFO] Lectura BMP390
+2025-05-31 00:37:30,714 [INFO] Lectura LTR390
+2025-05-31 00:37:30,722 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:37:34,396 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:37:34,398 [INFO] Datos JSON preparados para envío
+2025-05-31 00:37:35,451 [INFO] Lectura BMP390
+2025-05-31 00:37:35,633 [INFO] Lectura LTR390
+2025-05-31 00:37:35,639 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:37:39,917 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:37:39,920 [INFO] Datos JSON preparados para envío
+2025-05-31 00:37:40,973 [INFO] Lectura BMP390
+2025-05-31 00:37:41,155 [INFO] Lectura LTR390
+2025-05-31 00:37:41,160 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:37:45,142 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:37:45,143 [INFO] Datos JSON preparados para envío
+2025-05-31 00:37:46,194 [INFO] Lectura BMP390
+2025-05-31 00:37:46,372 [INFO] Lectura LTR390
+2025-05-31 00:37:46,378 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:37:50,366 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:37:50,369 [INFO] Datos JSON preparados para envío
+2025-05-31 00:37:51,422 [INFO] Lectura BMP390
+2025-05-31 00:37:51,603 [INFO] Lectura LTR390
+2025-05-31 00:37:51,609 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:37:55,592 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:37:55,596 [INFO] Datos JSON preparados para envío
+2025-05-31 00:37:56,645 [INFO] Lectura BMP390
+2025-05-31 00:37:56,826 [INFO] Lectura LTR390
+2025-05-31 00:37:56,829 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:38:00,504 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:38:00,508 [INFO] Datos JSON preparados para envío
+2025-05-31 00:38:01,562 [INFO] Lectura BMP390
+2025-05-31 00:38:01,742 [INFO] Lectura LTR390
+2025-05-31 00:38:01,749 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:38:06,036 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:38:06,039 [INFO] Datos JSON preparados para envío
+2025-05-31 00:38:07,092 [INFO] Lectura BMP390
+2025-05-31 00:38:07,272 [INFO] Lectura LTR390
+2025-05-31 00:38:07,278 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:38:10,952 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:38:10,955 [INFO] Datos JSON preparados para envío
+2025-05-31 00:38:12,009 [INFO] Lectura BMP390
+2025-05-31 00:38:12,190 [INFO] Lectura LTR390
+2025-05-31 00:38:12,196 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:38:20,008 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:38:20,012 [INFO] Datos JSON preparados para envío
+2025-05-31 00:38:21,065 [INFO] Lectura BMP390
+2025-05-31 00:38:21,241 [INFO] Lectura LTR390
+2025-05-31 00:38:21,244 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:38:24,963 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:38:24,966 [INFO] Datos JSON preparados para envío
+2025-05-31 00:38:26,019 [INFO] Lectura BMP390
+2025-05-31 00:38:26,200 [INFO] Lectura LTR390
+2025-05-31 00:38:26,206 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:38:30,177 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:38:30,182 [INFO] Datos JSON preparados para envío
+2025-05-31 00:38:31,236 [INFO] Lectura BMP390
+2025-05-31 00:38:31,420 [INFO] Lectura LTR390
+2025-05-31 00:38:31,427 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:38:35,099 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:38:35,102 [INFO] Datos JSON preparados para envío
+2025-05-31 00:38:36,155 [INFO] Lectura BMP390
+2025-05-31 00:38:36,335 [INFO] Lectura LTR390
+2025-05-31 00:38:36,341 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:38:39,797 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:38:39,800 [INFO] Datos JSON preparados para envío
+2025-05-31 00:38:40,853 [INFO] Lectura BMP390
+2025-05-31 00:38:41,038 [INFO] Lectura LTR390
+2025-05-31 00:38:41,044 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:38:44,711 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:38:44,713 [INFO] Datos JSON preparados para envío
+2025-05-31 00:38:45,763 [INFO] Lectura BMP390
+2025-05-31 00:38:45,941 [INFO] Lectura LTR390
+2025-05-31 00:38:45,945 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:38:49,672 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:38:49,675 [INFO] Datos JSON preparados para envío
+2025-05-31 00:38:50,728 [INFO] Lectura BMP390
+2025-05-31 00:38:50,908 [INFO] Lectura LTR390
+2025-05-31 00:38:50,915 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:38:54,739 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:38:54,741 [INFO] Datos JSON preparados para envío
+2025-05-31 00:38:55,794 [INFO] Lectura BMP390
+2025-05-31 00:38:55,974 [INFO] Lectura LTR390
+2025-05-31 00:38:55,982 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:39:00,177 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:39:00,180 [INFO] Datos JSON preparados para envío
+2025-05-31 00:39:01,231 [INFO] Lectura BMP390
+2025-05-31 00:39:01,409 [INFO] Lectura LTR390
+2025-05-31 00:39:01,412 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:39:05,679 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:39:05,682 [INFO] Datos JSON preparados para envío
+2025-05-31 00:39:06,735 [INFO] Lectura BMP390
+2025-05-31 00:39:06,915 [INFO] Lectura LTR390
+2025-05-31 00:39:06,920 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:39:10,711 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:39:10,712 [INFO] Datos JSON preparados para envío
+2025-05-31 00:39:11,764 [INFO] Lectura BMP390
+2025-05-31 00:39:11,947 [INFO] Lectura LTR390
+2025-05-31 00:39:11,955 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:39:15,605 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:39:15,608 [INFO] Datos JSON preparados para envío
+2025-05-31 00:39:16,661 [INFO] Lectura BMP390
+2025-05-31 00:39:16,841 [INFO] Lectura LTR390
+2025-05-31 00:39:16,847 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:39:20,317 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:39:20,320 [INFO] Datos JSON preparados para envío
+2025-05-31 00:39:21,371 [INFO] Lectura BMP390
+2025-05-31 00:39:21,546 [INFO] Lectura LTR390
+2025-05-31 00:39:21,549 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:39:24,925 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:39:24,928 [INFO] Datos JSON preparados para envío
+2025-05-31 00:39:25,981 [INFO] Lectura BMP390
+2025-05-31 00:39:26,165 [INFO] Lectura LTR390
+2025-05-31 00:39:26,171 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:39:30,580 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:39:30,583 [INFO] Datos JSON preparados para envío
+2025-05-31 00:39:31,635 [INFO] Lectura BMP390
+2025-05-31 00:39:31,816 [INFO] Lectura LTR390
+2025-05-31 00:39:31,823 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:39:35,058 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:39:35,060 [INFO] Datos JSON preparados para envío
+2025-05-31 00:39:36,112 [INFO] Lectura BMP390
+2025-05-31 00:39:36,292 [INFO] Lectura LTR390
+2025-05-31 00:39:36,298 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:39:40,608 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:39:40,611 [INFO] Datos JSON preparados para envío
+2025-05-31 00:39:41,664 [INFO] Lectura BMP390
+2025-05-31 00:39:41,845 [INFO] Lectura LTR390
+2025-05-31 00:39:41,851 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:39:45,761 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:39:45,762 [INFO] Datos JSON preparados para envío
+2025-05-31 00:39:46,812 [INFO] Lectura BMP390
+2025-05-31 00:39:46,993 [INFO] Lectura LTR390
+2025-05-31 00:39:46,996 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:39:52,123 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:39:52,124 [INFO] Datos JSON preparados para envío
+2025-05-31 00:39:53,177 [INFO] Lectura BMP390
+2025-05-31 00:39:53,357 [INFO] Lectura LTR390
+2025-05-31 00:39:53,365 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:39:56,702 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:39:56,705 [INFO] Datos JSON preparados para envío
+2025-05-31 00:39:57,757 [INFO] Lectura BMP390
+2025-05-31 00:39:57,934 [INFO] Lectura LTR390
+2025-05-31 00:39:57,936 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:40:01,819 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:40:01,822 [INFO] Datos JSON preparados para envío
+2025-05-31 00:40:02,881 [INFO] Lectura BMP390
+2025-05-31 00:40:03,062 [INFO] Lectura LTR390
+2025-05-31 00:40:03,068 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:40:06,781 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:40:06,783 [INFO] Datos JSON preparados para envío
+2025-05-31 00:40:07,836 [INFO] Lectura BMP390
+2025-05-31 00:40:08,016 [INFO] Lectura LTR390
+2025-05-31 00:40:08,022 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:40:11,498 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:40:11,499 [INFO] Datos JSON preparados para envío
+2025-05-31 00:40:12,551 [INFO] Lectura BMP390
+2025-05-31 00:40:12,734 [INFO] Lectura LTR390
+2025-05-31 00:40:12,741 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:40:16,300 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:40:16,303 [INFO] Datos JSON preparados para envío
+2025-05-31 00:40:17,359 [INFO] Lectura BMP390
+2025-05-31 00:40:17,541 [INFO] Lectura LTR390
+2025-05-31 00:40:17,546 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:40:21,303 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:40:21,306 [INFO] Datos JSON preparados para envío
+2025-05-31 00:40:22,360 [INFO] Lectura BMP390
+2025-05-31 00:40:22,542 [INFO] Lectura LTR390
+2025-05-31 00:40:22,546 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:40:25,882 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:40:25,885 [INFO] Datos JSON preparados para envío
+2025-05-31 00:40:26,941 [INFO] Lectura BMP390
+2025-05-31 00:40:27,125 [INFO] Lectura LTR390
+2025-05-31 00:40:27,132 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:40:30,628 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:40:30,631 [INFO] Datos JSON preparados para envío
+2025-05-31 00:40:31,684 [INFO] Lectura BMP390
+2025-05-31 00:40:31,867 [INFO] Lectura LTR390
+2025-05-31 00:40:31,873 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:40:35,935 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:40:35,941 [INFO] Datos JSON preparados para envío
+2025-05-31 00:40:36,992 [INFO] Lectura BMP390
+2025-05-31 00:40:37,173 [INFO] Lectura LTR390
+2025-05-31 00:40:37,179 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:40:40,859 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:40:40,861 [INFO] Datos JSON preparados para envío
+2025-05-31 00:40:41,914 [INFO] Lectura BMP390
+2025-05-31 00:40:42,100 [INFO] Lectura LTR390
+2025-05-31 00:40:42,106 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:40:46,605 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:40:46,607 [INFO] Datos JSON preparados para envío
+2025-05-31 00:40:47,656 [INFO] Lectura BMP390
+2025-05-31 00:40:47,836 [INFO] Lectura LTR390
+2025-05-31 00:40:47,839 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:40:51,501 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:40:51,504 [INFO] Datos JSON preparados para envío
+2025-05-31 00:40:52,559 [INFO] Lectura BMP390
+2025-05-31 00:40:52,739 [INFO] Lectura LTR390
+2025-05-31 00:40:52,746 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:40:57,121 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:40:57,124 [INFO] Datos JSON preparados para envío
+2025-05-31 00:40:58,177 [INFO] Lectura BMP390
+2025-05-31 00:40:58,362 [INFO] Lectura LTR390
+2025-05-31 00:40:58,368 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:41:01,631 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:41:01,634 [INFO] Datos JSON preparados para envío
+2025-05-31 00:41:02,684 [INFO] Lectura BMP390
+2025-05-31 00:41:02,860 [INFO] Lectura LTR390
+2025-05-31 00:41:02,862 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:41:06,945 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:41:06,948 [INFO] Datos JSON preparados para envío
+2025-05-31 00:41:08,001 [INFO] Lectura BMP390
+2025-05-31 00:41:08,181 [INFO] Lectura LTR390
+2025-05-31 00:41:08,187 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:41:12,236 [INFO] 192.168.95.247 - - [31/May/2025 00:41:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-31 00:41:12,432 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:41:12,436 [INFO] Datos JSON preparados para envío
+2025-05-31 00:41:13,489 [INFO] Lectura BMP390
+2025-05-31 00:41:13,671 [INFO] Lectura LTR390
+2025-05-31 00:41:13,677 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:41:16,873 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:41:16,879 [INFO] Datos JSON preparados para envío
+2025-05-31 00:41:17,933 [INFO] Lectura BMP390
+2025-05-31 00:41:18,113 [INFO] Lectura LTR390
+2025-05-31 00:41:18,119 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:41:22,309 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:41:22,312 [INFO] Datos JSON preparados para envío
+2025-05-31 00:41:23,369 [INFO] Lectura BMP390
+2025-05-31 00:41:23,547 [INFO] Lectura LTR390
+2025-05-31 00:41:23,550 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:41:27,833 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:41:27,836 [INFO] Datos JSON preparados para envío
+2025-05-31 00:41:27,960 [INFO] 192.168.95.147 - - [31/May/2025 00:41:27] "GET / HTTP/1.1" 200 -
+2025-05-31 00:41:28,415 [INFO] 192.168.95.147 - - [31/May/2025 00:41:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-31 00:41:28,893 [INFO] Lectura BMP390
+2025-05-31 00:41:29,072 [INFO] Lectura LTR390
+2025-05-31 00:41:29,078 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:41:32,428 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:41:32,431 [INFO] Datos JSON preparados para envío
+2025-05-31 00:41:33,484 [INFO] Lectura BMP390
+2025-05-31 00:41:33,664 [INFO] Lectura LTR390
+2025-05-31 00:41:33,670 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:41:35,509 [INFO] 192.168.95.147 - - [31/May/2025 00:41:35] "GET /datos HTTP/1.1" 200 -
+2025-05-31 00:41:37,254 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:41:37,257 [INFO] Datos JSON preparados para envío
+2025-05-31 00:41:38,309 [INFO] Lectura BMP390
+2025-05-31 00:41:38,489 [INFO] Lectura LTR390
+2025-05-31 00:41:38,500 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:41:42,308 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:41:42,311 [INFO] Datos JSON preparados para envío
+2025-05-31 00:41:43,368 [INFO] Lectura BMP390
+2025-05-31 00:41:43,547 [INFO] Lectura LTR390
+2025-05-31 00:41:43,555 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:41:47,171 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:41:47,173 [INFO] Datos JSON preparados para envío
+2025-05-31 00:41:48,224 [INFO] Lectura BMP390
+2025-05-31 00:41:48,401 [INFO] Lectura LTR390
+2025-05-31 00:41:48,405 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:41:52,291 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:41:52,294 [INFO] Datos JSON preparados para envío
+2025-05-31 00:41:53,346 [INFO] Lectura BMP390
+2025-05-31 00:41:53,525 [INFO] Lectura LTR390
+2025-05-31 00:41:53,530 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:41:57,311 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:41:57,313 [INFO] Datos JSON preparados para envío
+2025-05-31 00:41:58,369 [INFO] Lectura BMP390
+2025-05-31 00:41:58,550 [INFO] Lectura LTR390
+2025-05-31 00:41:58,556 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:42:07,425 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:42:07,428 [INFO] Datos JSON preparados para envío
+2025-05-31 00:42:08,481 [INFO] Lectura BMP390
+2025-05-31 00:42:08,661 [INFO] Lectura LTR390
+2025-05-31 00:42:08,667 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:42:12,028 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:42:12,029 [INFO] Datos JSON preparados para envío
+2025-05-31 00:42:13,079 [INFO] Lectura BMP390
+2025-05-31 00:42:13,256 [INFO] Lectura LTR390
+2025-05-31 00:42:13,260 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:42:17,284 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:42:17,287 [INFO] Datos JSON preparados para envío
+2025-05-31 00:42:18,342 [INFO] Lectura BMP390
+2025-05-31 00:42:18,522 [INFO] Lectura LTR390
+2025-05-31 00:42:18,528 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:42:22,580 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:42:22,583 [INFO] Datos JSON preparados para envío
+2025-05-31 00:42:23,635 [INFO] Lectura BMP390
+2025-05-31 00:42:23,813 [INFO] Lectura LTR390
+2025-05-31 00:42:23,818 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:42:27,995 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:42:27,997 [INFO] Datos JSON preparados para envío
+2025-05-31 00:42:29,054 [INFO] Lectura BMP390
+2025-05-31 00:42:29,234 [INFO] Lectura LTR390
+2025-05-31 00:42:29,240 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:42:33,372 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:42:33,375 [INFO] Datos JSON preparados para envío
+2025-05-31 00:42:34,427 [INFO] Lectura BMP390
+2025-05-31 00:42:34,608 [INFO] Lectura LTR390
+2025-05-31 00:42:34,614 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:42:38,197 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:42:38,201 [INFO] Datos JSON preparados para envío
+2025-05-31 00:42:39,253 [INFO] Lectura BMP390
+2025-05-31 00:42:39,433 [INFO] Lectura LTR390
+2025-05-31 00:42:39,439 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:42:43,047 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:42:43,049 [INFO] Datos JSON preparados para envío
+2025-05-31 00:42:44,102 [INFO] Lectura BMP390
+2025-05-31 00:42:44,283 [INFO] Lectura LTR390
+2025-05-31 00:42:44,289 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:42:47,959 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:42:47,961 [INFO] Datos JSON preparados para envío
+2025-05-31 00:42:49,015 [INFO] Lectura BMP390
+2025-05-31 00:42:49,195 [INFO] Lectura LTR390
+2025-05-31 00:42:49,198 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:42:53,066 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:42:53,069 [INFO] Datos JSON preparados para envío
+2025-05-31 00:42:54,127 [INFO] Lectura BMP390
+2025-05-31 00:42:54,307 [INFO] Lectura LTR390
+2025-05-31 00:42:54,313 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:42:57,684 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:42:57,687 [INFO] Datos JSON preparados para envío
+2025-05-31 00:42:58,740 [INFO] Lectura BMP390
+2025-05-31 00:42:58,923 [INFO] Lectura LTR390
+2025-05-31 00:42:58,929 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:43:02,902 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:43:02,906 [INFO] Datos JSON preparados para envío
+2025-05-31 00:43:03,961 [INFO] Lectura BMP390
+2025-05-31 00:43:04,142 [INFO] Lectura LTR390
+2025-05-31 00:43:04,148 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:43:07,892 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:43:07,895 [INFO] Datos JSON preparados para envío
+2025-05-31 00:43:08,947 [INFO] Lectura BMP390
+2025-05-31 00:43:09,127 [INFO] Lectura LTR390
+2025-05-31 00:43:09,134 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:43:13,224 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:43:13,225 [INFO] Datos JSON preparados para envío
+2025-05-31 00:43:14,275 [INFO] Lectura BMP390
+2025-05-31 00:43:14,457 [INFO] Lectura LTR390
+2025-05-31 00:43:14,462 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:43:18,355 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:43:18,358 [INFO] Datos JSON preparados para envío
+2025-05-31 00:43:19,412 [INFO] Lectura BMP390
+2025-05-31 00:43:19,592 [INFO] Lectura LTR390
+2025-05-31 00:43:19,598 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:43:23,297 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:43:23,300 [INFO] Datos JSON preparados para envío
+2025-05-31 00:43:24,353 [INFO] Lectura BMP390
+2025-05-31 00:43:24,532 [INFO] Lectura LTR390
+2025-05-31 00:43:24,536 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:43:29,424 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:43:29,427 [INFO] Datos JSON preparados para envío
+2025-05-31 00:43:30,480 [INFO] Lectura BMP390
+2025-05-31 00:43:30,660 [INFO] Lectura LTR390
+2025-05-31 00:43:30,666 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:43:34,727 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:43:34,730 [INFO] Datos JSON preparados para envío
+2025-05-31 00:43:35,783 [INFO] Lectura BMP390
+2025-05-31 00:43:35,964 [INFO] Lectura LTR390
+2025-05-31 00:43:35,971 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:43:39,843 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:43:39,846 [INFO] Datos JSON preparados para envío
+2025-05-31 00:43:40,899 [INFO] Lectura BMP390
+2025-05-31 00:43:41,080 [INFO] Lectura LTR390
+2025-05-31 00:43:41,085 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:43:44,654 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:43:44,659 [INFO] Datos JSON preparados para envío
+2025-05-31 00:43:45,713 [INFO] Lectura BMP390
+2025-05-31 00:43:45,896 [INFO] Lectura LTR390
+2025-05-31 00:43:45,902 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:43:49,663 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:43:49,666 [INFO] Datos JSON preparados para envío
+2025-05-31 00:43:50,719 [INFO] Lectura BMP390
+2025-05-31 00:43:50,902 [INFO] Lectura LTR390
+2025-05-31 00:43:50,907 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:43:54,786 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:43:54,790 [INFO] Datos JSON preparados para envío
+2025-05-31 00:43:55,848 [INFO] Lectura BMP390
+2025-05-31 00:43:56,026 [INFO] Lectura LTR390
+2025-05-31 00:43:56,029 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:43:59,392 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:43:59,395 [INFO] Datos JSON preparados para envío
+2025-05-31 00:44:00,451 [INFO] Lectura BMP390
+2025-05-31 00:44:00,634 [INFO] Lectura LTR390
+2025-05-31 00:44:00,640 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:44:04,406 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:44:04,409 [INFO] Datos JSON preparados para envío
+2025-05-31 00:44:05,461 [INFO] Lectura BMP390
+2025-05-31 00:44:05,643 [INFO] Lectura LTR390
+2025-05-31 00:44:05,649 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:44:09,215 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:44:09,218 [INFO] Datos JSON preparados para envío
+2025-05-31 00:44:10,276 [INFO] Lectura BMP390
+2025-05-31 00:44:10,456 [INFO] Lectura LTR390
+2025-05-31 00:44:10,462 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:44:14,637 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:44:14,639 [INFO] Datos JSON preparados para envío
+2025-05-31 00:44:15,699 [INFO] Lectura BMP390
+2025-05-31 00:44:15,880 [INFO] Lectura LTR390
+2025-05-31 00:44:15,887 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:44:20,377 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:44:20,384 [INFO] Datos JSON preparados para envío
+2025-05-31 00:44:21,437 [INFO] Lectura BMP390
+2025-05-31 00:44:21,619 [INFO] Lectura LTR390
+2025-05-31 00:44:21,625 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:44:25,177 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:44:25,180 [INFO] Datos JSON preparados para envío
+2025-05-31 00:44:26,230 [INFO] Lectura BMP390
+2025-05-31 00:44:26,408 [INFO] Lectura LTR390
+2025-05-31 00:44:26,412 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:44:30,287 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:44:30,289 [INFO] Datos JSON preparados para envío
+2025-05-31 00:44:31,342 [INFO] Lectura BMP390
+2025-05-31 00:44:31,523 [INFO] Lectura LTR390
+2025-05-31 00:44:31,529 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:44:36,301 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:44:36,304 [INFO] Datos JSON preparados para envío
+2025-05-31 00:44:37,357 [INFO] Lectura BMP390
+2025-05-31 00:44:37,538 [INFO] Lectura LTR390
+2025-05-31 00:44:37,543 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:44:41,030 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:44:41,033 [INFO] Datos JSON preparados para envío
+2025-05-31 00:44:42,087 [INFO] Lectura BMP390
+2025-05-31 00:44:42,268 [INFO] Lectura LTR390
+2025-05-31 00:44:42,273 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:44:46,150 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:44:46,153 [INFO] Datos JSON preparados para envío
+2025-05-31 00:44:47,205 [INFO] Lectura BMP390
+2025-05-31 00:44:47,385 [INFO] Lectura LTR390
+2025-05-31 00:44:47,391 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:44:51,064 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:44:51,066 [INFO] Datos JSON preparados para envío
+2025-05-31 00:44:52,118 [INFO] Lectura BMP390
+2025-05-31 00:44:52,298 [INFO] Lectura LTR390
+2025-05-31 00:44:52,304 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:44:55,776 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:44:55,779 [INFO] Datos JSON preparados para envío
+2025-05-31 00:44:56,832 [INFO] Lectura BMP390
+2025-05-31 00:44:57,029 [INFO] Lectura LTR390
+2025-05-31 00:44:57,034 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:45:01,946 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:45:01,948 [INFO] Datos JSON preparados para envío
+2025-05-31 00:45:03,004 [INFO] Lectura BMP390
+2025-05-31 00:45:03,186 [INFO] Lectura LTR390
+2025-05-31 00:45:03,189 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:45:06,622 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:45:06,625 [INFO] Datos JSON preparados para envío
+2025-05-31 00:45:07,679 [INFO] Lectura BMP390
+2025-05-31 00:45:07,860 [INFO] Lectura LTR390
+2025-05-31 00:45:07,866 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:45:11,833 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:45:11,836 [INFO] Datos JSON preparados para envío
+2025-05-31 00:45:12,890 [INFO] Lectura BMP390
+2025-05-31 00:45:13,074 [INFO] Lectura LTR390
+2025-05-31 00:45:13,081 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:45:16,660 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:45:16,663 [INFO] Datos JSON preparados para envío
+2025-05-31 00:45:17,723 [INFO] Lectura BMP390
+2025-05-31 00:45:17,903 [INFO] Lectura LTR390
+2025-05-31 00:45:17,910 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:45:21,425 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:45:21,427 [INFO] Datos JSON preparados para envío
+2025-05-31 00:45:22,483 [INFO] Lectura BMP390
+2025-05-31 00:45:22,662 [INFO] Lectura LTR390
+2025-05-31 00:45:22,668 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:45:27,702 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:45:27,703 [INFO] Datos JSON preparados para envío
+2025-05-31 00:45:28,769 [INFO] Lectura BMP390
+2025-05-31 00:45:28,950 [INFO] Lectura LTR390
+2025-05-31 00:45:28,956 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:45:32,942 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:45:32,945 [INFO] Datos JSON preparados para envío
+2025-05-31 00:45:34,000 [INFO] Lectura BMP390
+2025-05-31 00:45:34,182 [INFO] Lectura LTR390
+2025-05-31 00:45:34,188 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:45:38,558 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:45:38,560 [INFO] Datos JSON preparados para envío
+2025-05-31 00:45:39,613 [INFO] Lectura BMP390
+2025-05-31 00:45:39,790 [INFO] Lectura LTR390
+2025-05-31 00:45:39,793 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:45:44,113 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:45:44,116 [INFO] Datos JSON preparados para envío
+2025-05-31 00:45:45,169 [INFO] Lectura BMP390
+2025-05-31 00:45:45,349 [INFO] Lectura LTR390
+2025-05-31 00:45:45,355 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:45:48,953 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:45:48,955 [INFO] Datos JSON preparados para envío
+2025-05-31 00:45:50,006 [INFO] Lectura BMP390
+2025-05-31 00:45:50,188 [INFO] Lectura LTR390
+2025-05-31 00:45:50,195 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:45:54,652 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:45:54,656 [INFO] Datos JSON preparados para envío
+2025-05-31 00:45:55,710 [INFO] Lectura BMP390
+2025-05-31 00:45:55,895 [INFO] Lectura LTR390
+2025-05-31 00:45:55,900 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:45:59,623 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:45:59,626 [INFO] Datos JSON preparados para envío
+2025-05-31 00:46:00,679 [INFO] Lectura BMP390
+2025-05-31 00:46:00,864 [INFO] Lectura LTR390
+2025-05-31 00:46:00,870 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:46:04,633 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:46:04,634 [INFO] Datos JSON preparados para envío
+2025-05-31 00:46:05,687 [INFO] Lectura BMP390
+2025-05-31 00:46:05,867 [INFO] Lectura LTR390
+2025-05-31 00:46:05,873 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:46:09,559 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:46:09,562 [INFO] Datos JSON preparados para envío
+2025-05-31 00:46:10,616 [INFO] Lectura BMP390
+2025-05-31 00:46:10,796 [INFO] Lectura LTR390
+2025-05-31 00:46:10,802 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:46:14,493 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:46:14,498 [INFO] Datos JSON preparados para envío
+2025-05-31 00:46:15,547 [INFO] Lectura BMP390
+2025-05-31 00:46:15,725 [INFO] Lectura LTR390
+2025-05-31 00:46:15,729 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:46:19,643 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:46:19,646 [INFO] Datos JSON preparados para envío
+2025-05-31 00:46:20,703 [INFO] Lectura BMP390
+2025-05-31 00:46:20,883 [INFO] Lectura LTR390
+2025-05-31 00:46:20,889 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:46:25,247 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:46:25,250 [INFO] Datos JSON preparados para envío
+2025-05-31 00:46:26,304 [INFO] Lectura BMP390
+2025-05-31 00:46:26,483 [INFO] Lectura LTR390
+2025-05-31 00:46:26,489 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:46:30,905 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:46:30,908 [INFO] Datos JSON preparados para envío
+2025-05-31 00:46:31,965 [INFO] Lectura BMP390
+2025-05-31 00:46:32,145 [INFO] Lectura LTR390
+2025-05-31 00:46:32,151 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:46:36,334 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:46:36,337 [INFO] Datos JSON preparados para envío
+2025-05-31 00:46:37,393 [INFO] Lectura BMP390
+2025-05-31 00:46:37,572 [INFO] Lectura LTR390
+2025-05-31 00:46:37,579 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:46:41,965 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:46:41,967 [INFO] Datos JSON preparados para envío
+2025-05-31 00:46:43,021 [INFO] Lectura BMP390
+2025-05-31 00:46:43,208 [INFO] Lectura LTR390
+2025-05-31 00:46:43,214 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:46:46,962 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:46:46,964 [INFO] Datos JSON preparados para envío
+2025-05-31 00:46:48,019 [INFO] Lectura BMP390
+2025-05-31 00:46:48,199 [INFO] Lectura LTR390
+2025-05-31 00:46:48,205 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:46:52,324 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:46:52,326 [INFO] Datos JSON preparados para envío
+2025-05-31 00:46:53,377 [INFO] Lectura BMP390
+2025-05-31 00:46:53,560 [INFO] Lectura LTR390
+2025-05-31 00:46:53,567 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:46:57,573 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:46:57,575 [INFO] Datos JSON preparados para envío
+2025-05-31 00:46:58,631 [INFO] Lectura BMP390
+2025-05-31 00:46:58,814 [INFO] Lectura LTR390
+2025-05-31 00:46:58,819 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:47:02,468 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:47:02,476 [INFO] Datos JSON preparados para envío
+2025-05-31 00:47:03,528 [INFO] Lectura BMP390
+2025-05-31 00:47:03,705 [INFO] Lectura LTR390
+2025-05-31 00:47:03,709 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:47:07,316 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:47:07,319 [INFO] Datos JSON preparados para envío
+2025-05-31 00:47:08,376 [INFO] Lectura BMP390
+2025-05-31 00:47:08,559 [INFO] Lectura LTR390
+2025-05-31 00:47:08,565 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:47:12,254 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:47:12,256 [INFO] Datos JSON preparados para envío
+2025-05-31 00:47:13,305 [INFO] Lectura BMP390
+2025-05-31 00:47:13,482 [INFO] Lectura LTR390
+2025-05-31 00:47:13,485 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:47:17,799 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:47:17,802 [INFO] Datos JSON preparados para envío
+2025-05-31 00:47:18,859 [INFO] Lectura BMP390
+2025-05-31 00:47:19,039 [INFO] Lectura LTR390
+2025-05-31 00:47:19,045 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:47:23,030 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:47:23,033 [INFO] Datos JSON preparados para envío
+2025-05-31 00:47:24,086 [INFO] Lectura BMP390
+2025-05-31 00:47:24,266 [INFO] Lectura LTR390
+2025-05-31 00:47:24,272 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:47:28,143 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:47:28,145 [INFO] Datos JSON preparados para envío
+2025-05-31 00:47:29,194 [INFO] Lectura BMP390
+2025-05-31 00:47:29,370 [INFO] Lectura LTR390
+2025-05-31 00:47:29,373 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:47:33,749 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:47:33,752 [INFO] Datos JSON preparados para envío
+2025-05-31 00:47:34,804 [INFO] Lectura BMP390
+2025-05-31 00:47:34,985 [INFO] Lectura LTR390
+2025-05-31 00:47:34,991 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:47:38,791 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:47:38,794 [INFO] Datos JSON preparados para envío
+2025-05-31 00:47:39,848 [INFO] Lectura BMP390
+2025-05-31 00:47:40,025 [INFO] Lectura LTR390
+2025-05-31 00:47:40,028 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:47:44,359 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:47:44,362 [INFO] Datos JSON preparados para envío
+2025-05-31 00:47:45,415 [INFO] Lectura BMP390
+2025-05-31 00:47:45,595 [INFO] Lectura LTR390
+2025-05-31 00:47:45,603 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:47:49,180 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:47:49,183 [INFO] Datos JSON preparados para envío
+2025-05-31 00:47:50,236 [INFO] Lectura BMP390
+2025-05-31 00:47:50,419 [INFO] Lectura LTR390
+2025-05-31 00:47:50,428 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:47:54,537 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:47:54,542 [INFO] Datos JSON preparados para envío
+2025-05-31 00:47:55,596 [INFO] Lectura BMP390
+2025-05-31 00:47:55,845 [INFO] Lectura LTR390
+2025-05-31 00:47:55,848 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:47:59,964 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:47:59,969 [INFO] Datos JSON preparados para envío
+2025-05-31 00:48:01,026 [INFO] Lectura BMP390
+2025-05-31 00:48:01,205 [INFO] Lectura LTR390
+2025-05-31 00:48:01,212 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:48:05,482 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:48:05,484 [INFO] Datos JSON preparados para envío
+2025-05-31 00:48:06,540 [INFO] Lectura BMP390
+2025-05-31 00:48:06,721 [INFO] Lectura LTR390
+2025-05-31 00:48:06,727 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:48:10,512 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:48:10,515 [INFO] Datos JSON preparados para envío
+2025-05-31 00:48:11,567 [INFO] Lectura BMP390
+2025-05-31 00:48:11,752 [INFO] Lectura LTR390
+2025-05-31 00:48:11,758 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:48:15,515 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:48:15,518 [INFO] Datos JSON preparados para envío
+2025-05-31 00:48:16,570 [INFO] Lectura BMP390
+2025-05-31 00:48:16,751 [INFO] Lectura LTR390
+2025-05-31 00:48:16,754 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:48:20,427 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:48:20,430 [INFO] Datos JSON preparados para envío
+2025-05-31 00:48:21,483 [INFO] Lectura BMP390
+2025-05-31 00:48:21,664 [INFO] Lectura LTR390
+2025-05-31 00:48:21,670 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:48:25,761 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:48:25,764 [INFO] Datos JSON preparados para envío
+2025-05-31 00:48:26,816 [INFO] Lectura BMP390
+2025-05-31 00:48:26,996 [INFO] Lectura LTR390
+2025-05-31 00:48:27,001 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:48:30,765 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:48:30,767 [INFO] Datos JSON preparados para envío
+2025-05-31 00:48:31,822 [INFO] Lectura BMP390
+2025-05-31 00:48:32,002 [INFO] Lectura LTR390
+2025-05-31 00:48:32,008 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:48:35,573 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:48:35,578 [INFO] Datos JSON preparados para envío
+2025-05-31 00:48:36,630 [INFO] Lectura BMP390
+2025-05-31 00:48:36,811 [INFO] Lectura LTR390
+2025-05-31 00:48:36,816 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:48:40,585 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:48:40,587 [INFO] Datos JSON preparados para envío
+2025-05-31 00:48:41,642 [INFO] Lectura BMP390
+2025-05-31 00:48:41,819 [INFO] Lectura LTR390
+2025-05-31 00:48:41,823 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:48:45,310 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:48:45,313 [INFO] Datos JSON preparados para envío
+2025-05-31 00:48:46,367 [INFO] Lectura BMP390
+2025-05-31 00:48:46,548 [INFO] Lectura LTR390
+2025-05-31 00:48:46,554 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:48:50,182 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:48:50,185 [INFO] Datos JSON preparados para envío
+2025-05-31 00:48:51,242 [INFO] Lectura BMP390
+2025-05-31 00:48:51,422 [INFO] Lectura LTR390
+2025-05-31 00:48:51,428 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:48:56,319 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:48:56,322 [INFO] Datos JSON preparados para envío
+2025-05-31 00:48:57,376 [INFO] Lectura BMP390
+2025-05-31 00:48:57,556 [INFO] Lectura LTR390
+2025-05-31 00:48:57,562 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:49:01,679 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:49:01,682 [INFO] Datos JSON preparados para envío
+2025-05-31 00:49:02,738 [INFO] Lectura BMP390
+2025-05-31 00:49:02,918 [INFO] Lectura LTR390
+2025-05-31 00:49:02,925 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:49:06,788 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:49:06,790 [INFO] Datos JSON preparados para envío
+2025-05-31 00:49:07,845 [INFO] Lectura BMP390
+2025-05-31 00:49:08,031 [INFO] Lectura LTR390
+2025-05-31 00:49:08,037 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:49:12,733 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:49:12,736 [INFO] Datos JSON preparados para envío
+2025-05-31 00:49:13,790 [INFO] Lectura BMP390
+2025-05-31 00:49:13,972 [INFO] Lectura LTR390
+2025-05-31 00:49:13,977 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:49:18,048 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:49:18,049 [INFO] Datos JSON preparados para envío
+2025-05-31 00:49:19,119 [INFO] Lectura BMP390
+2025-05-31 00:49:19,303 [INFO] Lectura LTR390
+2025-05-31 00:49:19,309 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:49:23,772 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:49:23,779 [INFO] Datos JSON preparados para envío
+2025-05-31 00:49:24,832 [INFO] Lectura BMP390
+2025-05-31 00:49:25,016 [INFO] Lectura LTR390
+2025-05-31 00:49:25,022 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:49:28,275 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:49:28,278 [INFO] Datos JSON preparados para envío
+2025-05-31 00:49:29,328 [INFO] Lectura BMP390
+2025-05-31 00:49:29,508 [INFO] Lectura LTR390
+2025-05-31 00:49:29,511 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:49:33,154 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:49:33,156 [INFO] Datos JSON preparados para envío
+2025-05-31 00:49:34,209 [INFO] Lectura BMP390
+2025-05-31 00:49:34,393 [INFO] Lectura LTR390
+2025-05-31 00:49:34,400 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:49:37,997 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:49:38,000 [INFO] Datos JSON preparados para envío
+2025-05-31 00:49:39,053 [INFO] Lectura BMP390
+2025-05-31 00:49:39,233 [INFO] Lectura LTR390
+2025-05-31 00:49:39,239 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:49:43,521 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:49:43,523 [INFO] Datos JSON preparados para envío
+2025-05-31 00:49:44,575 [INFO] Lectura BMP390
+2025-05-31 00:49:44,762 [INFO] Lectura LTR390
+2025-05-31 00:49:44,768 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:49:49,150 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:49:49,153 [INFO] Datos JSON preparados para envío
+2025-05-31 00:49:50,206 [INFO] Lectura BMP390
+2025-05-31 00:49:50,387 [INFO] Lectura LTR390
+2025-05-31 00:49:50,393 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:49:54,589 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:49:54,592 [INFO] Datos JSON preparados para envío
+2025-05-31 00:49:55,660 [INFO] Lectura BMP390
+2025-05-31 00:49:55,842 [INFO] Lectura LTR390
+2025-05-31 00:49:55,848 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:49:59,179 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:49:59,182 [INFO] Datos JSON preparados para envío
+2025-05-31 00:50:00,235 [INFO] Lectura BMP390
+2025-05-31 00:50:00,418 [INFO] Lectura LTR390
+2025-05-31 00:50:00,424 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:50:03,885 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:50:03,888 [INFO] Datos JSON preparados para envío
+2025-05-31 00:50:04,944 [INFO] Lectura BMP390
+2025-05-31 00:50:05,123 [INFO] Lectura LTR390
+2025-05-31 00:50:05,128 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:50:10,333 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:50:10,336 [INFO] Datos JSON preparados para envío
+2025-05-31 00:50:11,390 [INFO] Lectura BMP390
+2025-05-31 00:50:11,569 [INFO] Lectura LTR390
+2025-05-31 00:50:11,575 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:50:15,348 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:50:15,351 [INFO] Datos JSON preparados para envío
+2025-05-31 00:50:16,409 [INFO] Lectura BMP390
+2025-05-31 00:50:16,591 [INFO] Lectura LTR390
+2025-05-31 00:50:16,597 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:50:20,463 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:50:20,466 [INFO] Datos JSON preparados para envío
+2025-05-31 00:50:21,520 [INFO] Lectura BMP390
+2025-05-31 00:50:21,703 [INFO] Lectura LTR390
+2025-05-31 00:50:21,710 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:50:25,580 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:50:25,583 [INFO] Datos JSON preparados para envío
+2025-05-31 00:50:26,637 [INFO] Lectura BMP390
+2025-05-31 00:50:26,820 [INFO] Lectura LTR390
+2025-05-31 00:50:26,826 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:50:31,013 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:50:31,014 [INFO] Datos JSON preparados para envío
+2025-05-31 00:50:32,070 [INFO] Lectura BMP390
+2025-05-31 00:50:32,252 [INFO] Lectura LTR390
+2025-05-31 00:50:32,258 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:50:36,120 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:50:36,123 [INFO] Datos JSON preparados para envío
+2025-05-31 00:50:37,181 [INFO] Lectura BMP390
+2025-05-31 00:50:37,362 [INFO] Lectura LTR390
+2025-05-31 00:50:37,368 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:50:40,737 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:50:40,740 [INFO] Datos JSON preparados para envío
+2025-05-31 00:50:41,797 [INFO] Lectura BMP390
+2025-05-31 00:50:41,981 [INFO] Lectura LTR390
+2025-05-31 00:50:41,987 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:50:46,561 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:50:46,563 [INFO] Datos JSON preparados para envío
+2025-05-31 00:50:47,616 [INFO] Lectura BMP390
+2025-05-31 00:50:47,795 [INFO] Lectura LTR390
+2025-05-31 00:50:47,802 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:50:52,027 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:50:52,029 [INFO] Datos JSON preparados para envío
+2025-05-31 00:50:53,081 [INFO] Lectura BMP390
+2025-05-31 00:50:53,260 [INFO] Lectura LTR390
+2025-05-31 00:50:53,267 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:50:57,314 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:50:57,317 [INFO] Datos JSON preparados para envío
+2025-05-31 00:50:58,372 [INFO] Lectura BMP390
+2025-05-31 00:50:58,552 [INFO] Lectura LTR390
+2025-05-31 00:50:58,559 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:51:03,138 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:51:03,142 [INFO] Datos JSON preparados para envío
+2025-05-31 00:51:04,194 [INFO] Lectura BMP390
+2025-05-31 00:51:04,380 [INFO] Lectura LTR390
+2025-05-31 00:51:04,386 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:51:07,944 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:51:07,945 [INFO] Datos JSON preparados para envío
+2025-05-31 00:51:08,997 [INFO] Lectura BMP390
+2025-05-31 00:51:09,177 [INFO] Lectura LTR390
+2025-05-31 00:51:09,183 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:51:12,962 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:51:12,964 [INFO] Datos JSON preparados para envío
+2025-05-31 00:51:14,021 [INFO] Lectura BMP390
+2025-05-31 00:51:14,206 [INFO] Lectura LTR390
+2025-05-31 00:51:14,212 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:51:19,224 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:51:19,225 [INFO] Datos JSON preparados para envío
+2025-05-31 00:51:20,279 [INFO] Lectura BMP390
+2025-05-31 00:51:20,455 [INFO] Lectura LTR390
+2025-05-31 00:51:20,458 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:51:24,115 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:51:24,118 [INFO] Datos JSON preparados para envío
+2025-05-31 00:51:25,171 [INFO] Lectura BMP390
+2025-05-31 00:51:25,352 [INFO] Lectura LTR390
+2025-05-31 00:51:25,358 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:51:29,439 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:51:29,442 [INFO] Datos JSON preparados para envío
+2025-05-31 00:51:30,495 [INFO] Lectura BMP390
+2025-05-31 00:51:30,675 [INFO] Lectura LTR390
+2025-05-31 00:51:30,682 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:51:34,174 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:51:34,177 [INFO] Datos JSON preparados para envío
+2025-05-31 00:51:35,231 [INFO] Lectura BMP390
+2025-05-31 00:51:35,411 [INFO] Lectura LTR390
+2025-05-31 00:51:35,418 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:51:39,584 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:51:39,587 [INFO] Datos JSON preparados para envío
+2025-05-31 00:51:40,642 [INFO] Lectura BMP390
+2025-05-31 00:51:40,823 [INFO] Lectura LTR390
+2025-05-31 00:51:40,829 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:51:44,683 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:51:44,685 [INFO] Datos JSON preparados para envío
+2025-05-31 00:51:45,738 [INFO] Lectura BMP390
+2025-05-31 00:51:45,922 [INFO] Lectura LTR390
+2025-05-31 00:51:45,925 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:51:50,331 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:51:50,334 [INFO] Datos JSON preparados para envío
+2025-05-31 00:51:51,386 [INFO] Lectura BMP390
+2025-05-31 00:51:51,569 [INFO] Lectura LTR390
+2025-05-31 00:51:51,575 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:51:56,739 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:51:56,741 [INFO] Datos JSON preparados para envío
+2025-05-31 00:51:57,796 [INFO] Lectura BMP390
+2025-05-31 00:51:57,976 [INFO] Lectura LTR390
+2025-05-31 00:51:57,981 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:52:02,809 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:52:02,813 [INFO] Datos JSON preparados para envío
+2025-05-31 00:52:03,866 [INFO] Lectura BMP390
+2025-05-31 00:52:04,046 [INFO] Lectura LTR390
+2025-05-31 00:52:04,052 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:52:08,014 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:52:08,015 [INFO] Datos JSON preparados para envío
+2025-05-31 00:52:09,068 [INFO] Lectura BMP390
+2025-05-31 00:52:09,249 [INFO] Lectura LTR390
+2025-05-31 00:52:09,252 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:52:14,579 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:52:14,583 [INFO] Datos JSON preparados para envío
+2025-05-31 00:52:15,638 [INFO] Lectura BMP390
+2025-05-31 00:52:15,819 [INFO] Lectura LTR390
+2025-05-31 00:52:15,825 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:52:20,498 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:52:20,499 [INFO] Datos JSON preparados para envío
+2025-05-31 00:52:21,552 [INFO] Lectura BMP390
+2025-05-31 00:52:21,733 [INFO] Lectura LTR390
+2025-05-31 00:52:21,739 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:52:30,326 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:52:30,329 [INFO] Datos JSON preparados para envío
+2025-05-31 00:52:31,381 [INFO] Lectura BMP390
+2025-05-31 00:52:31,561 [INFO] Lectura LTR390
+2025-05-31 00:52:31,567 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:52:36,261 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:52:36,264 [INFO] Datos JSON preparados para envío
+2025-05-31 00:52:37,317 [INFO] Lectura BMP390
+2025-05-31 00:52:37,505 [INFO] Lectura LTR390
+2025-05-31 00:52:37,511 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:52:41,897 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:52:41,900 [INFO] Datos JSON preparados para envío
+2025-05-31 00:52:42,953 [INFO] Lectura BMP390
+2025-05-31 00:52:43,138 [INFO] Lectura LTR390
+2025-05-31 00:52:43,144 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:52:46,799 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:52:46,802 [INFO] Datos JSON preparados para envío
+2025-05-31 00:52:47,854 [INFO] Lectura BMP390
+2025-05-31 00:52:48,034 [INFO] Lectura LTR390
+2025-05-31 00:52:48,040 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:52:52,031 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:52:52,034 [INFO] Datos JSON preparados para envío
+2025-05-31 00:52:53,088 [INFO] Lectura BMP390
+2025-05-31 00:52:53,268 [INFO] Lectura LTR390
+2025-05-31 00:52:53,274 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:52:58,979 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:52:58,982 [INFO] Datos JSON preparados para envío
+2025-05-31 00:53:00,036 [INFO] Lectura BMP390
+2025-05-31 00:53:00,216 [INFO] Lectura LTR390
+2025-05-31 00:53:00,222 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:53:04,096 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:53:04,102 [INFO] Datos JSON preparados para envío
+2025-05-31 00:53:05,154 [INFO] Lectura BMP390
+2025-05-31 00:53:05,334 [INFO] Lectura LTR390
+2025-05-31 00:53:05,340 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:53:10,439 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:53:10,442 [INFO] Datos JSON preparados para envío
+2025-05-31 00:53:11,493 [INFO] Lectura BMP390
+2025-05-31 00:53:11,675 [INFO] Lectura LTR390
+2025-05-31 00:53:11,681 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:53:15,676 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:53:15,679 [INFO] Datos JSON preparados para envío
+2025-05-31 00:53:16,733 [INFO] Lectura BMP390
+2025-05-31 00:53:16,915 [INFO] Lectura LTR390
+2025-05-31 00:53:16,921 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:53:20,363 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:53:20,365 [INFO] Datos JSON preparados para envío
+2025-05-31 00:53:21,416 [INFO] Lectura BMP390
+2025-05-31 00:53:21,604 [INFO] Lectura LTR390
+2025-05-31 00:53:21,608 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:53:25,483 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:53:25,486 [INFO] Datos JSON preparados para envío
+2025-05-31 00:53:26,538 [INFO] Lectura BMP390
+2025-05-31 00:53:26,719 [INFO] Lectura LTR390
+2025-05-31 00:53:26,726 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:53:31,121 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:53:31,124 [INFO] Datos JSON preparados para envío
+2025-05-31 00:53:32,177 [INFO] Lectura BMP390
+2025-05-31 00:53:32,356 [INFO] Lectura LTR390
+2025-05-31 00:53:32,362 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:53:36,996 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:53:36,998 [INFO] Datos JSON preparados para envío
+2025-05-31 00:53:38,052 [INFO] Lectura BMP390
+2025-05-31 00:53:38,232 [INFO] Lectura LTR390
+2025-05-31 00:53:38,238 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:53:42,164 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:53:42,167 [INFO] Datos JSON preparados para envío
+2025-05-31 00:53:43,220 [INFO] Lectura BMP390
+2025-05-31 00:53:43,404 [INFO] Lectura LTR390
+2025-05-31 00:53:43,410 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:53:48,265 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:53:48,268 [INFO] Datos JSON preparados para envío
+2025-05-31 00:53:49,325 [INFO] Lectura BMP390
+2025-05-31 00:53:49,505 [INFO] Lectura LTR390
+2025-05-31 00:53:49,511 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:53:53,317 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:53:53,320 [INFO] Datos JSON preparados para envío
+2025-05-31 00:53:54,373 [INFO] Lectura BMP390
+2025-05-31 00:53:54,553 [INFO] Lectura LTR390
+2025-05-31 00:53:54,560 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:53:58,638 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:53:58,641 [INFO] Datos JSON preparados para envío
+2025-05-31 00:53:59,695 [INFO] Lectura BMP390
+2025-05-31 00:53:59,874 [INFO] Lectura LTR390
+2025-05-31 00:53:59,877 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:54:01,983 [INFO] 192.168.95.147 - - [31/May/2025 00:54:01] "GET /datos HTTP/1.1" 200 -
+2025-05-31 00:54:03,477 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:54:03,481 [INFO] Datos JSON preparados para envío
+2025-05-31 00:54:04,340 [INFO] 192.168.95.147 - - [31/May/2025 00:54:04] "GET /datos HTTP/1.1" 200 -
+2025-05-31 00:54:04,534 [INFO] Lectura BMP390
+2025-05-31 00:54:04,718 [INFO] Lectura LTR390
+2025-05-31 00:54:04,724 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:54:05,090 [INFO] 192.168.95.147 - - [31/May/2025 00:54:05] "GET /datos HTTP/1.1" 200 -
+2025-05-31 00:54:05,680 [INFO] 192.168.95.147 - - [31/May/2025 00:54:05] "GET /datos HTTP/1.1" 200 -
+2025-05-31 00:54:09,185 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:54:09,186 [INFO] Datos JSON preparados para envío
+2025-05-31 00:54:10,236 [INFO] Lectura BMP390
+2025-05-31 00:54:10,416 [INFO] Lectura LTR390
+2025-05-31 00:54:10,419 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:54:14,711 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:54:14,713 [INFO] Datos JSON preparados para envío
+2025-05-31 00:54:15,767 [INFO] Lectura BMP390
+2025-05-31 00:54:15,947 [INFO] Lectura LTR390
+2025-05-31 00:54:15,953 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:54:19,924 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:54:19,927 [INFO] Datos JSON preparados para envío
+2025-05-31 00:54:20,981 [INFO] Lectura BMP390
+2025-05-31 00:54:21,176 [INFO] Lectura LTR390
+2025-05-31 00:54:21,181 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:54:24,938 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:54:24,942 [INFO] Datos JSON preparados para envío
+2025-05-31 00:54:25,995 [INFO] Lectura BMP390
+2025-05-31 00:54:26,174 [INFO] Lectura LTR390
+2025-05-31 00:54:26,180 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:54:30,210 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:54:30,213 [INFO] Datos JSON preparados para envío
+2025-05-31 00:54:31,267 [INFO] Lectura BMP390
+2025-05-31 00:54:31,447 [INFO] Lectura LTR390
+2025-05-31 00:54:31,453 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:54:35,202 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:54:35,203 [INFO] Datos JSON preparados para envío
+2025-05-31 00:54:36,257 [INFO] Lectura BMP390
+2025-05-31 00:54:36,440 [INFO] Lectura LTR390
+2025-05-31 00:54:36,446 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:54:46,898 [ERROR] Error al leer datos climáticos NASA
+2025-05-31 00:54:46,899 [INFO] Datos JSON preparados para envío
+2025-05-31 00:54:47,952 [INFO] Lectura BMP390
+2025-05-31 00:54:48,133 [INFO] Lectura LTR390
+2025-05-31 00:54:48,139 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:54:56,977 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:54:56,979 [INFO] Datos JSON preparados para envío
+2025-05-31 00:54:58,029 [INFO] Lectura BMP390
+2025-05-31 00:54:58,207 [INFO] Lectura LTR390
+2025-05-31 00:54:58,210 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:55:02,905 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:55:02,909 [INFO] Datos JSON preparados para envío
+2025-05-31 00:55:03,962 [INFO] Lectura BMP390
+2025-05-31 00:55:04,142 [INFO] Lectura LTR390
+2025-05-31 00:55:04,149 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:55:07,928 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:55:07,931 [INFO] Datos JSON preparados para envío
+2025-05-31 00:55:08,982 [INFO] Lectura BMP390
+2025-05-31 00:55:09,163 [INFO] Lectura LTR390
+2025-05-31 00:55:09,165 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:55:12,932 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:55:12,936 [INFO] Datos JSON preparados para envío
+2025-05-31 00:55:13,987 [INFO] Lectura BMP390
+2025-05-31 00:55:14,170 [INFO] Lectura LTR390
+2025-05-31 00:55:14,177 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:55:17,742 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:55:17,745 [INFO] Datos JSON preparados para envío
+2025-05-31 00:55:18,797 [INFO] Lectura BMP390
+2025-05-31 00:55:18,977 [INFO] Lectura LTR390
+2025-05-31 00:55:18,983 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:55:23,061 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:55:23,063 [INFO] Datos JSON preparados para envío
+2025-05-31 00:55:24,114 [INFO] Lectura BMP390
+2025-05-31 00:55:24,292 [INFO] Lectura LTR390
+2025-05-31 00:55:24,295 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:55:28,384 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:55:28,387 [INFO] Datos JSON preparados para envío
+2025-05-31 00:55:29,441 [INFO] Lectura BMP390
+2025-05-31 00:55:29,621 [INFO] Lectura LTR390
+2025-05-31 00:55:29,628 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:55:33,309 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:55:33,312 [INFO] Datos JSON preparados para envío
+2025-05-31 00:55:34,362 [INFO] Lectura BMP390
+2025-05-31 00:55:34,538 [INFO] Lectura LTR390
+2025-05-31 00:55:34,541 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:55:38,924 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:55:38,927 [INFO] Datos JSON preparados para envío
+2025-05-31 00:55:39,980 [INFO] Lectura BMP390
+2025-05-31 00:55:40,160 [INFO] Lectura LTR390
+2025-05-31 00:55:40,165 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:55:44,640 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:55:44,643 [INFO] Datos JSON preparados para envío
+2025-05-31 00:55:45,696 [INFO] Lectura BMP390
+2025-05-31 00:55:45,877 [INFO] Lectura LTR390
+2025-05-31 00:55:45,883 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:55:49,604 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:55:49,608 [INFO] Datos JSON preparados para envío
+2025-05-31 00:55:50,660 [INFO] Lectura BMP390
+2025-05-31 00:55:50,842 [INFO] Lectura LTR390
+2025-05-31 00:55:50,849 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:55:54,580 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:55:54,581 [INFO] Datos JSON preparados para envío
+2025-05-31 00:55:55,633 [INFO] Lectura BMP390
+2025-05-31 00:55:55,818 [INFO] Lectura LTR390
+2025-05-31 00:55:55,824 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:55:59,913 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:55:59,914 [INFO] Datos JSON preparados para envío
+2025-05-31 00:56:00,968 [INFO] Lectura BMP390
+2025-05-31 00:56:01,149 [INFO] Lectura LTR390
+2025-05-31 00:56:01,151 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:56:05,429 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:56:05,436 [INFO] Datos JSON preparados para envío
+2025-05-31 00:56:06,490 [INFO] Lectura BMP390
+2025-05-31 00:56:06,669 [INFO] Lectura LTR390
+2025-05-31 00:56:06,675 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:56:10,444 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:56:10,446 [INFO] Datos JSON preparados para envío
+2025-05-31 00:56:11,499 [INFO] Lectura BMP390
+2025-05-31 00:56:11,675 [INFO] Lectura LTR390
+2025-05-31 00:56:11,678 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:56:15,560 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:56:15,563 [INFO] Datos JSON preparados para envío
+2025-05-31 00:56:16,616 [INFO] Lectura BMP390
+2025-05-31 00:56:16,799 [INFO] Lectura LTR390
+2025-05-31 00:56:16,805 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:56:20,690 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:56:20,693 [INFO] Datos JSON preparados para envío
+2025-05-31 00:56:21,748 [INFO] Lectura BMP390
+2025-05-31 00:56:21,931 [INFO] Lectura LTR390
+2025-05-31 00:56:21,938 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:56:26,203 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:56:26,206 [INFO] Datos JSON preparados para envío
+2025-05-31 00:56:27,257 [INFO] Lectura BMP390
+2025-05-31 00:56:27,441 [INFO] Lectura LTR390
+2025-05-31 00:56:27,447 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:56:31,115 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:56:31,118 [INFO] Datos JSON preparados para envío
+2025-05-31 00:56:32,170 [INFO] Lectura BMP390
+2025-05-31 00:56:32,352 [INFO] Lectura LTR390
+2025-05-31 00:56:32,358 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:56:36,432 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:56:36,433 [INFO] Datos JSON preparados para envío
+2025-05-31 00:56:37,487 [INFO] Lectura BMP390
+2025-05-31 00:56:37,668 [INFO] Lectura LTR390
+2025-05-31 00:56:37,675 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:56:41,147 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:56:41,149 [INFO] Datos JSON preparados para envío
+2025-05-31 00:56:42,202 [INFO] Lectura BMP390
+2025-05-31 00:56:42,383 [INFO] Lectura LTR390
+2025-05-31 00:56:42,389 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:56:46,158 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:56:46,161 [INFO] Datos JSON preparados para envío
+2025-05-31 00:56:47,222 [INFO] Lectura BMP390
+2025-05-31 00:56:47,400 [INFO] Lectura LTR390
+2025-05-31 00:56:47,405 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:56:51,070 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:56:51,073 [INFO] Datos JSON preparados para envío
+2025-05-31 00:56:52,125 [INFO] Lectura BMP390
+2025-05-31 00:56:52,307 [INFO] Lectura LTR390
+2025-05-31 00:56:52,313 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:56:55,983 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:56:55,986 [INFO] Datos JSON preparados para envío
+2025-05-31 00:56:57,040 [INFO] Lectura BMP390
+2025-05-31 00:56:57,220 [INFO] Lectura LTR390
+2025-05-31 00:56:57,227 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:57:00,900 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:57:00,902 [INFO] Datos JSON preparados para envío
+2025-05-31 00:57:01,954 [INFO] Lectura BMP390
+2025-05-31 00:57:02,137 [INFO] Lectura LTR390
+2025-05-31 00:57:02,143 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:57:06,225 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:57:06,228 [INFO] Datos JSON preparados para envío
+2025-05-31 00:57:07,282 [INFO] Lectura BMP390
+2025-05-31 00:57:07,464 [INFO] Lectura LTR390
+2025-05-31 00:57:07,470 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:57:11,236 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:57:11,242 [INFO] Datos JSON preparados para envío
+2025-05-31 00:57:12,293 [INFO] Lectura BMP390
+2025-05-31 00:57:12,473 [INFO] Lectura LTR390
+2025-05-31 00:57:12,476 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:57:16,960 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:57:16,963 [INFO] Datos JSON preparados para envío
+2025-05-31 00:57:18,014 [INFO] Lectura BMP390
+2025-05-31 00:57:18,194 [INFO] Lectura LTR390
+2025-05-31 00:57:18,201 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:57:21,770 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:57:21,773 [INFO] Datos JSON preparados para envío
+2025-05-31 00:57:22,825 [INFO] Lectura BMP390
+2025-05-31 00:57:23,005 [INFO] Lectura LTR390
+2025-05-31 00:57:23,011 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:57:26,987 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:57:26,989 [INFO] Datos JSON preparados para envío
+2025-05-31 00:57:28,045 [INFO] Lectura BMP390
+2025-05-31 00:57:28,226 [INFO] Lectura LTR390
+2025-05-31 00:57:28,232 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:57:32,516 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:57:32,519 [INFO] Datos JSON preparados para envío
+2025-05-31 00:57:33,576 [INFO] Lectura BMP390
+2025-05-31 00:57:33,757 [INFO] Lectura LTR390
+2025-05-31 00:57:33,763 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:57:38,003 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:57:38,005 [INFO] Datos JSON preparados para envío
+2025-05-31 00:57:39,055 [INFO] Lectura BMP390
+2025-05-31 00:57:39,231 [INFO] Lectura LTR390
+2025-05-31 00:57:39,234 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:57:43,056 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:57:43,058 [INFO] Datos JSON preparados para envío
+2025-05-31 00:57:44,111 [INFO] Lectura BMP390
+2025-05-31 00:57:44,293 [INFO] Lectura LTR390
+2025-05-31 00:57:44,299 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:57:48,272 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:57:48,273 [INFO] Datos JSON preparados para envío
+2025-05-31 00:57:49,325 [INFO] Lectura BMP390
+2025-05-31 00:57:49,502 [INFO] Lectura LTR390
+2025-05-31 00:57:49,505 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:57:53,189 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:57:53,192 [INFO] Datos JSON preparados para envío
+2025-05-31 00:57:54,245 [INFO] Lectura BMP390
+2025-05-31 00:57:54,425 [INFO] Lectura LTR390
+2025-05-31 00:57:54,431 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:57:58,201 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:57:58,204 [INFO] Datos JSON preparados para envío
+2025-05-31 00:57:59,258 [INFO] Lectura BMP390
+2025-05-31 00:57:59,441 [INFO] Lectura LTR390
+2025-05-31 00:57:59,446 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:58:03,418 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:58:03,421 [INFO] Datos JSON preparados para envío
+2025-05-31 00:58:04,474 [INFO] Lectura BMP390
+2025-05-31 00:58:04,650 [INFO] Lectura LTR390
+2025-05-31 00:58:04,653 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:58:08,401 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:58:08,404 [INFO] Datos JSON preparados para envío
+2025-05-31 00:58:09,459 [INFO] Lectura BMP390
+2025-05-31 00:58:09,644 [INFO] Lectura LTR390
+2025-05-31 00:58:09,650 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:58:14,270 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:58:14,273 [INFO] Datos JSON preparados para envío
+2025-05-31 00:58:15,326 [INFO] Lectura BMP390
+2025-05-31 00:58:15,506 [INFO] Lectura LTR390
+2025-05-31 00:58:15,512 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:58:19,485 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:58:19,488 [INFO] Datos JSON preparados para envío
+2025-05-31 00:58:20,540 [INFO] Lectura BMP390
+2025-05-31 00:58:20,721 [INFO] Lectura LTR390
+2025-05-31 00:58:20,726 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:58:25,573 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:58:25,575 [INFO] Datos JSON preparados para envío
+2025-05-31 00:58:26,635 [INFO] Lectura BMP390
+2025-05-31 00:58:26,818 [INFO] Lectura LTR390
+2025-05-31 00:58:26,824 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:58:30,026 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:58:30,029 [INFO] Datos JSON preparados para envío
+2025-05-31 00:58:31,083 [INFO] Lectura BMP390
+2025-05-31 00:58:31,264 [INFO] Lectura LTR390
+2025-05-31 00:58:31,270 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:58:34,959 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:58:34,962 [INFO] Datos JSON preparados para envío
+2025-05-31 00:58:36,015 [INFO] Lectura BMP390
+2025-05-31 00:58:36,195 [INFO] Lectura LTR390
+2025-05-31 00:58:36,201 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:58:40,978 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:58:40,981 [INFO] Datos JSON preparados para envío
+2025-05-31 00:58:42,035 [INFO] Lectura BMP390
+2025-05-31 00:58:42,219 [INFO] Lectura LTR390
+2025-05-31 00:58:42,226 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:58:46,197 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:58:46,200 [INFO] Datos JSON preparados para envío
+2025-05-31 00:58:47,255 [INFO] Lectura BMP390
+2025-05-31 00:58:47,435 [INFO] Lectura LTR390
+2025-05-31 00:58:47,441 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:58:51,324 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:58:51,327 [INFO] Datos JSON preparados para envío
+2025-05-31 00:58:52,379 [INFO] Lectura BMP390
+2025-05-31 00:58:52,559 [INFO] Lectura LTR390
+2025-05-31 00:58:52,566 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:58:56,532 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:58:56,535 [INFO] Datos JSON preparados para envío
+2025-05-31 00:58:57,590 [INFO] Lectura BMP390
+2025-05-31 00:58:57,771 [INFO] Lectura LTR390
+2025-05-31 00:58:57,778 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:59:06,470 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:59:06,473 [INFO] Datos JSON preparados para envío
+2025-05-31 00:59:07,528 [INFO] Lectura BMP390
+2025-05-31 00:59:07,708 [INFO] Lectura LTR390
+2025-05-31 00:59:07,715 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:59:11,483 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:59:11,484 [INFO] Datos JSON preparados para envío
+2025-05-31 00:59:12,537 [INFO] Lectura BMP390
+2025-05-31 00:59:12,719 [INFO] Lectura LTR390
+2025-05-31 00:59:12,722 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:59:17,471 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:59:17,476 [INFO] Datos JSON preparados para envío
+2025-05-31 00:59:18,533 [INFO] Lectura BMP390
+2025-05-31 00:59:18,718 [INFO] Lectura LTR390
+2025-05-31 00:59:18,724 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:59:23,273 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:59:23,275 [INFO] Datos JSON preparados para envío
+2025-05-31 00:59:24,331 [INFO] Lectura BMP390
+2025-05-31 00:59:24,511 [INFO] Lectura LTR390
+2025-05-31 00:59:24,514 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:59:29,237 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:59:29,240 [INFO] Datos JSON preparados para envío
+2025-05-31 00:59:30,295 [INFO] Lectura BMP390
+2025-05-31 00:59:30,475 [INFO] Lectura LTR390
+2025-05-31 00:59:30,478 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:59:34,294 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:59:34,295 [INFO] Datos JSON preparados para envío
+2025-05-31 00:59:35,349 [INFO] Lectura BMP390
+2025-05-31 00:59:35,534 [INFO] Lectura LTR390
+2025-05-31 00:59:35,541 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:59:39,382 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:59:39,383 [INFO] Datos JSON preparados para envío
+2025-05-31 00:59:40,436 [INFO] Lectura BMP390
+2025-05-31 00:59:40,615 [INFO] Lectura LTR390
+2025-05-31 00:59:40,621 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:59:44,227 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:59:44,230 [INFO] Datos JSON preparados para envío
+2025-05-31 00:59:45,283 [INFO] Lectura BMP390
+2025-05-31 00:59:45,466 [INFO] Lectura LTR390
+2025-05-31 00:59:45,472 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:59:49,143 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:59:49,146 [INFO] Datos JSON preparados para envío
+2025-05-31 00:59:50,197 [INFO] Lectura BMP390
+2025-05-31 00:59:50,374 [INFO] Lectura LTR390
+2025-05-31 00:59:50,377 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:59:54,572 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:59:54,575 [INFO] Datos JSON preparados para envío
+2025-05-31 00:59:55,627 [INFO] Lectura BMP390
+2025-05-31 00:59:55,812 [INFO] Lectura LTR390
+2025-05-31 00:59:55,820 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 00:59:59,452 [INFO] Lectura datos climáticos NASA
+2025-05-31 00:59:59,456 [INFO] Datos JSON preparados para envío
+2025-05-31 01:00:00,508 [INFO] Lectura BMP390
+2025-05-31 01:00:00,689 [INFO] Lectura LTR390
+2025-05-31 01:00:00,694 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 01:00:04,380 [INFO] Lectura datos climáticos NASA
+2025-05-31 01:00:04,383 [INFO] Datos JSON preparados para envío
+2025-05-31 01:00:05,440 [INFO] Lectura BMP390
+2025-05-31 01:00:05,617 [INFO] Lectura LTR390
+2025-05-31 01:00:05,619 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 01:00:09,478 [INFO] Lectura datos climáticos NASA
+2025-05-31 01:00:09,482 [INFO] Datos JSON preparados para envío
+2025-05-31 01:00:10,540 [INFO] Lectura BMP390
+2025-05-31 01:00:10,720 [INFO] Lectura LTR390
+2025-05-31 01:00:10,726 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 01:00:14,965 [INFO] Lectura datos climáticos NASA
+2025-05-31 01:00:14,966 [INFO] Datos JSON preparados para envío
+2025-05-31 01:00:16,025 [INFO] Lectura BMP390
+2025-05-31 01:00:16,205 [INFO] Lectura LTR390
+2025-05-31 01:00:16,211 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 01:00:20,105 [INFO] Lectura datos climáticos NASA
+2025-05-31 01:00:20,108 [INFO] Datos JSON preparados para envío
+2025-05-31 01:00:21,164 [INFO] Lectura BMP390
+2025-05-31 01:00:21,348 [INFO] Lectura LTR390
+2025-05-31 01:00:21,354 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 01:00:25,954 [INFO] Lectura datos climáticos NASA
+2025-05-31 01:00:25,956 [INFO] Datos JSON preparados para envío
+2025-05-31 01:00:27,007 [INFO] Lectura BMP390
+2025-05-31 01:00:27,188 [INFO] Lectura LTR390
+2025-05-31 01:00:27,192 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 01:00:31,019 [INFO] Lectura datos climáticos NASA
+2025-05-31 01:00:31,023 [INFO] Datos JSON preparados para envío
+2025-05-31 01:00:32,078 [INFO] Lectura BMP390
+2025-05-31 01:00:32,259 [INFO] Lectura LTR390
+2025-05-31 01:00:32,265 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 01:00:35,538 [INFO] Lectura datos climáticos NASA
+2025-05-31 01:00:35,541 [INFO] Datos JSON preparados para envío
+2025-05-31 01:00:36,596 [INFO] Lectura BMP390
+2025-05-31 01:00:36,779 [INFO] Lectura LTR390
+2025-05-31 01:00:36,785 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 01:00:40,765 [INFO] Lectura datos climáticos NASA
+2025-05-31 01:00:40,767 [INFO] Datos JSON preparados para envío
+2025-05-31 01:00:41,820 [INFO] Lectura BMP390
+2025-05-31 01:00:42,001 [INFO] Lectura LTR390
+2025-05-31 01:00:42,006 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 01:00:46,159 [INFO] Lectura datos climáticos NASA
+2025-05-31 01:00:46,162 [INFO] Datos JSON preparados para envío
+2025-05-31 01:00:47,216 [INFO] Lectura BMP390
+2025-05-31 01:00:47,399 [INFO] Lectura LTR390
+2025-05-31 01:00:47,405 [INFO] Lectura desde ESP32-S3 por serial
+2025-05-31 01:00:51,491 [INFO] Lectura datos climáticos NASA
+2025-05-31 01:00:51,493 [INFO] Datos JSON preparados para envío
+2025-05-31 01:00:52,545 [INFO] Lectura BMP390
+2025-05-31 01:00:52,730 [INFO] Lectura LTR390
+2025-05-31 01:00:52,736 [INFO] Lectura desde ESP32-S3 por serial

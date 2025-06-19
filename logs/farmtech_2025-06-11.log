@@ -1,0 +1,1753 @@
+2025-06-11 22:22:19,226 [INFO] Inicio del sistema
+2025-06-11 22:22:20,920 [INFO] Lectura BMP390
+2025-06-11 22:22:21,131 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://127.0.0.1:8080
+2025-06-11 22:22:21,133 [INFO] [33mPress CTRL+C to quit[0m
+2025-06-11 22:22:21,176 [INFO] Lectura LTR390
+2025-06-11 22:22:21,189 [WARNING] Lectura serial fallida o formato incorrecto
+2025-06-11 22:22:21,203 [ERROR] Error al leer sensor suelo
+2025-06-11 22:22:25,586 [INFO] Subiendo servo
+2025-06-11 22:22:25,604 [INFO] 192.168.95.222 - - [11/Jun/2025 22:22:25] "POST /mover HTTP/1.1" 200 -
+2025-06-11 22:22:25,687 [INFO] Subiendo servo
+2025-06-11 22:22:25,765 [INFO] 192.168.95.222 - - [11/Jun/2025 22:22:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 22:22:25,788 [INFO] Subiendo servo
+2025-06-11 22:22:25,889 [INFO] Subiendo servo
+2025-06-11 22:22:25,989 [INFO] Subiendo servo
+2025-06-11 22:22:26,090 [INFO] Subiendo servo
+2025-06-11 22:22:26,191 [INFO] Subiendo servo
+2025-06-11 22:22:26,292 [INFO] Subiendo servo
+2025-06-11 22:22:26,392 [INFO] Subiendo servo
+2025-06-11 22:22:26,493 [INFO] Subiendo servo
+2025-06-11 22:22:26,593 [INFO] Subiendo servo
+2025-06-11 22:22:26,694 [INFO] Subiendo servo
+2025-06-11 22:22:26,795 [INFO] Subiendo servo
+2025-06-11 22:22:26,895 [INFO] Subiendo servo
+2025-06-11 22:22:26,996 [INFO] Subiendo servo
+2025-06-11 22:22:27,097 [INFO] Subiendo servo
+2025-06-11 22:22:27,198 [INFO] Subiendo servo
+2025-06-11 22:22:27,298 [INFO] Subiendo servo
+2025-06-11 22:22:27,399 [INFO] Subiendo servo
+2025-06-11 22:22:27,500 [INFO] Subiendo servo
+2025-06-11 22:22:27,600 [INFO] Subiendo servo
+2025-06-11 22:22:27,701 [INFO] Subiendo servo
+2025-06-11 22:22:27,802 [INFO] Subiendo servo
+2025-06-11 22:22:27,903 [INFO] Subiendo servo
+2025-06-11 22:22:28,003 [INFO] Subiendo servo
+2025-06-11 22:22:28,104 [INFO] Subiendo servo
+2025-06-11 22:22:28,205 [INFO] Subiendo servo
+2025-06-11 22:22:28,305 [INFO] Subiendo servo
+2025-06-11 22:22:28,406 [INFO] Subiendo servo
+2025-06-11 22:22:28,507 [INFO] Subiendo servo
+2025-06-11 22:22:28,607 [INFO] Subiendo servo
+2025-06-11 22:22:28,708 [INFO] Subiendo servo
+2025-06-11 22:22:28,809 [INFO] Subiendo servo
+2025-06-11 22:22:28,909 [INFO] Subiendo servo
+2025-06-11 22:22:29,010 [INFO] Subiendo servo
+2025-06-11 22:22:29,111 [INFO] Subiendo servo
+2025-06-11 22:22:29,211 [INFO] Subiendo servo
+2025-06-11 22:22:29,312 [INFO] Subiendo servo
+2025-06-11 22:22:29,361 [INFO] Lectura datos climáticos NASA
+2025-06-11 22:22:29,363 [INFO] Datos JSON preparados para envío
+2025-06-11 22:22:29,413 [INFO] Subiendo servo
+2025-06-11 22:22:29,513 [INFO] Subiendo servo
+2025-06-11 22:22:29,614 [INFO] Subiendo servo
+2025-06-11 22:22:29,715 [INFO] Subiendo servo
+2025-06-11 22:22:29,815 [INFO] Subiendo servo
+2025-06-11 22:22:29,852 [INFO] 192.168.95.222 - - [11/Jun/2025 22:22:29] "GET / HTTP/1.1" 200 -
+2025-06-11 22:22:29,916 [INFO] Subiendo servo
+2025-06-11 22:22:30,017 [INFO] Subiendo servo
+2025-06-11 22:22:30,117 [INFO] Subiendo servo
+2025-06-11 22:22:30,218 [INFO] Subiendo servo
+2025-06-11 22:22:30,319 [INFO] Subiendo servo
+2025-06-11 22:22:30,413 [INFO] Lectura BMP390
+2025-06-11 22:22:30,419 [INFO] Subiendo servo
+2025-06-11 22:22:30,520 [INFO] Subiendo servo
+2025-06-11 22:22:30,589 [INFO] Lectura LTR390
+2025-06-11 22:22:30,592 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-11 22:22:30,606 [INFO] Lectura sensor suelo
+2025-06-11 22:22:30,621 [INFO] Subiendo servo
+2025-06-11 22:22:30,721 [INFO] Subiendo servo
+2025-06-11 22:22:30,822 [INFO] Subiendo servo
+2025-06-11 22:22:30,923 [INFO] Subiendo servo
+2025-06-11 22:22:31,023 [INFO] Subiendo servo
+2025-06-11 22:22:31,124 [INFO] Subiendo servo
+2025-06-11 22:22:31,225 [INFO] Subiendo servo
+2025-06-11 22:22:31,325 [INFO] Subiendo servo
+2025-06-11 22:22:31,426 [INFO] Subiendo servo
+2025-06-11 22:22:31,527 [INFO] Subiendo servo
+2025-06-11 22:22:31,627 [INFO] Subiendo servo
+2025-06-11 22:22:31,728 [INFO] Subiendo servo
+2025-06-11 22:22:31,829 [INFO] Subiendo servo
+2025-06-11 22:22:31,929 [INFO] Subiendo servo
+2025-06-11 22:22:32,030 [INFO] Subiendo servo
+2025-06-11 22:22:32,131 [INFO] Subiendo servo
+2025-06-11 22:22:32,231 [INFO] Subiendo servo
+2025-06-11 22:22:32,332 [INFO] Subiendo servo
+2025-06-11 22:22:32,432 [INFO] Subiendo servo
+2025-06-11 22:22:32,945 [INFO] 192.168.95.222 - - [11/Jun/2025 22:22:32] "POST /mover HTTP/1.1" 200 -
+2025-06-11 22:22:32,945 [INFO] Subiendo servo
+2025-06-11 22:22:33,046 [INFO] Subiendo servo
+2025-06-11 22:22:33,147 [INFO] Subiendo servo
+2025-06-11 22:22:33,248 [INFO] Subiendo servo
+2025-06-11 22:22:33,348 [INFO] Subiendo servo
+2025-06-11 22:22:33,449 [INFO] Subiendo servo
+2025-06-11 22:22:33,549 [INFO] Subiendo servo
+2025-06-11 22:22:33,650 [INFO] Subiendo servo
+2025-06-11 22:22:33,750 [INFO] Subiendo servo
+2025-06-11 22:22:33,851 [INFO] Subiendo servo
+2025-06-11 22:22:33,952 [INFO] Subiendo servo
+2025-06-11 22:22:34,053 [INFO] Subiendo servo
+2025-06-11 22:22:34,143 [INFO] Lectura datos climáticos NASA
+2025-06-11 22:22:34,145 [INFO] Datos JSON preparados para envío
+2025-06-11 22:22:34,154 [INFO] Subiendo servo
+2025-06-11 22:22:34,255 [INFO] Subiendo servo
+2025-06-11 22:22:34,355 [INFO] Subiendo servo
+2025-06-11 22:22:34,456 [INFO] Subiendo servo
+2025-06-11 22:22:34,557 [INFO] Subiendo servo
+2025-06-11 22:22:34,657 [INFO] Subiendo servo
+2025-06-11 22:22:34,758 [INFO] Subiendo servo
+2025-06-11 22:22:34,848 [INFO] 192.168.95.222 - - [11/Jun/2025 22:22:34] "GET / HTTP/1.1" 200 -
+2025-06-11 22:22:34,859 [INFO] Subiendo servo
+2025-06-11 22:22:34,960 [INFO] Subiendo servo
+2025-06-11 22:22:35,061 [INFO] Subiendo servo
+2025-06-11 22:22:35,161 [INFO] Subiendo servo
+2025-06-11 22:22:35,195 [INFO] Lectura BMP390
+2025-06-11 22:22:35,262 [INFO] Subiendo servo
+2025-06-11 22:22:35,363 [INFO] Subiendo servo
+2025-06-11 22:22:35,371 [INFO] Lectura LTR390
+2025-06-11 22:22:35,374 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-11 22:22:35,388 [INFO] Lectura sensor suelo
+2025-06-11 22:22:35,463 [INFO] Subiendo servo
+2025-06-11 22:22:35,564 [INFO] Subiendo servo
+2025-06-11 22:22:35,665 [INFO] Subiendo servo
+2025-06-11 22:22:35,765 [INFO] Subiendo servo
+2025-06-11 22:22:35,866 [INFO] Subiendo servo
+2025-06-11 22:22:35,967 [INFO] Subiendo servo
+2025-06-11 22:22:36,068 [INFO] Subiendo servo
+2025-06-11 22:22:36,168 [INFO] Subiendo servo
+2025-06-11 22:22:36,269 [INFO] Subiendo servo
+2025-06-11 22:22:36,370 [INFO] Subiendo servo
+2025-06-11 22:22:36,470 [INFO] Subiendo servo
+2025-06-11 22:22:36,571 [INFO] Subiendo servo
+2025-06-11 22:22:36,672 [INFO] Subiendo servo
+2025-06-11 22:22:36,772 [INFO] Subiendo servo
+2025-06-11 22:22:36,873 [INFO] Subiendo servo
+2025-06-11 22:22:36,877 [INFO] 192.168.95.222 - - [11/Jun/2025 22:22:36] "GET / HTTP/1.1" 200 -
+2025-06-11 22:22:36,974 [INFO] Subiendo servo
+2025-06-11 22:22:37,074 [INFO] Subiendo servo
+2025-06-11 22:22:37,175 [INFO] Subiendo servo
+2025-06-11 22:22:37,276 [INFO] Subiendo servo
+2025-06-11 22:22:37,376 [INFO] Subiendo servo
+2025-06-11 22:22:37,477 [INFO] Subiendo servo
+2025-06-11 22:22:37,577 [INFO] Subiendo servo
+2025-06-11 22:22:37,678 [INFO] Subiendo servo
+2025-06-11 22:22:37,779 [INFO] Subiendo servo
+2025-06-11 22:22:37,879 [INFO] Subiendo servo
+2025-06-11 22:22:37,980 [INFO] Subiendo servo
+2025-06-11 22:22:38,080 [INFO] Subiendo servo
+2025-06-11 22:22:38,181 [INFO] Subiendo servo
+2025-06-11 22:22:38,282 [INFO] Subiendo servo
+2025-06-11 22:22:38,382 [INFO] Subiendo servo
+2025-06-11 22:22:38,917 [INFO] 192.168.95.222 - - [11/Jun/2025 22:22:38] "POST /mover HTTP/1.1" 200 -
+2025-06-11 22:22:38,918 [INFO] Bajando servo
+2025-06-11 22:22:39,019 [INFO] Bajando servo
+2025-06-11 22:22:39,112 [INFO] Lectura datos climáticos NASA
+2025-06-11 22:22:39,114 [INFO] Datos JSON preparados para envío
+2025-06-11 22:22:39,120 [INFO] Bajando servo
+2025-06-11 22:22:39,220 [INFO] Bajando servo
+2025-06-11 22:22:39,321 [INFO] Bajando servo
+2025-06-11 22:22:39,421 [INFO] Bajando servo
+2025-06-11 22:22:39,522 [INFO] Bajando servo
+2025-06-11 22:22:39,623 [INFO] Bajando servo
+2025-06-11 22:22:39,723 [INFO] Bajando servo
+2025-06-11 22:22:39,824 [INFO] Bajando servo
+2025-06-11 22:22:39,924 [INFO] Bajando servo
+2025-06-11 22:22:40,025 [INFO] Bajando servo
+2025-06-11 22:22:40,126 [INFO] Bajando servo
+2025-06-11 22:22:40,164 [INFO] Lectura BMP390
+2025-06-11 22:22:40,226 [INFO] Bajando servo
+2025-06-11 22:22:40,327 [INFO] Bajando servo
+2025-06-11 22:22:40,340 [INFO] Lectura LTR390
+2025-06-11 22:22:40,342 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-11 22:22:40,357 [INFO] Lectura sensor suelo
+2025-06-11 22:22:40,427 [INFO] Bajando servo
+2025-06-11 22:22:40,529 [INFO] Bajando servo
+2025-06-11 22:22:40,630 [INFO] Bajando servo
+2025-06-11 22:22:40,730 [INFO] Bajando servo
+2025-06-11 22:22:40,798 [INFO] 192.168.95.222 - - [11/Jun/2025 22:22:40] "GET / HTTP/1.1" 200 -
+2025-06-11 22:22:40,831 [INFO] Bajando servo
+2025-06-11 22:22:40,932 [INFO] Bajando servo
+2025-06-11 22:22:41,032 [INFO] Bajando servo
+2025-06-11 22:22:41,133 [INFO] Bajando servo
+2025-06-11 22:22:41,234 [INFO] Bajando servo
+2025-06-11 22:22:41,334 [INFO] Bajando servo
+2025-06-11 22:22:41,435 [INFO] Bajando servo
+2025-06-11 22:22:41,535 [INFO] Bajando servo
+2025-06-11 22:22:42,084 [INFO] 192.168.95.222 - - [11/Jun/2025 22:22:42] "POST /mover HTTP/1.1" 200 -
+2025-06-11 22:22:42,085 [INFO] Subiendo servo
+2025-06-11 22:22:42,185 [INFO] Subiendo servo
+2025-06-11 22:22:42,286 [INFO] Subiendo servo
+2025-06-11 22:22:42,387 [INFO] Subiendo servo
+2025-06-11 22:22:42,487 [INFO] Subiendo servo
+2025-06-11 22:22:42,588 [INFO] Subiendo servo
+2025-06-11 22:22:42,688 [INFO] Subiendo servo
+2025-06-11 22:22:42,789 [INFO] Subiendo servo
+2025-06-11 22:22:42,890 [INFO] Subiendo servo
+2025-06-11 22:22:42,990 [INFO] Subiendo servo
+2025-06-11 22:22:43,091 [INFO] Subiendo servo
+2025-06-11 22:22:43,191 [INFO] Subiendo servo
+2025-06-11 22:22:43,292 [INFO] Subiendo servo
+2025-06-11 22:22:43,393 [INFO] Subiendo servo
+2025-06-11 22:22:43,493 [INFO] Subiendo servo
+2025-06-11 22:22:43,594 [INFO] Subiendo servo
+2025-06-11 22:22:43,694 [INFO] Subiendo servo
+2025-06-11 22:22:43,795 [INFO] Subiendo servo
+2025-06-11 22:22:43,895 [INFO] Subiendo servo
+2025-06-11 22:22:43,923 [INFO] Lectura datos climáticos NASA
+2025-06-11 22:22:43,925 [INFO] Datos JSON preparados para envío
+2025-06-11 22:22:43,961 [INFO] 192.168.95.222 - - [11/Jun/2025 22:22:43] "GET / HTTP/1.1" 200 -
+2025-06-11 22:22:43,996 [INFO] Subiendo servo
+2025-06-11 22:22:44,097 [INFO] Subiendo servo
+2025-06-11 22:22:44,198 [INFO] Subiendo servo
+2025-06-11 22:22:44,299 [INFO] Subiendo servo
+2025-06-11 22:22:44,399 [INFO] Subiendo servo
+2025-06-11 22:22:44,500 [INFO] Subiendo servo
+2025-06-11 22:22:44,601 [INFO] Subiendo servo
+2025-06-11 22:22:44,975 [INFO] Lectura BMP390
+2025-06-11 22:22:45,152 [INFO] Lectura LTR390
+2025-06-11 22:22:45,155 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-11 22:22:45,169 [INFO] Lectura sensor suelo
+2025-06-11 22:22:45,195 [INFO] 192.168.95.222 - - [11/Jun/2025 22:22:45] "POST /mover HTTP/1.1" 200 -
+2025-06-11 22:22:45,196 [INFO] Bajando servo
+2025-06-11 22:22:45,296 [INFO] Bajando servo
+2025-06-11 22:22:45,397 [INFO] Bajando servo
+2025-06-11 22:22:45,498 [INFO] Bajando servo
+2025-06-11 22:22:45,599 [INFO] Bajando servo
+2025-06-11 22:22:45,699 [INFO] Bajando servo
+2025-06-11 22:22:45,800 [INFO] Bajando servo
+2025-06-11 22:22:45,901 [INFO] Bajando servo
+2025-06-11 22:22:46,001 [INFO] Bajando servo
+2025-06-11 22:22:46,102 [INFO] Bajando servo
+2025-06-11 22:22:46,203 [INFO] Bajando servo
+2025-06-11 22:22:46,303 [INFO] Bajando servo
+2025-06-11 22:22:46,404 [INFO] Bajando servo
+2025-06-11 22:22:46,504 [INFO] Bajando servo
+2025-06-11 22:22:46,605 [INFO] Bajando servo
+2025-06-11 22:22:46,706 [INFO] Bajando servo
+2025-06-11 22:22:46,806 [INFO] Bajando servo
+2025-06-11 22:22:46,907 [INFO] Bajando servo
+2025-06-11 22:22:47,007 [INFO] Bajando servo
+2025-06-11 22:22:47,108 [INFO] Bajando servo
+2025-06-11 22:22:47,209 [INFO] Bajando servo
+2025-06-11 22:22:47,309 [INFO] Bajando servo
+2025-06-11 22:22:47,356 [INFO] 192.168.95.222 - - [11/Jun/2025 22:22:47] "GET / HTTP/1.1" 200 -
+2025-06-11 22:22:47,410 [INFO] Bajando servo
+2025-06-11 22:22:47,511 [INFO] Bajando servo
+2025-06-11 22:22:47,611 [INFO] Bajando servo
+2025-06-11 22:22:47,712 [INFO] Bajando servo
+2025-06-11 22:22:47,812 [INFO] Bajando servo
+2025-06-11 22:22:47,913 [INFO] Bajando servo
+2025-06-11 22:22:48,014 [INFO] Bajando servo
+2025-06-11 22:22:48,114 [INFO] Bajando servo
+2025-06-11 22:22:48,215 [INFO] Bajando servo
+2025-06-11 22:22:48,316 [INFO] Bajando servo
+2025-06-11 22:22:48,375 [INFO] Lectura datos climáticos NASA
+2025-06-11 22:22:48,376 [INFO] Datos JSON preparados para envío
+2025-06-11 22:22:48,416 [INFO] Bajando servo
+2025-06-11 22:22:48,517 [INFO] Bajando servo
+2025-06-11 22:22:48,618 [INFO] Bajando servo
+2025-06-11 22:22:48,719 [INFO] Bajando servo
+2025-06-11 22:22:48,819 [INFO] Bajando servo
+2025-06-11 22:22:48,920 [INFO] Bajando servo
+2025-06-11 22:22:49,020 [INFO] Bajando servo
+2025-06-11 22:22:49,121 [INFO] Bajando servo
+2025-06-11 22:22:49,222 [INFO] Bajando servo
+2025-06-11 22:22:49,323 [INFO] Bajando servo
+2025-06-11 22:22:49,423 [INFO] Bajando servo
+2025-06-11 22:22:49,426 [INFO] Lectura BMP390
+2025-06-11 22:22:49,524 [INFO] Bajando servo
+2025-06-11 22:22:49,602 [INFO] Lectura LTR390
+2025-06-11 22:22:49,605 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-11 22:22:49,620 [INFO] Lectura sensor suelo
+2025-06-11 22:22:49,628 [INFO] Bajando servo
+2025-06-11 22:22:49,729 [INFO] Bajando servo
+2025-06-11 22:22:49,829 [INFO] Bajando servo
+2025-06-11 22:22:49,930 [INFO] Bajando servo
+2025-06-11 22:22:50,031 [INFO] Bajando servo
+2025-06-11 22:22:50,131 [INFO] Bajando servo
+2025-06-11 22:22:50,232 [INFO] Bajando servo
+2025-06-11 22:22:50,333 [INFO] Bajando servo
+2025-06-11 22:22:50,433 [INFO] Bajando servo
+2025-06-11 22:22:50,534 [INFO] Bajando servo
+2025-06-11 22:22:50,635 [INFO] Bajando servo
+2025-06-11 22:22:50,736 [INFO] Bajando servo
+2025-06-11 22:22:50,837 [INFO] Bajando servo
+2025-06-11 22:22:50,939 [INFO] Bajando servo
+2025-06-11 22:22:51,040 [INFO] Bajando servo
+2025-06-11 22:22:51,141 [INFO] Bajando servo
+2025-06-11 22:22:51,243 [INFO] Bajando servo
+2025-06-11 22:22:51,344 [INFO] Bajando servo
+2025-06-11 22:22:51,445 [INFO] Bajando servo
+2025-06-11 22:22:51,546 [INFO] Bajando servo
+2025-06-11 22:22:51,647 [INFO] Bajando servo
+2025-06-11 22:22:51,929 [INFO] Bajando servo
+2025-06-11 22:22:52,030 [INFO] Bajando servo
+2025-06-11 22:22:52,131 [INFO] Bajando servo
+2025-06-11 22:22:52,232 [INFO] Bajando servo
+2025-06-11 22:22:52,333 [INFO] Bajando servo
+2025-06-11 22:22:52,434 [INFO] Bajando servo
+2025-06-11 22:22:52,535 [INFO] Bajando servo
+2025-06-11 22:22:52,636 [INFO] Bajando servo
+2025-06-11 22:22:52,737 [INFO] Bajando servo
+2025-06-11 22:22:52,838 [INFO] Bajando servo
+2025-06-11 22:22:52,939 [INFO] Bajando servo
+2025-06-11 22:22:53,040 [INFO] Bajando servo
+2025-06-11 22:22:53,141 [INFO] Bajando servo
+2025-06-11 22:22:53,242 [INFO] Bajando servo
+2025-06-11 22:22:53,343 [INFO] Bajando servo
+2025-06-11 22:22:53,444 [INFO] Bajando servo
+2025-06-11 22:22:53,546 [INFO] Bajando servo
+2025-06-11 22:22:53,637 [INFO] Lectura datos climáticos NASA
+2025-06-11 22:22:53,641 [INFO] Datos JSON preparados para envío
+2025-06-11 22:22:53,647 [INFO] Bajando servo
+2025-06-11 22:22:53,748 [INFO] Bajando servo
+2025-06-13 15:58:43,968 [INFO] Bajando servo
+2025-06-13 15:58:44,069 [INFO] Bajando servo
+2025-06-13 15:58:44,170 [INFO] Bajando servo
+2025-06-13 15:58:44,271 [INFO] Bajando servo
+2025-06-13 15:58:44,373 [INFO] Bajando servo
+2025-06-13 15:58:44,474 [INFO] Bajando servo
+2025-06-13 15:58:44,574 [INFO] Bajando servo
+2025-06-13 15:58:44,675 [INFO] Bajando servo
+2025-06-13 15:58:44,776 [INFO] Bajando servo
+2025-06-13 15:58:44,810 [INFO] Lectura BMP390
+2025-06-13 15:58:44,876 [INFO] Bajando servo
+2025-06-13 15:58:44,977 [INFO] Bajando servo
+2025-06-13 15:58:44,986 [INFO] Lectura LTR390
+2025-06-13 15:58:44,989 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:58:45,004 [INFO] Lectura sensor suelo
+2025-06-13 15:58:45,077 [INFO] Bajando servo
+2025-06-13 15:58:45,178 [INFO] Bajando servo
+2025-06-13 15:58:45,279 [INFO] Bajando servo
+2025-06-13 15:58:45,379 [INFO] Bajando servo
+2025-06-13 15:58:45,480 [INFO] Bajando servo
+2025-06-13 15:58:45,581 [INFO] Bajando servo
+2025-06-13 15:58:45,681 [INFO] Bajando servo
+2025-06-13 15:58:45,782 [INFO] Bajando servo
+2025-06-13 15:58:45,883 [INFO] Bajando servo
+2025-06-13 15:58:45,983 [INFO] Bajando servo
+2025-06-13 15:58:46,084 [INFO] Bajando servo
+2025-06-13 15:58:46,184 [INFO] Bajando servo
+2025-06-13 15:58:46,285 [INFO] Bajando servo
+2025-06-13 15:58:46,385 [INFO] Bajando servo
+2025-06-13 15:58:46,486 [INFO] Bajando servo
+2025-06-13 15:58:46,587 [INFO] Bajando servo
+2025-06-13 15:58:46,687 [INFO] Bajando servo
+2025-06-13 15:58:46,788 [INFO] Bajando servo
+2025-06-13 15:58:46,889 [INFO] Bajando servo
+2025-06-13 15:58:46,990 [INFO] Bajando servo
+2025-06-13 15:58:47,091 [INFO] Bajando servo
+2025-06-13 15:58:47,192 [INFO] Bajando servo
+2025-06-13 15:58:47,293 [INFO] Bajando servo
+2025-06-13 15:58:47,394 [INFO] Bajando servo
+2025-06-13 15:58:47,495 [INFO] Bajando servo
+2025-06-13 15:58:47,596 [INFO] Bajando servo
+2025-06-13 15:58:47,697 [INFO] Bajando servo
+2025-06-13 15:58:47,798 [INFO] Bajando servo
+2025-06-13 15:58:47,899 [INFO] Bajando servo
+2025-06-13 15:58:48,000 [INFO] Bajando servo
+2025-06-13 15:58:48,101 [INFO] Bajando servo
+2025-06-13 15:58:48,203 [INFO] Bajando servo
+2025-06-13 15:58:48,305 [INFO] Bajando servo
+2025-06-13 15:58:48,407 [INFO] Bajando servo
+2025-06-13 15:58:48,508 [INFO] Bajando servo
+2025-06-13 15:58:48,609 [INFO] Bajando servo
+2025-06-13 15:58:48,711 [INFO] Bajando servo
+2025-06-13 15:58:48,812 [INFO] Bajando servo
+2025-06-13 15:58:48,913 [INFO] Bajando servo
+2025-06-13 15:58:49,015 [INFO] Bajando servo
+2025-06-13 15:58:49,116 [INFO] Bajando servo
+2025-06-13 15:58:49,217 [INFO] Bajando servo
+2025-06-13 15:58:49,281 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:58:49,282 [INFO] Datos JSON preparados para envío
+2025-06-13 15:58:49,318 [INFO] Bajando servo
+2025-06-13 15:58:49,419 [INFO] Bajando servo
+2025-06-13 15:58:49,520 [INFO] Bajando servo
+2025-06-13 15:58:49,620 [INFO] Bajando servo
+2025-06-13 15:58:49,721 [INFO] Bajando servo
+2025-06-13 15:58:49,822 [INFO] Bajando servo
+2025-06-13 15:58:49,922 [INFO] Bajando servo
+2025-06-13 15:58:50,023 [INFO] Bajando servo
+2025-06-13 15:58:50,124 [INFO] Bajando servo
+2025-06-13 15:58:50,224 [INFO] Bajando servo
+2025-06-13 15:58:50,325 [INFO] Bajando servo
+2025-06-13 15:58:50,332 [INFO] Lectura BMP390
+2025-06-13 15:58:50,426 [INFO] Bajando servo
+2025-06-13 15:58:50,509 [INFO] Lectura LTR390
+2025-06-13 15:58:50,512 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:58:50,526 [INFO] Bajando servo
+2025-06-13 15:58:50,527 [INFO] Lectura sensor suelo
+2025-06-13 15:58:50,627 [INFO] Bajando servo
+2025-06-13 15:58:50,728 [INFO] Bajando servo
+2025-06-13 15:58:50,828 [INFO] Bajando servo
+2025-06-13 15:58:50,929 [INFO] Bajando servo
+2025-06-13 15:58:51,030 [INFO] Bajando servo
+2025-06-13 15:58:51,130 [INFO] Bajando servo
+2025-06-13 15:58:51,231 [INFO] Bajando servo
+2025-06-13 15:58:51,331 [INFO] Bajando servo
+2025-06-13 15:58:51,432 [INFO] Bajando servo
+2025-06-13 15:58:51,533 [INFO] Bajando servo
+2025-06-13 15:58:51,633 [INFO] Bajando servo
+2025-06-13 15:58:51,734 [INFO] Bajando servo
+2025-06-13 15:58:51,835 [INFO] Bajando servo
+2025-06-13 15:58:51,935 [INFO] Bajando servo
+2025-06-13 15:58:52,036 [INFO] Bajando servo
+2025-06-13 15:58:52,136 [INFO] Bajando servo
+2025-06-13 15:58:52,237 [INFO] Bajando servo
+2025-06-13 15:58:52,338 [INFO] Bajando servo
+2025-06-13 15:58:52,438 [INFO] Bajando servo
+2025-06-13 15:58:52,539 [INFO] Bajando servo
+2025-06-13 15:58:52,640 [INFO] Bajando servo
+2025-06-13 15:58:52,740 [INFO] Bajando servo
+2025-06-13 15:58:52,841 [INFO] Bajando servo
+2025-06-13 15:58:52,942 [INFO] Bajando servo
+2025-06-13 15:58:53,043 [INFO] Bajando servo
+2025-06-13 15:58:53,143 [INFO] Bajando servo
+2025-06-13 15:58:53,244 [INFO] Bajando servo
+2025-06-13 15:58:53,345 [INFO] Bajando servo
+2025-06-13 15:58:53,445 [INFO] Bajando servo
+2025-06-13 15:58:53,546 [INFO] Bajando servo
+2025-06-13 15:58:53,647 [INFO] Bajando servo
+2025-06-13 15:58:53,748 [INFO] Bajando servo
+2025-06-13 15:58:53,849 [INFO] Bajando servo
+2025-06-13 15:58:53,950 [INFO] Bajando servo
+2025-06-13 15:58:54,051 [INFO] Bajando servo
+2025-06-13 15:58:54,152 [INFO] Bajando servo
+2025-06-13 15:58:54,200 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:58:54,203 [INFO] Datos JSON preparados para envío
+2025-06-13 15:58:54,253 [INFO] Bajando servo
+2025-06-13 15:58:54,354 [INFO] Bajando servo
+2025-06-13 15:58:54,458 [INFO] Bajando servo
+2025-06-13 15:58:54,559 [INFO] Bajando servo
+2025-06-13 15:58:54,660 [INFO] Bajando servo
+2025-06-13 15:58:54,761 [INFO] Bajando servo
+2025-06-13 15:58:54,862 [INFO] Bajando servo
+2025-06-13 15:58:54,963 [INFO] Bajando servo
+2025-06-13 15:58:55,064 [INFO] Bajando servo
+2025-06-13 15:58:55,165 [INFO] Bajando servo
+2025-06-13 15:58:55,255 [INFO] Lectura BMP390
+2025-06-13 15:58:55,266 [INFO] Bajando servo
+2025-06-13 15:58:55,367 [INFO] Bajando servo
+2025-06-13 15:58:55,435 [INFO] Lectura LTR390
+2025-06-13 15:58:55,442 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:58:55,457 [INFO] Lectura sensor suelo
+2025-06-13 15:58:55,472 [INFO] Bajando servo
+2025-06-13 15:58:55,573 [INFO] Bajando servo
+2025-06-13 15:58:55,674 [INFO] Bajando servo
+2025-06-13 15:58:55,775 [INFO] Bajando servo
+2025-06-13 15:58:55,876 [INFO] Bajando servo
+2025-06-13 15:58:55,977 [INFO] Bajando servo
+2025-06-13 15:58:56,078 [INFO] Bajando servo
+2025-06-13 15:58:56,179 [INFO] Bajando servo
+2025-06-13 15:58:56,280 [INFO] Bajando servo
+2025-06-13 15:58:56,381 [INFO] Bajando servo
+2025-06-13 15:58:56,482 [INFO] Bajando servo
+2025-06-13 15:58:56,583 [INFO] Bajando servo
+2025-06-13 15:58:56,684 [INFO] Bajando servo
+2025-06-13 15:58:56,785 [INFO] Bajando servo
+2025-06-13 15:58:56,886 [INFO] Bajando servo
+2025-06-13 15:58:56,987 [INFO] Bajando servo
+2025-06-13 15:58:57,088 [INFO] Bajando servo
+2025-06-13 15:58:57,189 [INFO] Bajando servo
+2025-06-13 15:58:57,289 [INFO] Bajando servo
+2025-06-13 15:58:57,390 [INFO] Bajando servo
+2025-06-13 15:58:57,492 [INFO] Bajando servo
+2025-06-13 15:58:58,029 [INFO] 192.168.95.222 - - [13/Jun/2025 15:58:58] "POST /mover HTTP/1.1" 200 -
+2025-06-13 15:58:58,030 [INFO] Bajando servo
+2025-06-13 15:58:58,131 [INFO] Bajando servo
+2025-06-13 15:58:58,232 [INFO] Bajando servo
+2025-06-13 15:58:58,333 [INFO] Bajando servo
+2025-06-13 15:58:58,434 [INFO] Bajando servo
+2025-06-13 15:58:58,535 [INFO] Bajando servo
+2025-06-13 15:58:58,636 [INFO] Bajando servo
+2025-06-13 15:58:58,737 [INFO] Bajando servo
+2025-06-13 15:58:58,838 [INFO] Bajando servo
+2025-06-13 15:58:58,939 [INFO] Bajando servo
+2025-06-13 15:58:59,039 [INFO] Bajando servo
+2025-06-13 15:58:59,140 [INFO] Bajando servo
+2025-06-13 15:58:59,242 [INFO] Bajando servo
+2025-06-13 15:58:59,277 [INFO] 192.168.95.222 - - [13/Jun/2025 15:58:59] "GET / HTTP/1.1" 200 -
+2025-06-13 15:58:59,343 [INFO] Bajando servo
+2025-06-13 15:58:59,444 [INFO] Bajando servo
+2025-06-13 15:58:59,545 [INFO] Bajando servo
+2025-06-13 15:58:59,646 [INFO] Bajando servo
+2025-06-13 15:58:59,667 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:58:59,673 [INFO] Datos JSON preparados para envío
+2025-06-13 15:58:59,747 [INFO] Bajando servo
+2025-06-13 15:58:59,848 [INFO] Bajando servo
+2025-06-13 15:58:59,949 [INFO] Bajando servo
+2025-06-13 15:59:00,050 [INFO] Bajando servo
+2025-06-13 15:59:00,565 [INFO] 192.168.95.222 - - [13/Jun/2025 15:59:00] "POST /mover HTTP/1.1" 200 -
+2025-06-13 15:59:00,567 [INFO] Subiendo servo
+2025-06-13 15:59:00,668 [INFO] Subiendo servo
+2025-06-13 15:59:00,726 [INFO] Lectura BMP390
+2025-06-13 15:59:00,769 [INFO] Subiendo servo
+2025-06-13 15:59:00,870 [INFO] Subiendo servo
+2025-06-13 15:59:00,906 [INFO] Lectura LTR390
+2025-06-13 15:59:00,912 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:59:00,928 [INFO] Lectura sensor suelo
+2025-06-13 15:59:00,971 [INFO] Subiendo servo
+2025-06-13 15:59:01,072 [INFO] Subiendo servo
+2025-06-13 15:59:01,173 [INFO] Subiendo servo
+2025-06-13 15:59:01,274 [INFO] Subiendo servo
+2025-06-13 15:59:01,375 [INFO] Subiendo servo
+2025-06-13 15:59:01,475 [INFO] Subiendo servo
+2025-06-13 15:59:01,576 [INFO] Subiendo servo
+2025-06-13 15:59:01,677 [INFO] Subiendo servo
+2025-06-13 15:59:01,778 [INFO] Subiendo servo
+2025-06-13 15:59:01,879 [INFO] Subiendo servo
+2025-06-13 15:59:01,980 [INFO] Subiendo servo
+2025-06-13 15:59:02,081 [INFO] Subiendo servo
+2025-06-13 15:59:02,182 [INFO] Subiendo servo
+2025-06-13 15:59:02,283 [INFO] Subiendo servo
+2025-06-13 15:59:02,384 [INFO] Subiendo servo
+2025-06-13 15:59:02,485 [INFO] Subiendo servo
+2025-06-13 15:59:02,586 [INFO] Subiendo servo
+2025-06-13 15:59:02,687 [INFO] Subiendo servo
+2025-06-13 15:59:02,788 [INFO] Subiendo servo
+2025-06-13 15:59:02,889 [INFO] Subiendo servo
+2025-06-13 15:59:02,990 [INFO] Subiendo servo
+2025-06-13 15:59:03,090 [INFO] Subiendo servo
+2025-06-13 15:59:03,191 [INFO] Subiendo servo
+2025-06-13 15:59:03,291 [INFO] Subiendo servo
+2025-06-13 15:59:03,392 [INFO] Subiendo servo
+2025-06-13 15:59:03,493 [INFO] Subiendo servo
+2025-06-13 15:59:03,593 [INFO] Subiendo servo
+2025-06-13 15:59:03,694 [INFO] Subiendo servo
+2025-06-13 15:59:03,794 [INFO] Subiendo servo
+2025-06-13 15:59:03,895 [INFO] Subiendo servo
+2025-06-13 15:59:03,996 [INFO] Subiendo servo
+2025-06-13 15:59:04,096 [INFO] Subiendo servo
+2025-06-13 15:59:04,197 [INFO] Subiendo servo
+2025-06-13 15:59:04,298 [INFO] Subiendo servo
+2025-06-13 15:59:04,333 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:59:04,335 [INFO] Datos JSON preparados para envío
+2025-06-13 15:59:04,398 [INFO] Subiendo servo
+2025-06-13 15:59:04,499 [INFO] Subiendo servo
+2025-06-13 15:59:04,599 [INFO] Subiendo servo
+2025-06-13 15:59:04,700 [INFO] Subiendo servo
+2025-06-13 15:59:04,801 [INFO] Subiendo servo
+2025-06-13 15:59:04,902 [INFO] Subiendo servo
+2025-06-13 15:59:05,003 [INFO] Subiendo servo
+2025-06-13 15:59:05,104 [INFO] Subiendo servo
+2025-06-13 15:59:05,205 [INFO] Subiendo servo
+2025-06-13 15:59:05,306 [INFO] Subiendo servo
+2025-06-13 15:59:05,387 [INFO] Lectura BMP390
+2025-06-13 15:59:05,407 [INFO] Subiendo servo
+2025-06-13 15:59:05,508 [INFO] Subiendo servo
+2025-06-13 15:59:05,567 [INFO] Lectura LTR390
+2025-06-13 15:59:05,573 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:59:05,588 [INFO] Lectura sensor suelo
+2025-06-13 15:59:05,609 [INFO] Subiendo servo
+2025-06-13 15:59:05,710 [INFO] Subiendo servo
+2025-06-13 15:59:05,811 [INFO] Subiendo servo
+2025-06-13 15:59:05,912 [INFO] Subiendo servo
+2025-06-13 15:59:06,013 [INFO] Subiendo servo
+2025-06-13 15:59:06,114 [INFO] Subiendo servo
+2025-06-13 15:59:06,215 [INFO] Subiendo servo
+2025-06-13 15:59:06,316 [INFO] Subiendo servo
+2025-06-13 15:59:06,417 [INFO] Subiendo servo
+2025-06-13 15:59:06,518 [INFO] Subiendo servo
+2025-06-13 15:59:06,619 [INFO] Subiendo servo
+2025-06-13 15:59:06,720 [INFO] Subiendo servo
+2025-06-13 15:59:06,821 [INFO] Subiendo servo
+2025-06-13 15:59:06,922 [INFO] Subiendo servo
+2025-06-13 15:59:07,023 [INFO] Subiendo servo
+2025-06-13 15:59:07,124 [INFO] Subiendo servo
+2025-06-13 15:59:07,225 [INFO] Subiendo servo
+2025-06-13 15:59:07,326 [INFO] Subiendo servo
+2025-06-13 15:59:07,427 [INFO] Subiendo servo
+2025-06-13 15:59:07,528 [INFO] Subiendo servo
+2025-06-13 15:59:07,629 [INFO] Subiendo servo
+2025-06-13 15:59:07,730 [INFO] Subiendo servo
+2025-06-13 15:59:07,830 [INFO] Subiendo servo
+2025-06-13 15:59:07,931 [INFO] Subiendo servo
+2025-06-13 15:59:08,032 [INFO] Subiendo servo
+2025-06-13 15:59:08,134 [INFO] Subiendo servo
+2025-06-13 15:59:08,235 [INFO] Subiendo servo
+2025-06-13 15:59:08,337 [INFO] Subiendo servo
+2025-06-13 15:59:08,438 [INFO] Subiendo servo
+2025-06-13 15:59:08,539 [INFO] Subiendo servo
+2025-06-13 15:59:08,640 [INFO] Subiendo servo
+2025-06-13 15:59:08,741 [INFO] Subiendo servo
+2025-06-13 15:59:08,842 [INFO] Subiendo servo
+2025-06-13 15:59:08,943 [INFO] Subiendo servo
+2025-06-13 15:59:09,045 [INFO] Subiendo servo
+2025-06-13 15:59:09,146 [INFO] Subiendo servo
+2025-06-13 15:59:09,251 [INFO] Subiendo servo
+2025-06-13 15:59:09,252 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:59:09,255 [INFO] Datos JSON preparados para envío
+2025-06-13 15:59:09,353 [INFO] Subiendo servo
+2025-06-13 15:59:09,454 [INFO] Subiendo servo
+2025-06-13 15:59:09,556 [INFO] Subiendo servo
+2025-06-13 15:59:09,657 [INFO] Subiendo servo
+2025-06-13 15:59:09,758 [INFO] Subiendo servo
+2025-06-13 15:59:09,859 [INFO] Subiendo servo
+2025-06-13 15:59:09,960 [INFO] Subiendo servo
+2025-06-13 15:59:10,061 [INFO] Subiendo servo
+2025-06-13 15:59:10,162 [INFO] Subiendo servo
+2025-06-13 15:59:10,263 [INFO] Subiendo servo
+2025-06-13 15:59:10,308 [INFO] Lectura BMP390
+2025-06-13 15:59:10,365 [INFO] Subiendo servo
+2025-06-13 15:59:10,465 [INFO] Subiendo servo
+2025-06-13 15:59:10,487 [INFO] Lectura LTR390
+2025-06-13 15:59:10,492 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:59:10,507 [INFO] Lectura sensor suelo
+2025-06-13 15:59:10,566 [INFO] Subiendo servo
+2025-06-13 15:59:10,668 [INFO] Subiendo servo
+2025-06-13 15:59:10,769 [INFO] Subiendo servo
+2025-06-13 15:59:10,870 [INFO] Subiendo servo
+2025-06-13 15:59:10,971 [INFO] Subiendo servo
+2025-06-13 15:59:11,072 [INFO] Subiendo servo
+2025-06-13 15:59:11,136 [INFO] 192.168.95.222 - - [13/Jun/2025 15:59:11] "GET /datos HTTP/1.1" 200 -
+2025-06-13 15:59:11,173 [INFO] Subiendo servo
+2025-06-13 15:59:11,274 [INFO] Subiendo servo
+2025-06-13 15:59:11,375 [INFO] Subiendo servo
+2025-06-13 15:59:11,476 [INFO] Subiendo servo
+2025-06-13 15:59:11,577 [INFO] Subiendo servo
+2025-06-13 15:59:11,679 [INFO] Subiendo servo
+2025-06-13 15:59:11,780 [INFO] Subiendo servo
+2025-06-13 15:59:11,880 [INFO] Subiendo servo
+2025-06-13 15:59:11,981 [INFO] Subiendo servo
+2025-06-13 15:59:12,082 [INFO] Subiendo servo
+2025-06-13 15:59:12,183 [INFO] Subiendo servo
+2025-06-13 15:59:12,284 [INFO] Subiendo servo
+2025-06-13 15:59:12,385 [INFO] Subiendo servo
+2025-06-13 15:59:12,486 [INFO] Subiendo servo
+2025-06-13 15:59:12,588 [INFO] Subiendo servo
+2025-06-13 15:59:12,688 [INFO] Subiendo servo
+2025-06-13 15:59:12,789 [INFO] Subiendo servo
+2025-06-13 15:59:12,891 [INFO] Subiendo servo
+2025-06-13 15:59:12,992 [INFO] Subiendo servo
+2025-06-13 15:59:13,093 [INFO] Subiendo servo
+2025-06-13 15:59:13,194 [INFO] Subiendo servo
+2025-06-13 15:59:13,295 [INFO] Subiendo servo
+2025-06-13 15:59:13,395 [INFO] Subiendo servo
+2025-06-13 15:59:13,496 [INFO] Subiendo servo
+2025-06-13 15:59:13,597 [INFO] Subiendo servo
+2025-06-13 15:59:13,698 [INFO] Subiendo servo
+2025-06-13 15:59:13,799 [INFO] Subiendo servo
+2025-06-13 15:59:13,884 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:59:13,887 [INFO] Datos JSON preparados para envío
+2025-06-13 15:59:13,900 [INFO] Subiendo servo
+2025-06-13 15:59:14,001 [INFO] Subiendo servo
+2025-06-13 15:59:14,102 [INFO] Subiendo servo
+2025-06-13 15:59:14,203 [INFO] Subiendo servo
+2025-06-13 15:59:14,304 [INFO] Subiendo servo
+2025-06-13 15:59:14,405 [INFO] Subiendo servo
+2025-06-13 15:59:14,506 [INFO] Subiendo servo
+2025-06-13 15:59:14,607 [INFO] Subiendo servo
+2025-06-13 15:59:14,708 [INFO] Subiendo servo
+2025-06-13 15:59:14,809 [INFO] Subiendo servo
+2025-06-13 15:59:14,910 [INFO] Subiendo servo
+2025-06-13 15:59:14,939 [INFO] Lectura BMP390
+2025-06-13 15:59:15,011 [INFO] Subiendo servo
+2025-06-13 15:59:15,111 [INFO] Subiendo servo
+2025-06-13 15:59:15,116 [INFO] Lectura LTR390
+2025-06-13 15:59:15,118 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:59:15,133 [INFO] Lectura sensor suelo
+2025-06-13 15:59:15,212 [INFO] Subiendo servo
+2025-06-13 15:59:15,313 [INFO] Subiendo servo
+2025-06-13 15:59:15,414 [INFO] Subiendo servo
+2025-06-13 15:59:15,514 [INFO] Subiendo servo
+2025-06-13 15:59:15,615 [INFO] Subiendo servo
+2025-06-13 15:59:15,717 [INFO] Subiendo servo
+2025-06-13 15:59:15,817 [INFO] Subiendo servo
+2025-06-13 15:59:15,922 [INFO] Subiendo servo
+2025-06-13 15:59:16,022 [INFO] Subiendo servo
+2025-06-13 15:59:16,123 [INFO] Subiendo servo
+2025-06-13 15:59:16,232 [INFO] Subiendo servo
+2025-06-13 15:59:16,332 [INFO] Subiendo servo
+2025-06-13 15:59:16,433 [INFO] Subiendo servo
+2025-06-13 15:59:16,534 [INFO] Subiendo servo
+2025-06-13 15:59:16,635 [INFO] Subiendo servo
+2025-06-13 15:59:16,735 [INFO] Subiendo servo
+2025-06-13 15:59:16,836 [INFO] Subiendo servo
+2025-06-13 15:59:16,937 [INFO] Subiendo servo
+2025-06-13 15:59:17,037 [INFO] Subiendo servo
+2025-06-13 15:59:17,138 [INFO] Subiendo servo
+2025-06-13 15:59:17,239 [INFO] Subiendo servo
+2025-06-13 15:59:17,340 [INFO] Subiendo servo
+2025-06-13 15:59:17,441 [INFO] Subiendo servo
+2025-06-13 15:59:17,542 [INFO] Subiendo servo
+2025-06-13 15:59:17,643 [INFO] Subiendo servo
+2025-06-13 15:59:17,744 [INFO] Subiendo servo
+2025-06-13 15:59:17,845 [INFO] Subiendo servo
+2025-06-13 15:59:17,946 [INFO] Subiendo servo
+2025-06-13 15:59:18,047 [INFO] Subiendo servo
+2025-06-13 15:59:18,148 [INFO] Subiendo servo
+2025-06-13 15:59:18,249 [INFO] Subiendo servo
+2025-06-13 15:59:18,349 [INFO] Subiendo servo
+2025-06-13 15:59:18,450 [INFO] Subiendo servo
+2025-06-13 15:59:18,551 [INFO] Subiendo servo
+2025-06-13 15:59:18,652 [INFO] Subiendo servo
+2025-06-13 15:59:18,753 [INFO] Subiendo servo
+2025-06-13 15:59:18,775 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:59:18,778 [INFO] Datos JSON preparados para envío
+2025-06-13 15:59:18,854 [INFO] Subiendo servo
+2025-06-13 15:59:18,955 [INFO] Subiendo servo
+2025-06-13 15:59:19,056 [INFO] Subiendo servo
+2025-06-13 15:59:19,157 [INFO] Subiendo servo
+2025-06-13 15:59:19,258 [INFO] Subiendo servo
+2025-06-13 15:59:19,359 [INFO] Subiendo servo
+2025-06-13 15:59:19,460 [INFO] Subiendo servo
+2025-06-13 15:59:19,561 [INFO] Subiendo servo
+2025-06-13 15:59:19,662 [INFO] Subiendo servo
+2025-06-13 15:59:19,763 [INFO] Subiendo servo
+2025-06-13 15:59:19,830 [INFO] Lectura BMP390
+2025-06-13 15:59:19,864 [INFO] Subiendo servo
+2025-06-13 15:59:19,965 [INFO] Subiendo servo
+2025-06-13 15:59:20,009 [INFO] Lectura LTR390
+2025-06-13 15:59:20,015 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:59:20,030 [INFO] Lectura sensor suelo
+2025-06-13 15:59:20,066 [INFO] Subiendo servo
+2025-06-13 15:59:20,167 [INFO] Subiendo servo
+2025-06-13 15:59:20,268 [INFO] Subiendo servo
+2025-06-13 15:59:20,369 [INFO] Subiendo servo
+2025-06-13 15:59:20,470 [INFO] Subiendo servo
+2025-06-13 15:59:20,571 [INFO] Subiendo servo
+2025-06-13 15:59:20,672 [INFO] Subiendo servo
+2025-06-13 15:59:20,773 [INFO] Subiendo servo
+2025-06-13 15:59:20,874 [INFO] Subiendo servo
+2025-06-13 15:59:20,975 [INFO] Subiendo servo
+2025-06-13 15:59:21,076 [INFO] Subiendo servo
+2025-06-13 15:59:21,177 [INFO] Subiendo servo
+2025-06-13 15:59:21,278 [INFO] Subiendo servo
+2025-06-13 15:59:21,379 [INFO] Subiendo servo
+2025-06-13 15:59:21,480 [INFO] Subiendo servo
+2025-06-13 15:59:21,581 [INFO] Subiendo servo
+2025-06-13 15:59:21,682 [INFO] Subiendo servo
+2025-06-13 15:59:21,783 [INFO] Subiendo servo
+2025-06-13 15:59:21,884 [INFO] Subiendo servo
+2025-06-13 15:59:21,985 [INFO] Subiendo servo
+2025-06-13 15:59:22,086 [INFO] Subiendo servo
+2025-06-13 15:59:22,187 [INFO] Subiendo servo
+2025-06-13 15:59:22,288 [INFO] Subiendo servo
+2025-06-13 15:59:22,389 [INFO] Subiendo servo
+2025-06-13 15:59:22,490 [INFO] Subiendo servo
+2025-06-13 15:59:22,591 [INFO] Subiendo servo
+2025-06-13 15:59:22,692 [INFO] Subiendo servo
+2025-06-13 15:59:22,793 [INFO] Subiendo servo
+2025-06-13 15:59:22,894 [INFO] Subiendo servo
+2025-06-13 15:59:22,995 [INFO] Subiendo servo
+2025-06-13 15:59:23,096 [INFO] Subiendo servo
+2025-06-13 15:59:23,197 [INFO] Subiendo servo
+2025-06-13 15:59:23,298 [INFO] Subiendo servo
+2025-06-13 15:59:23,399 [INFO] Subiendo servo
+2025-06-13 15:59:23,500 [INFO] Subiendo servo
+2025-06-13 15:59:23,601 [INFO] Subiendo servo
+2025-06-13 15:59:23,702 [INFO] Subiendo servo
+2025-06-13 15:59:23,803 [INFO] Subiendo servo
+2025-06-13 15:59:23,904 [INFO] Subiendo servo
+2025-06-13 15:59:24,005 [INFO] Subiendo servo
+2025-06-13 15:59:24,105 [INFO] Subiendo servo
+2025-06-13 15:59:24,206 [INFO] Subiendo servo
+2025-06-13 15:59:24,305 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:59:24,307 [INFO] Datos JSON preparados para envío
+2025-06-13 15:59:24,308 [INFO] Subiendo servo
+2025-06-13 15:59:24,409 [INFO] Subiendo servo
+2025-06-13 15:59:24,510 [INFO] Subiendo servo
+2025-06-13 15:59:24,611 [INFO] Subiendo servo
+2025-06-13 15:59:24,712 [INFO] Subiendo servo
+2025-06-13 15:59:24,813 [INFO] Subiendo servo
+2025-06-13 15:59:24,914 [INFO] Subiendo servo
+2025-06-13 15:59:25,015 [INFO] Subiendo servo
+2025-06-13 15:59:25,116 [INFO] Subiendo servo
+2025-06-13 15:59:25,217 [INFO] Subiendo servo
+2025-06-13 15:59:25,318 [INFO] Subiendo servo
+2025-06-13 15:59:25,360 [INFO] Lectura BMP390
+2025-06-13 15:59:25,419 [INFO] Subiendo servo
+2025-06-13 15:59:25,520 [INFO] Subiendo servo
+2025-06-13 15:59:25,539 [INFO] Lectura LTR390
+2025-06-13 15:59:25,544 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:59:25,560 [INFO] Lectura sensor suelo
+2025-06-13 15:59:25,621 [INFO] Subiendo servo
+2025-06-13 15:59:25,722 [INFO] Subiendo servo
+2025-06-13 15:59:25,823 [INFO] Subiendo servo
+2025-06-13 15:59:25,924 [INFO] Subiendo servo
+2025-06-13 15:59:26,025 [INFO] Subiendo servo
+2025-06-13 15:59:26,126 [INFO] Subiendo servo
+2025-06-13 15:59:26,227 [INFO] Subiendo servo
+2025-06-13 15:59:26,328 [INFO] Subiendo servo
+2025-06-13 15:59:26,428 [INFO] Subiendo servo
+2025-06-13 15:59:26,529 [INFO] Subiendo servo
+2025-06-13 15:59:26,630 [INFO] Subiendo servo
+2025-06-13 15:59:26,731 [INFO] Subiendo servo
+2025-06-13 15:59:26,832 [INFO] Subiendo servo
+2025-06-13 15:59:26,933 [INFO] Subiendo servo
+2025-06-13 15:59:27,034 [INFO] Subiendo servo
+2025-06-13 15:59:27,135 [INFO] Subiendo servo
+2025-06-13 15:59:27,236 [INFO] Subiendo servo
+2025-06-13 15:59:27,337 [INFO] Subiendo servo
+2025-06-13 15:59:27,437 [INFO] Subiendo servo
+2025-06-13 15:59:27,538 [INFO] Subiendo servo
+2025-06-13 15:59:27,639 [INFO] Subiendo servo
+2025-06-13 15:59:27,739 [INFO] Subiendo servo
+2025-06-13 15:59:27,840 [INFO] Subiendo servo
+2025-06-13 15:59:27,941 [INFO] Subiendo servo
+2025-06-13 15:59:28,041 [INFO] Subiendo servo
+2025-06-13 15:59:28,142 [INFO] Subiendo servo
+2025-06-13 15:59:28,243 [INFO] Subiendo servo
+2025-06-13 15:59:28,344 [INFO] Subiendo servo
+2025-06-13 15:59:28,444 [INFO] Subiendo servo
+2025-06-13 15:59:28,545 [INFO] Subiendo servo
+2025-06-13 15:59:28,646 [INFO] Subiendo servo
+2025-06-13 15:59:28,747 [INFO] Subiendo servo
+2025-06-13 15:59:28,847 [INFO] Subiendo servo
+2025-06-13 15:59:28,948 [INFO] Subiendo servo
+2025-06-13 15:59:29,049 [INFO] Subiendo servo
+2025-06-13 15:59:29,150 [INFO] Subiendo servo
+2025-06-13 15:59:29,251 [INFO] Subiendo servo
+2025-06-13 15:59:29,352 [INFO] Subiendo servo
+2025-06-13 15:59:29,453 [INFO] Subiendo servo
+2025-06-13 15:59:29,528 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:59:29,531 [INFO] Datos JSON preparados para envío
+2025-06-13 15:59:29,554 [INFO] Subiendo servo
+2025-06-13 15:59:29,655 [INFO] Subiendo servo
+2025-06-13 15:59:29,756 [INFO] Subiendo servo
+2025-06-13 15:59:29,857 [INFO] Subiendo servo
+2025-06-13 15:59:29,958 [INFO] Subiendo servo
+2025-06-13 15:59:30,059 [INFO] Subiendo servo
+2025-06-13 15:59:30,160 [INFO] Subiendo servo
+2025-06-13 15:59:30,261 [INFO] Subiendo servo
+2025-06-13 15:59:30,362 [INFO] Subiendo servo
+2025-06-13 15:59:30,463 [INFO] Subiendo servo
+2025-06-13 15:59:30,564 [INFO] Subiendo servo
+2025-06-13 15:59:30,583 [INFO] Lectura BMP390
+2025-06-13 15:59:30,665 [INFO] Subiendo servo
+2025-06-13 15:59:30,762 [INFO] Lectura LTR390
+2025-06-13 15:59:30,766 [INFO] Subiendo servo
+2025-06-13 15:59:30,768 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:59:30,784 [INFO] Lectura sensor suelo
+2025-06-13 15:59:30,867 [INFO] Subiendo servo
+2025-06-13 15:59:30,967 [INFO] Subiendo servo
+2025-06-13 15:59:31,069 [INFO] Subiendo servo
+2025-06-13 15:59:31,170 [INFO] Subiendo servo
+2025-06-13 15:59:31,271 [INFO] Subiendo servo
+2025-06-13 15:59:31,372 [INFO] Subiendo servo
+2025-06-13 15:59:31,472 [INFO] Subiendo servo
+2025-06-13 15:59:31,573 [INFO] Subiendo servo
+2025-06-13 15:59:31,674 [INFO] Subiendo servo
+2025-06-13 15:59:31,775 [INFO] Subiendo servo
+2025-06-13 15:59:31,876 [INFO] Subiendo servo
+2025-06-13 15:59:31,977 [INFO] Subiendo servo
+2025-06-13 15:59:32,078 [INFO] Subiendo servo
+2025-06-13 15:59:32,179 [INFO] Subiendo servo
+2025-06-13 15:59:32,280 [INFO] Subiendo servo
+2025-06-13 15:59:32,381 [INFO] Subiendo servo
+2025-06-13 15:59:32,482 [INFO] Subiendo servo
+2025-06-13 15:59:32,583 [INFO] Subiendo servo
+2025-06-13 15:59:32,684 [INFO] Subiendo servo
+2025-06-13 15:59:32,785 [INFO] Subiendo servo
+2025-06-13 15:59:32,886 [INFO] Subiendo servo
+2025-06-13 15:59:32,987 [INFO] Subiendo servo
+2025-06-13 15:59:33,088 [INFO] Subiendo servo
+2025-06-13 15:59:33,189 [INFO] Subiendo servo
+2025-06-13 15:59:33,290 [INFO] Subiendo servo
+2025-06-13 15:59:33,391 [INFO] Subiendo servo
+2025-06-13 15:59:33,492 [INFO] Subiendo servo
+2025-06-13 15:59:33,593 [INFO] Subiendo servo
+2025-06-13 15:59:33,694 [INFO] Subiendo servo
+2025-06-13 15:59:33,794 [INFO] Subiendo servo
+2025-06-13 15:59:33,895 [INFO] Subiendo servo
+2025-06-13 15:59:33,996 [INFO] Subiendo servo
+2025-06-13 15:59:34,097 [INFO] Subiendo servo
+2025-06-13 15:59:34,198 [INFO] Subiendo servo
+2025-06-13 15:59:34,299 [INFO] Subiendo servo
+2025-06-13 15:59:34,400 [INFO] Subiendo servo
+2025-06-13 15:59:34,501 [INFO] Subiendo servo
+2025-06-13 15:59:34,602 [INFO] Subiendo servo
+2025-06-13 15:59:34,703 [INFO] Subiendo servo
+2025-06-13 15:59:34,804 [INFO] Subiendo servo
+2025-06-13 15:59:34,905 [INFO] Subiendo servo
+2025-06-13 15:59:35,006 [INFO] Subiendo servo
+2025-06-13 15:59:35,058 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:59:35,063 [INFO] Datos JSON preparados para envío
+2025-06-13 15:59:35,107 [INFO] Subiendo servo
+2025-06-13 15:59:35,208 [INFO] Subiendo servo
+2025-06-13 15:59:35,309 [INFO] Subiendo servo
+2025-06-13 15:59:35,410 [INFO] Subiendo servo
+2025-06-13 15:59:35,511 [INFO] Subiendo servo
+2025-06-13 15:59:35,612 [INFO] Subiendo servo
+2025-06-13 15:59:35,713 [INFO] Subiendo servo
+2025-06-13 15:59:35,814 [INFO] Subiendo servo
+2025-06-13 15:59:35,915 [INFO] Subiendo servo
+2025-06-13 15:59:36,016 [INFO] Subiendo servo
+2025-06-13 15:59:36,115 [INFO] Lectura BMP390
+2025-06-13 15:59:36,117 [INFO] Subiendo servo
+2025-06-13 15:59:36,218 [INFO] Subiendo servo
+2025-06-13 15:59:36,295 [INFO] Lectura LTR390
+2025-06-13 15:59:36,300 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:59:36,316 [INFO] Lectura sensor suelo
+2025-06-13 15:59:36,319 [INFO] Subiendo servo
+2025-06-13 15:59:36,420 [INFO] Subiendo servo
+2025-06-13 15:59:36,521 [INFO] Subiendo servo
+2025-06-13 15:59:36,622 [INFO] Subiendo servo
+2025-06-13 15:59:36,723 [INFO] Subiendo servo
+2025-06-13 15:59:36,824 [INFO] Subiendo servo
+2025-06-13 15:59:36,925 [INFO] Subiendo servo
+2025-06-13 15:59:37,026 [INFO] Subiendo servo
+2025-06-13 15:59:37,127 [INFO] Subiendo servo
+2025-06-13 15:59:37,228 [INFO] Subiendo servo
+2025-06-13 15:59:37,329 [INFO] Subiendo servo
+2025-06-13 15:59:37,430 [INFO] Subiendo servo
+2025-06-13 15:59:37,531 [INFO] Subiendo servo
+2025-06-13 15:59:37,632 [INFO] Subiendo servo
+2025-06-13 15:59:37,732 [INFO] Subiendo servo
+2025-06-13 15:59:37,833 [INFO] Subiendo servo
+2025-06-13 15:59:37,934 [INFO] Subiendo servo
+2025-06-13 15:59:38,035 [INFO] Subiendo servo
+2025-06-13 15:59:38,136 [INFO] Subiendo servo
+2025-06-13 15:59:38,237 [INFO] Subiendo servo
+2025-06-13 15:59:38,338 [INFO] Subiendo servo
+2025-06-13 15:59:38,439 [INFO] Subiendo servo
+2025-06-13 15:59:38,540 [INFO] Subiendo servo
+2025-06-13 15:59:38,641 [INFO] Subiendo servo
+2025-06-13 15:59:38,742 [INFO] Subiendo servo
+2025-06-13 15:59:38,843 [INFO] Subiendo servo
+2025-06-13 15:59:38,945 [INFO] Subiendo servo
+2025-06-13 15:59:39,046 [INFO] Subiendo servo
+2025-06-13 15:59:39,147 [INFO] Subiendo servo
+2025-06-13 15:59:39,248 [INFO] Subiendo servo
+2025-06-13 15:59:39,348 [INFO] Subiendo servo
+2025-06-13 15:59:39,449 [INFO] Subiendo servo
+2025-06-13 15:59:39,550 [INFO] Subiendo servo
+2025-06-13 15:59:39,651 [INFO] Subiendo servo
+2025-06-13 15:59:39,751 [INFO] Subiendo servo
+2025-06-13 15:59:39,852 [INFO] Subiendo servo
+2025-06-13 15:59:39,953 [INFO] Subiendo servo
+2025-06-13 15:59:40,054 [INFO] Subiendo servo
+2025-06-13 15:59:40,155 [INFO] Subiendo servo
+2025-06-13 15:59:40,255 [INFO] Subiendo servo
+2025-06-13 15:59:40,356 [INFO] Subiendo servo
+2025-06-13 15:59:40,457 [INFO] Subiendo servo
+2025-06-13 15:59:40,557 [INFO] Subiendo servo
+2025-06-13 15:59:40,658 [INFO] Subiendo servo
+2025-06-13 15:59:40,759 [INFO] Subiendo servo
+2025-06-13 15:59:40,859 [INFO] Subiendo servo
+2025-06-13 15:59:40,894 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:59:40,896 [INFO] Datos JSON preparados para envío
+2025-06-13 15:59:40,960 [INFO] Subiendo servo
+2025-06-13 15:59:41,061 [INFO] Subiendo servo
+2025-06-13 15:59:41,162 [INFO] Subiendo servo
+2025-06-13 15:59:41,263 [INFO] Subiendo servo
+2025-06-13 15:59:41,364 [INFO] Subiendo servo
+2025-06-13 15:59:41,465 [INFO] Subiendo servo
+2025-06-13 15:59:41,566 [INFO] Subiendo servo
+2025-06-13 15:59:41,667 [INFO] Subiendo servo
+2025-06-13 15:59:41,768 [INFO] Subiendo servo
+2025-06-13 15:59:41,869 [INFO] Subiendo servo
+2025-06-13 15:59:41,950 [INFO] Lectura BMP390
+2025-06-13 15:59:41,970 [INFO] Subiendo servo
+2025-06-13 15:59:42,071 [INFO] Subiendo servo
+2025-06-13 15:59:42,139 [INFO] Lectura LTR390
+2025-06-13 15:59:42,165 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:59:42,172 [INFO] Subiendo servo
+2025-06-13 15:59:42,181 [INFO] Lectura sensor suelo
+2025-06-13 15:59:42,273 [INFO] Subiendo servo
+2025-06-13 15:59:42,374 [INFO] Subiendo servo
+2025-06-13 15:59:42,474 [INFO] Subiendo servo
+2025-06-13 15:59:42,575 [INFO] Subiendo servo
+2025-06-13 15:59:42,676 [INFO] Subiendo servo
+2025-06-13 15:59:42,776 [INFO] Subiendo servo
+2025-06-13 15:59:42,877 [INFO] Subiendo servo
+2025-06-13 15:59:42,977 [INFO] Subiendo servo
+2025-06-13 15:59:43,078 [INFO] Subiendo servo
+2025-06-13 15:59:43,179 [INFO] Subiendo servo
+2025-06-13 15:59:43,280 [INFO] Subiendo servo
+2025-06-13 15:59:43,381 [INFO] Subiendo servo
+2025-06-13 15:59:43,482 [INFO] Subiendo servo
+2025-06-13 15:59:43,559 [INFO] 192.168.95.222 - - [13/Jun/2025 15:59:43] "GET / HTTP/1.1" 200 -
+2025-06-13 15:59:43,583 [INFO] Subiendo servo
+2025-06-13 15:59:43,684 [INFO] Subiendo servo
+2025-06-13 15:59:43,785 [INFO] Subiendo servo
+2025-06-13 15:59:46,893 [INFO] 192.168.95.222 - - [13/Jun/2025 15:59:46] "POST /mover HTTP/1.1" 200 -
+2025-06-13 15:59:46,894 [INFO] Movimiento hacia adelante
+2025-06-13 15:59:47,685 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:59:47,688 [INFO] Datos JSON preparados para envío
+2025-06-13 15:59:48,746 [INFO] Lectura BMP390
+2025-06-13 15:59:48,932 [INFO] 192.168.95.222 - - [13/Jun/2025 15:59:48] "GET / HTTP/1.1" 200 -
+2025-06-13 15:59:48,934 [INFO] Lectura LTR390
+2025-06-13 15:59:48,940 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:59:48,957 [INFO] Lectura sensor suelo
+2025-06-13 15:59:50,077 [INFO] Movimiento hacia adelante
+2025-06-13 15:59:53,170 [INFO] Movimiento hacia adelante
+2025-06-13 15:59:53,180 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:59:53,183 [INFO] Datos JSON preparados para envío
+2025-06-13 15:59:54,238 [INFO] Lectura BMP390
+2025-06-13 15:59:54,426 [INFO] Lectura LTR390
+2025-06-13 15:59:54,432 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:59:54,450 [INFO] Lectura sensor suelo
+2025-06-13 15:59:56,329 [INFO] Movimiento hacia adelante
+2025-06-13 15:59:57,791 [INFO] Lectura datos climáticos NASA
+2025-06-13 15:59:57,794 [INFO] Datos JSON preparados para envío
+2025-06-13 15:59:58,854 [INFO] Lectura BMP390
+2025-06-13 15:59:59,038 [INFO] Lectura LTR390
+2025-06-13 15:59:59,044 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 15:59:59,062 [INFO] Lectura sensor suelo
+2025-06-13 15:59:59,513 [INFO] Movimiento hacia adelante
+2025-06-13 16:00:02,662 [INFO] Movimiento hacia adelante
+2025-06-13 16:00:02,708 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:00:02,712 [INFO] Datos JSON preparados para envío
+2025-06-13 16:00:03,767 [INFO] Lectura BMP390
+2025-06-13 16:00:03,961 [INFO] Lectura LTR390
+2025-06-13 16:00:03,964 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:00:03,981 [INFO] Lectura sensor suelo
+2025-06-13 16:00:06,598 [INFO] Movimiento hacia adelante
+2025-06-13 16:00:07,622 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:00:07,625 [INFO] Datos JSON preparados para envío
+2025-06-13 16:00:08,687 [INFO] Lectura BMP390
+2025-06-13 16:00:08,882 [INFO] Lectura LTR390
+2025-06-13 16:00:08,888 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:00:08,908 [INFO] Lectura sensor suelo
+2025-06-13 16:00:09,814 [INFO] Movimiento hacia adelante
+2025-06-13 16:00:12,471 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:00:12,473 [INFO] Datos JSON preparados para envío
+2025-06-13 16:00:12,965 [INFO] Movimiento hacia adelante
+2025-06-13 16:00:13,533 [INFO] Lectura BMP390
+2025-06-13 16:00:13,721 [INFO] Lectura LTR390
+2025-06-13 16:00:13,727 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:00:13,743 [INFO] Lectura sensor suelo
+2025-06-13 16:00:16,166 [INFO] Movimiento hacia adelante
+2025-06-13 16:00:19,255 [INFO] Movimiento hacia adelante
+2025-06-13 16:00:22,410 [INFO] Movimiento hacia adelante
+2025-06-13 16:00:26,337 [INFO] Movimiento hacia adelante
+2025-06-13 16:00:30,183 [INFO] Movimiento hacia adelante
+2025-06-13 16:00:34,250 [INFO] Movimiento hacia adelante
+2025-06-13 16:00:36,075 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:00:36,078 [INFO] Datos JSON preparados para envío
+2025-06-13 16:00:37,135 [INFO] Lectura BMP390
+2025-06-13 16:00:37,323 [INFO] Lectura LTR390
+2025-06-13 16:00:37,329 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:00:37,346 [INFO] Lectura sensor suelo
+2025-06-13 16:00:37,441 [INFO] Movimiento hacia adelante
+2025-06-13 16:00:38,066 [INFO] 192.168.95.222 - - [13/Jun/2025 16:00:38] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:00:40,524 [INFO] 192.168.95.222 - - [13/Jun/2025 16:00:40] "GET / HTTP/1.1" 200 -
+2025-06-13 16:00:41,892 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:00:41,894 [INFO] Datos JSON preparados para envío
+2025-06-13 16:00:42,944 [INFO] Lectura BMP390
+2025-06-13 16:00:43,128 [INFO] Lectura LTR390
+2025-06-13 16:00:43,134 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:00:43,149 [INFO] Lectura sensor suelo
+2025-06-13 16:00:46,330 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:00:46,333 [INFO] Datos JSON preparados para envío
+2025-06-13 16:00:47,392 [INFO] Lectura BMP390
+2025-06-13 16:00:47,574 [INFO] Lectura LTR390
+2025-06-13 16:00:47,580 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:00:47,597 [INFO] Lectura sensor suelo
+2025-06-13 16:00:51,552 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:00:51,555 [INFO] Datos JSON preparados para envío
+2025-06-13 16:00:52,617 [INFO] Lectura BMP390
+2025-06-13 16:00:52,809 [INFO] Lectura LTR390
+2025-06-13 16:00:52,816 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:00:52,833 [INFO] Lectura sensor suelo
+2025-06-13 16:00:56,774 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:00:56,777 [INFO] Datos JSON preparados para envío
+2025-06-13 16:00:57,831 [INFO] Lectura BMP390
+2025-06-13 16:00:58,011 [INFO] Lectura LTR390
+2025-06-13 16:00:58,018 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:00:58,033 [INFO] Lectura sensor suelo
+2025-06-13 16:01:01,696 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:01:01,699 [INFO] Datos JSON preparados para envío
+2025-06-13 16:01:02,752 [INFO] Lectura BMP390
+2025-06-13 16:01:02,932 [INFO] Lectura LTR390
+2025-06-13 16:01:02,938 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:01:02,954 [INFO] Lectura sensor suelo
+2025-06-13 16:01:07,218 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:01:07,221 [INFO] Datos JSON preparados para envío
+2025-06-13 16:01:08,278 [INFO] Lectura BMP390
+2025-06-13 16:01:08,468 [INFO] Lectura LTR390
+2025-06-13 16:01:08,474 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:01:08,492 [INFO] Lectura sensor suelo
+2025-06-13 16:01:12,464 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:01:12,467 [INFO] Datos JSON preparados para envío
+2025-06-13 16:01:13,521 [INFO] Lectura BMP390
+2025-06-13 16:01:13,706 [INFO] Lectura LTR390
+2025-06-13 16:01:13,712 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:01:13,728 [INFO] Lectura sensor suelo
+2025-06-13 16:01:17,967 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:01:17,969 [INFO] Datos JSON preparados para envío
+2025-06-13 16:01:19,021 [INFO] Lectura BMP390
+2025-06-13 16:01:19,202 [INFO] Lectura LTR390
+2025-06-13 16:01:19,208 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:01:19,223 [INFO] Lectura sensor suelo
+2025-06-13 16:01:22,885 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:01:22,888 [INFO] Datos JSON preparados para envío
+2025-06-13 16:01:23,941 [INFO] Lectura BMP390
+2025-06-13 16:01:24,125 [INFO] Lectura LTR390
+2025-06-13 16:01:24,135 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:01:24,152 [INFO] Lectura sensor suelo
+2025-06-13 16:01:27,801 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:01:27,804 [INFO] Datos JSON preparados para envío
+2025-06-13 16:01:28,861 [INFO] Lectura BMP390
+2025-06-13 16:01:29,045 [INFO] Lectura LTR390
+2025-06-13 16:01:29,052 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:01:29,070 [INFO] Lectura sensor suelo
+2025-06-13 16:01:32,715 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:01:32,718 [INFO] Datos JSON preparados para envío
+2025-06-13 16:01:33,771 [INFO] Lectura BMP390
+2025-06-13 16:01:33,953 [INFO] Lectura LTR390
+2025-06-13 16:01:33,959 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:01:33,974 [INFO] Lectura sensor suelo
+2025-06-13 16:01:55,452 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:01:55,455 [INFO] Datos JSON preparados para envío
+2025-06-13 16:01:56,512 [INFO] Lectura BMP390
+2025-06-13 16:01:56,698 [INFO] Lectura LTR390
+2025-06-13 16:01:56,704 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:01:56,722 [INFO] Lectura sensor suelo
+2025-06-13 16:02:00,672 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:02:00,675 [INFO] Datos JSON preparados para envío
+2025-06-13 16:02:01,730 [INFO] Lectura BMP390
+2025-06-13 16:02:01,909 [INFO] Lectura LTR390
+2025-06-13 16:02:01,916 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:02:01,933 [INFO] Lectura sensor suelo
+2025-06-13 16:02:05,895 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:02:05,899 [INFO] Datos JSON preparados para envío
+2025-06-13 16:02:06,959 [INFO] Lectura BMP390
+2025-06-13 16:02:07,143 [INFO] Lectura LTR390
+2025-06-13 16:02:07,149 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:02:07,167 [INFO] Lectura sensor suelo
+2025-06-13 16:02:11,062 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:02:11,068 [INFO] Datos JSON preparados para envío
+2025-06-13 16:02:12,126 [INFO] Lectura BMP390
+2025-06-13 16:02:12,310 [INFO] Lectura LTR390
+2025-06-13 16:02:12,316 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:02:12,333 [INFO] Lectura sensor suelo
+2025-06-13 16:02:13,311 [INFO] 192.168.95.222 - - [13/Jun/2025 16:02:13] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:02:13,314 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:15,119 [INFO] 192.168.95.222 - - [13/Jun/2025 16:02:15] "GET / HTTP/1.1" 200 -
+2025-06-13 16:02:15,749 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:02:15,754 [INFO] Datos JSON preparados para envío
+2025-06-13 16:02:16,469 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:16,809 [INFO] Lectura BMP390
+2025-06-13 16:02:17,005 [INFO] Lectura LTR390
+2025-06-13 16:02:17,011 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:02:17,028 [INFO] Lectura sensor suelo
+2025-06-13 16:02:19,580 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:21,560 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:02:21,563 [INFO] Datos JSON preparados para envío
+2025-06-13 16:02:22,623 [INFO] Lectura BMP390
+2025-06-13 16:02:22,745 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:22,810 [INFO] Lectura LTR390
+2025-06-13 16:02:22,817 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:02:22,835 [INFO] Lectura sensor suelo
+2025-06-13 16:02:25,904 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:26,480 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:02:26,483 [INFO] Datos JSON preparados para envío
+2025-06-13 16:02:27,538 [INFO] Lectura BMP390
+2025-06-13 16:02:27,722 [INFO] Lectura LTR390
+2025-06-13 16:02:27,728 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:02:27,746 [INFO] Lectura sensor suelo
+2025-06-13 16:02:29,085 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:32,133 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:32,927 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:02:32,930 [INFO] Datos JSON preparados para envío
+2025-06-13 16:02:33,990 [INFO] Lectura BMP390
+2025-06-13 16:02:34,175 [INFO] Lectura LTR390
+2025-06-13 16:02:34,181 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:02:34,199 [INFO] Lectura sensor suelo
+2025-06-13 16:02:35,332 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:38,150 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:02:38,153 [INFO] Datos JSON preparados para envío
+2025-06-13 16:02:38,493 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:39,211 [INFO] Lectura BMP390
+2025-06-13 16:02:39,395 [INFO] Lectura LTR390
+2025-06-13 16:02:39,402 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:02:39,420 [INFO] Lectura sensor suelo
+2025-06-13 16:02:41,676 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:43,061 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:02:43,062 [INFO] Datos JSON preparados para envío
+2025-06-13 16:02:44,121 [INFO] Lectura BMP390
+2025-06-13 16:02:44,306 [INFO] Lectura LTR390
+2025-06-13 16:02:44,312 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:02:44,330 [INFO] Lectura sensor suelo
+2025-06-13 16:02:44,793 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:47,937 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:48,287 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:02:48,290 [INFO] Datos JSON preparados para envío
+2025-06-13 16:02:49,349 [INFO] Lectura BMP390
+2025-06-13 16:02:49,537 [INFO] Lectura LTR390
+2025-06-13 16:02:49,543 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:02:49,561 [INFO] Lectura sensor suelo
+2025-06-13 16:02:51,118 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:53,509 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:02:53,513 [INFO] Datos JSON preparados para envío
+2025-06-13 16:02:54,266 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:54,569 [INFO] Lectura BMP390
+2025-06-13 16:02:54,766 [INFO] Lectura LTR390
+2025-06-13 16:02:54,770 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:02:54,785 [INFO] Lectura sensor suelo
+2025-06-13 16:02:57,371 [INFO] Movimiento hacia adelante
+2025-06-13 16:02:58,117 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:02:58,122 [INFO] Datos JSON preparados para envío
+2025-06-13 16:02:59,182 [INFO] Lectura BMP390
+2025-06-13 16:02:59,366 [INFO] Lectura LTR390
+2025-06-13 16:02:59,369 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:02:59,384 [INFO] Lectura sensor suelo
+2025-06-13 16:03:00,550 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:05,211 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:08,402 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:10,777 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:03:10,780 [INFO] Datos JSON preparados para envío
+2025-06-13 16:03:11,552 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:11,842 [INFO] Lectura BMP390
+2025-06-13 16:03:12,025 [INFO] Lectura LTR390
+2025-06-13 16:03:12,031 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:03:12,049 [INFO] Lectura sensor suelo
+2025-06-13 16:03:14,727 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:16,310 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:03:16,313 [INFO] Datos JSON preparados para envío
+2025-06-13 16:03:17,373 [INFO] Lectura BMP390
+2025-06-13 16:03:17,559 [INFO] Lectura LTR390
+2025-06-13 16:03:17,565 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:03:17,582 [INFO] Lectura sensor suelo
+2025-06-13 16:03:17,917 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:20,976 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:22,146 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:03:22,149 [INFO] Datos JSON preparados para envío
+2025-06-13 16:03:23,210 [INFO] Lectura BMP390
+2025-06-13 16:03:23,404 [INFO] Lectura LTR390
+2025-06-13 16:03:23,410 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:03:23,427 [INFO] Lectura sensor suelo
+2025-06-13 16:03:24,170 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:27,319 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:27,980 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:03:27,983 [INFO] Datos JSON preparados para envío
+2025-06-13 16:03:29,042 [INFO] Lectura BMP390
+2025-06-13 16:03:29,225 [INFO] Lectura LTR390
+2025-06-13 16:03:29,231 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:03:29,249 [INFO] Lectura sensor suelo
+2025-06-13 16:03:30,505 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:33,923 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:03:33,926 [INFO] Datos JSON preparados para envío
+2025-06-13 16:03:34,526 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:34,984 [INFO] Lectura BMP390
+2025-06-13 16:03:35,171 [INFO] Lectura LTR390
+2025-06-13 16:03:35,177 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:03:35,196 [INFO] Lectura sensor suelo
+2025-06-13 16:03:37,722 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:38,738 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:03:38,741 [INFO] Datos JSON preparados para envío
+2025-06-13 16:03:39,794 [INFO] Lectura BMP390
+2025-06-13 16:03:39,983 [INFO] Lectura LTR390
+2025-06-13 16:03:39,989 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:03:40,007 [INFO] Lectura sensor suelo
+2025-06-13 16:03:40,906 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:43,953 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:03:43,955 [INFO] Datos JSON preparados para envío
+2025-06-13 16:03:43,993 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:45,026 [INFO] Lectura BMP390
+2025-06-13 16:03:45,227 [INFO] Lectura LTR390
+2025-06-13 16:03:45,234 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:03:45,253 [INFO] Lectura sensor suelo
+2025-06-13 16:03:47,986 [INFO] Movimiento hacia adelante
+2025-06-13 16:03:49,178 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:03:49,182 [INFO] Datos JSON preparados para envío
+2025-06-13 16:03:50,238 [INFO] Lectura BMP390
+2025-06-13 16:03:50,427 [INFO] Lectura LTR390
+2025-06-13 16:03:50,433 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:03:50,450 [INFO] Lectura sensor suelo
+2025-06-13 16:03:53,716 [INFO] 192.168.95.222 - - [13/Jun/2025 16:03:53] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:03:53,717 [INFO] Movimiento a la derecha
+2025-06-13 16:03:54,809 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:03:54,811 [INFO] Datos JSON preparados para envío
+2025-06-13 16:03:55,871 [INFO] Lectura BMP390
+2025-06-13 16:03:56,061 [INFO] Lectura LTR390
+2025-06-13 16:03:56,064 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:03:56,079 [INFO] Lectura sensor suelo
+2025-06-13 16:03:56,659 [INFO] 192.168.95.222 - - [13/Jun/2025 16:03:56] "GET / HTTP/1.1" 200 -
+2025-06-13 16:03:56,811 [INFO] Movimiento a la derecha
+2025-06-13 16:04:00,288 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:04:00,291 [INFO] Datos JSON preparados para envío
+2025-06-13 16:04:01,351 [INFO] Lectura BMP390
+2025-06-13 16:04:01,547 [INFO] Lectura LTR390
+2025-06-13 16:04:01,553 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:04:01,570 [INFO] Lectura sensor suelo
+2025-06-13 16:04:02,573 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:02,576 [INFO] 192.168.95.222 - - [13/Jun/2025 16:04:02] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:04:03,905 [INFO] 192.168.95.222 - - [13/Jun/2025 16:04:03] "GET / HTTP/1.1" 200 -
+2025-06-13 16:04:05,744 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:09,101 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:09,929 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:04:09,932 [INFO] Datos JSON preparados para envío
+2025-06-13 16:04:10,994 [INFO] Lectura BMP390
+2025-06-13 16:04:11,177 [INFO] Lectura LTR390
+2025-06-13 16:04:11,183 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:04:11,200 [INFO] Lectura sensor suelo
+2025-06-13 16:04:12,877 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:14,919 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:04:14,922 [INFO] Datos JSON preparados para envío
+2025-06-13 16:04:15,975 [INFO] Lectura BMP390
+2025-06-13 16:04:16,046 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:16,163 [INFO] Lectura LTR390
+2025-06-13 16:04:16,169 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:04:16,187 [INFO] Lectura sensor suelo
+2025-06-13 16:04:19,227 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:20,446 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:04:20,448 [INFO] Datos JSON preparados para envío
+2025-06-13 16:04:21,503 [INFO] Lectura BMP390
+2025-06-13 16:04:21,687 [INFO] Lectura LTR390
+2025-06-13 16:04:21,693 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:04:21,711 [INFO] Lectura sensor suelo
+2025-06-13 16:04:22,356 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:25,056 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:04:25,060 [INFO] Datos JSON preparados para envío
+2025-06-13 16:04:25,509 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:26,118 [INFO] Lectura BMP390
+2025-06-13 16:04:26,301 [INFO] Lectura LTR390
+2025-06-13 16:04:26,307 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:04:26,325 [INFO] Lectura sensor suelo
+2025-06-13 16:04:28,689 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:29,973 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:04:29,975 [INFO] Datos JSON preparados para envío
+2025-06-13 16:04:31,034 [INFO] Lectura BMP390
+2025-06-13 16:04:31,228 [INFO] Lectura LTR390
+2025-06-13 16:04:31,232 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:04:31,249 [INFO] Lectura sensor suelo
+2025-06-13 16:04:31,988 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:35,502 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:04:35,505 [INFO] Datos JSON preparados para envío
+2025-06-13 16:04:35,851 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:36,565 [INFO] Lectura BMP390
+2025-06-13 16:04:36,753 [INFO] Lectura LTR390
+2025-06-13 16:04:36,759 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:04:36,776 [INFO] Lectura sensor suelo
+2025-06-13 16:04:39,044 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:40,725 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:04:40,728 [INFO] Datos JSON preparados para envío
+2025-06-13 16:04:41,790 [INFO] Lectura BMP390
+2025-06-13 16:04:41,980 [INFO] Lectura LTR390
+2025-06-13 16:04:41,987 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:04:42,004 [INFO] Lectura sensor suelo
+2025-06-13 16:04:42,235 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:45,304 [INFO] Movimiento hacia atrás
+2025-06-13 16:04:45,334 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:04:45,338 [INFO] Datos JSON preparados para envío
+2025-06-13 16:04:46,393 [INFO] Lectura BMP390
+2025-06-13 16:04:46,590 [INFO] Lectura LTR390
+2025-06-13 16:04:46,596 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:04:46,613 [INFO] Lectura sensor suelo
+2025-06-13 16:04:50,250 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:04:50,254 [INFO] Datos JSON preparados para envío
+2025-06-13 16:04:51,014 [INFO] Movimiento hacia adelante
+2025-06-13 16:04:51,016 [INFO] 192.168.95.222 - - [13/Jun/2025 16:04:51] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:04:51,317 [INFO] Lectura BMP390
+2025-06-13 16:04:51,507 [INFO] Lectura LTR390
+2025-06-13 16:04:51,515 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:04:51,531 [INFO] Lectura sensor suelo
+2025-06-13 16:04:53,527 [INFO] 192.168.95.222 - - [13/Jun/2025 16:04:53] "GET / HTTP/1.1" 200 -
+2025-06-13 16:04:54,209 [INFO] Movimiento hacia adelante
+2025-06-13 16:04:55,568 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:04:55,570 [INFO] Datos JSON preparados para envío
+2025-06-13 16:04:56,627 [INFO] Lectura BMP390
+2025-06-13 16:04:56,818 [INFO] Lectura LTR390
+2025-06-13 16:04:56,821 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:04:56,839 [INFO] Lectura sensor suelo
+2025-06-13 16:04:57,325 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:00,387 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:05:00,390 [INFO] Datos JSON preparados para envío
+2025-06-13 16:05:00,447 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:01,445 [INFO] Lectura BMP390
+2025-06-13 16:05:01,641 [INFO] Lectura LTR390
+2025-06-13 16:05:01,647 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:05:01,665 [INFO] Lectura sensor suelo
+2025-06-13 16:05:03,632 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:06,462 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:05:06,465 [INFO] Datos JSON preparados para envío
+2025-06-13 16:05:06,773 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:07,523 [INFO] Lectura BMP390
+2025-06-13 16:05:07,716 [INFO] Lectura LTR390
+2025-06-13 16:05:07,719 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:05:07,735 [INFO] Lectura sensor suelo
+2025-06-13 16:05:09,888 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:12,061 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:05:12,065 [INFO] Datos JSON preparados para envío
+2025-06-13 16:05:13,044 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:13,127 [INFO] Lectura BMP390
+2025-06-13 16:05:13,314 [INFO] Lectura LTR390
+2025-06-13 16:05:13,320 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:05:13,337 [INFO] Lectura sensor suelo
+2025-06-13 16:05:16,228 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:16,975 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:05:16,978 [INFO] Datos JSON preparados para envío
+2025-06-13 16:05:18,035 [INFO] Lectura BMP390
+2025-06-13 16:05:18,218 [INFO] Lectura LTR390
+2025-06-13 16:05:18,226 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:05:18,245 [INFO] Lectura sensor suelo
+2025-06-13 16:05:19,414 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:22,196 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:05:22,197 [INFO] Datos JSON preparados para envío
+2025-06-13 16:05:22,468 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:23,259 [INFO] Lectura BMP390
+2025-06-13 16:05:23,446 [INFO] Lectura LTR390
+2025-06-13 16:05:23,454 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:05:23,472 [INFO] Lectura sensor suelo
+2025-06-13 16:05:25,652 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:27,420 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:05:27,423 [INFO] Datos JSON preparados para envío
+2025-06-13 16:05:28,477 [INFO] Lectura BMP390
+2025-06-13 16:05:28,660 [INFO] Lectura LTR390
+2025-06-13 16:05:28,669 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:05:28,686 [INFO] Lectura sensor suelo
+2025-06-13 16:05:28,831 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:31,985 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:32,332 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:05:32,334 [INFO] Datos JSON preparados para envío
+2025-06-13 16:05:33,389 [INFO] Lectura BMP390
+2025-06-13 16:05:33,582 [INFO] Lectura LTR390
+2025-06-13 16:05:33,586 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:05:33,604 [INFO] Lectura sensor suelo
+2025-06-13 16:05:35,077 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:36,878 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:05:36,880 [INFO] Datos JSON preparados para envío
+2025-06-13 16:05:37,941 [INFO] Lectura BMP390
+2025-06-13 16:05:38,125 [INFO] Lectura LTR390
+2025-06-13 16:05:38,131 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:05:38,149 [INFO] Lectura sensor suelo
+2025-06-13 16:05:38,250 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:41,392 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:42,165 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:05:42,168 [INFO] Datos JSON preparados para envío
+2025-06-13 16:05:43,230 [INFO] Lectura BMP390
+2025-06-13 16:05:43,414 [INFO] Lectura LTR390
+2025-06-13 16:05:43,420 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:05:43,438 [INFO] Lectura sensor suelo
+2025-06-13 16:05:44,565 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:47,640 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:48,003 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:05:48,006 [INFO] Datos JSON preparados para envío
+2025-06-13 16:05:49,067 [INFO] Lectura BMP390
+2025-06-13 16:05:49,255 [INFO] Lectura LTR390
+2025-06-13 16:05:49,261 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:05:49,280 [INFO] Lectura sensor suelo
+2025-06-13 16:05:50,827 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:53,532 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:05:53,539 [INFO] Datos JSON preparados para envío
+2025-06-13 16:05:53,983 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:54,603 [INFO] Lectura BMP390
+2025-06-13 16:05:54,795 [INFO] Lectura LTR390
+2025-06-13 16:05:54,800 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:05:54,819 [INFO] Lectura sensor suelo
+2025-06-13 16:05:57,134 [INFO] Movimiento hacia adelante
+2025-06-13 16:05:58,445 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:05:58,447 [INFO] Datos JSON preparados para envío
+2025-06-13 16:05:59,503 [INFO] Lectura BMP390
+2025-06-13 16:05:59,687 [INFO] Lectura LTR390
+2025-06-13 16:05:59,693 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:05:59,711 [INFO] Lectura sensor suelo
+2025-06-13 16:06:00,247 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:03,392 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:03,976 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:06:03,979 [INFO] Datos JSON preparados para envío
+2025-06-13 16:06:05,039 [INFO] Lectura BMP390
+2025-06-13 16:06:05,224 [INFO] Lectura LTR390
+2025-06-13 16:06:05,230 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:06:05,248 [INFO] Lectura sensor suelo
+2025-06-13 16:06:06,580 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:10,162 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:14,455 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:18,088 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:21,746 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:24,892 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:26,453 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:06:26,456 [INFO] Datos JSON preparados para envío
+2025-06-13 16:06:27,518 [INFO] Lectura BMP390
+2025-06-13 16:06:27,720 [INFO] Lectura LTR390
+2025-06-13 16:06:27,729 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:06:27,748 [INFO] Lectura sensor suelo
+2025-06-13 16:06:28,909 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:32,039 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:32,113 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:06:32,115 [INFO] Datos JSON preparados para envío
+2025-06-13 16:06:33,172 [INFO] Lectura BMP390
+2025-06-13 16:06:33,368 [INFO] Lectura LTR390
+2025-06-13 16:06:33,374 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:06:33,390 [INFO] Lectura sensor suelo
+2025-06-13 16:06:35,207 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:36,848 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:06:36,852 [INFO] Datos JSON preparados para envío
+2025-06-13 16:06:37,915 [INFO] Lectura BMP390
+2025-06-13 16:06:38,106 [INFO] Lectura LTR390
+2025-06-13 16:06:38,112 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:06:38,129 [INFO] Lectura sensor suelo
+2025-06-13 16:06:38,402 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:41,547 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:41,763 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:06:41,766 [INFO] Datos JSON preparados para envío
+2025-06-13 16:06:42,822 [INFO] Lectura BMP390
+2025-06-13 16:06:43,012 [INFO] Lectura LTR390
+2025-06-13 16:06:43,015 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:06:43,032 [INFO] Lectura sensor suelo
+2025-06-13 16:06:44,695 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:47,293 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:06:47,296 [INFO] Datos JSON preparados para envío
+2025-06-13 16:06:47,844 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:48,354 [INFO] Lectura BMP390
+2025-06-13 16:06:48,537 [INFO] Lectura LTR390
+2025-06-13 16:06:48,543 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:06:48,562 [INFO] Lectura sensor suelo
+2025-06-13 16:06:51,022 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:52,209 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:06:52,214 [INFO] Datos JSON preparados para envío
+2025-06-13 16:06:53,270 [INFO] Lectura BMP390
+2025-06-13 16:06:53,456 [INFO] Lectura LTR390
+2025-06-13 16:06:53,462 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:06:53,480 [INFO] Lectura sensor suelo
+2025-06-13 16:06:54,215 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:56,856 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:06:56,859 [INFO] Datos JSON preparados para envío
+2025-06-13 16:06:57,366 [INFO] Movimiento hacia adelante
+2025-06-13 16:06:57,920 [INFO] Lectura BMP390
+2025-06-13 16:06:58,107 [INFO] Lectura LTR390
+2025-06-13 16:06:58,113 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:06:58,131 [INFO] Lectura sensor suelo
+2025-06-13 16:07:00,549 [INFO] Movimiento hacia adelante
+2025-06-13 16:07:01,567 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:07:01,569 [INFO] Datos JSON preparados para envío
+2025-06-13 16:07:02,632 [INFO] Lectura BMP390
+2025-06-13 16:07:02,820 [INFO] Lectura LTR390
+2025-06-13 16:07:02,826 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:07:02,844 [INFO] Lectura sensor suelo
+2025-06-13 16:07:05,696 [INFO] 192.168.95.222 - - [13/Jun/2025 16:07:05] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:07:05,697 [INFO] Movimiento a la derecha
+2025-06-13 16:07:06,589 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:07:06,592 [INFO] Datos JSON preparados para envío
+2025-06-13 16:07:07,651 [INFO] Lectura BMP390
+2025-06-13 16:07:07,839 [INFO] Lectura LTR390
+2025-06-13 16:07:07,845 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:07:07,864 [INFO] Lectura sensor suelo
+2025-06-13 16:07:08,885 [INFO] Movimiento a la derecha
+2025-06-13 16:07:09,180 [INFO] 192.168.95.222 - - [13/Jun/2025 16:07:09] "GET / HTTP/1.1" 200 -
+2025-06-13 16:07:11,291 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:07:11,294 [INFO] Datos JSON preparados para envío
+2025-06-13 16:07:12,352 [INFO] Lectura BMP390
+2025-06-13 16:07:12,542 [INFO] Lectura LTR390
+2025-06-13 16:07:12,548 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:07:12,567 [INFO] Lectura sensor suelo
+2025-06-13 16:07:14,228 [INFO] 192.168.95.222 - - [13/Jun/2025 16:07:14] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:07:14,229 [INFO] Movimiento hacia adelante
+2025-06-13 16:07:15,698 [INFO] 192.168.95.222 - - [13/Jun/2025 16:07:15] "GET / HTTP/1.1" 200 -
+2025-06-13 16:07:16,323 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:07:16,326 [INFO] Datos JSON preparados para envío
+2025-06-13 16:07:16,386 [INFO] 192.168.95.222 - - [13/Jun/2025 16:07:16] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:07:17,377 [INFO] Lectura BMP390
+2025-06-13 16:07:17,557 [INFO] Lectura LTR390
+2025-06-13 16:07:17,563 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:07:17,578 [INFO] Lectura sensor suelo
+2025-06-13 16:07:17,610 [INFO] 192.168.95.222 - - [13/Jun/2025 16:07:17] "GET / HTTP/1.1" 200 -
+2025-06-13 16:07:21,396 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:07:21,399 [INFO] Datos JSON preparados para envío
+2025-06-13 16:07:21,641 [INFO] 192.168.95.222 - - [13/Jun/2025 16:07:21] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:07:21,641 [INFO] Movimiento a la izquierda
+2025-06-13 16:07:22,456 [INFO] Lectura BMP390
+2025-06-13 16:07:22,654 [INFO] Lectura LTR390
+2025-06-13 16:07:22,661 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:07:22,679 [INFO] Lectura sensor suelo
+2025-06-13 16:07:22,909 [INFO] 192.168.95.222 - - [13/Jun/2025 16:07:22] "GET / HTTP/1.1" 200 -
+2025-06-13 16:07:24,836 [INFO] Movimiento a la izquierda
+2025-06-13 16:07:26,614 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:07:26,618 [INFO] Datos JSON preparados para envío
+2025-06-13 16:07:27,680 [INFO] Lectura BMP390
+2025-06-13 16:07:27,867 [INFO] Lectura LTR390
+2025-06-13 16:07:27,873 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:07:27,891 [INFO] Lectura sensor suelo
+2025-06-13 16:07:28,029 [INFO] Movimiento a la izquierda
+2025-06-13 16:07:31,741 [INFO] Movimiento a la izquierda
+2025-06-13 16:07:32,330 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:07:32,333 [INFO] Datos JSON preparados para envío
+2025-06-13 16:07:33,391 [INFO] Lectura BMP390
+2025-06-13 16:07:33,575 [INFO] Lectura LTR390
+2025-06-13 16:07:33,581 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:07:33,599 [INFO] Lectura sensor suelo
+2025-06-13 16:07:33,830 [INFO] 192.168.95.222 - - [13/Jun/2025 16:07:33] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:07:35,939 [INFO] 192.168.95.222 - - [13/Jun/2025 16:07:35] "GET / HTTP/1.1" 200 -
+2025-06-13 16:07:38,489 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:07:38,492 [INFO] Datos JSON preparados para envío
+2025-06-13 16:07:39,233 [INFO] 192.168.95.222 - - [13/Jun/2025 16:07:39] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:07:39,233 [INFO] Movimiento hacia adelante
+2025-06-13 16:07:39,549 [INFO] Lectura BMP390
+2025-06-13 16:07:39,744 [INFO] Lectura LTR390
+2025-06-13 16:07:39,749 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:07:39,767 [INFO] Lectura sensor suelo
+2025-06-13 16:07:42,417 [INFO] Movimiento hacia adelante
+2025-06-13 16:07:44,119 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:07:44,123 [INFO] Datos JSON preparados para envío
+2025-06-13 16:07:45,180 [INFO] Lectura BMP390
+2025-06-13 16:07:45,364 [INFO] Lectura LTR390
+2025-06-13 16:07:45,370 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:07:45,387 [INFO] Lectura sensor suelo
+2025-06-13 16:07:45,595 [INFO] Movimiento hacia adelante
+2025-06-13 16:07:48,699 [INFO] Movimiento hacia adelante
+2025-06-13 16:07:49,542 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:07:49,545 [INFO] Datos JSON preparados para envío
+2025-06-13 16:07:50,602 [INFO] Lectura BMP390
+2025-06-13 16:07:50,798 [INFO] Lectura LTR390
+2025-06-13 16:07:50,804 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:07:50,822 [INFO] Lectura sensor suelo
+2025-06-13 16:07:51,886 [INFO] Movimiento hacia adelante
+2025-06-13 16:07:55,030 [INFO] Movimiento hacia adelante
+2025-06-13 16:07:55,171 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:07:55,174 [INFO] Datos JSON preparados para envío
+2025-06-13 16:07:56,235 [INFO] Lectura BMP390
+2025-06-13 16:07:56,422 [INFO] Lectura LTR390
+2025-06-13 16:07:56,428 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:07:56,446 [INFO] Lectura sensor suelo
+2025-06-13 16:07:58,219 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:00,568 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:08:00,571 [INFO] Datos JSON preparados para envío
+2025-06-13 16:08:01,370 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:01,633 [INFO] Lectura BMP390
+2025-06-13 16:08:01,822 [INFO] Lectura LTR390
+2025-06-13 16:08:01,828 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:08:01,846 [INFO] Lectura sensor suelo
+2025-06-13 16:08:04,574 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:05,877 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:08:05,881 [INFO] Datos JSON preparados para envío
+2025-06-13 16:08:06,946 [INFO] Lectura BMP390
+2025-06-13 16:08:07,148 [INFO] Lectura LTR390
+2025-06-13 16:08:07,155 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:08:07,174 [INFO] Lectura sensor suelo
+2025-06-13 16:08:08,577 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:10,926 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:08:10,929 [INFO] Datos JSON preparados para envío
+2025-06-13 16:08:11,727 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:11,988 [INFO] Lectura BMP390
+2025-06-13 16:08:12,177 [INFO] Lectura LTR390
+2025-06-13 16:08:12,183 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:08:12,201 [INFO] Lectura sensor suelo
+2025-06-13 16:08:14,906 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:15,934 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:08:15,936 [INFO] Datos JSON preparados para envío
+2025-06-13 16:08:16,998 [INFO] Lectura BMP390
+2025-06-13 16:08:17,185 [INFO] Lectura LTR390
+2025-06-13 16:08:17,191 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:08:17,209 [INFO] Lectura sensor suelo
+2025-06-13 16:08:18,099 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:21,214 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:21,363 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:08:21,367 [INFO] Datos JSON preparados para envío
+2025-06-13 16:08:22,424 [INFO] Lectura BMP390
+2025-06-13 16:08:22,612 [INFO] Lectura LTR390
+2025-06-13 16:08:22,618 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:08:22,635 [INFO] Lectura sensor suelo
+2025-06-13 16:08:24,402 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:26,273 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:08:26,276 [INFO] Datos JSON preparados para envío
+2025-06-13 16:08:27,337 [INFO] Lectura BMP390
+2025-06-13 16:08:27,520 [INFO] Lectura LTR390
+2025-06-13 16:08:27,526 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:08:27,542 [INFO] Lectura sensor suelo
+2025-06-13 16:08:27,573 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:30,717 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:31,294 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:08:31,296 [INFO] Datos JSON preparados para envío
+2025-06-13 16:08:32,353 [INFO] Lectura BMP390
+2025-06-13 16:08:32,549 [INFO] Lectura LTR390
+2025-06-13 16:08:32,554 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:08:32,573 [INFO] Lectura sensor suelo
+2025-06-13 16:08:33,904 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:36,037 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:08:36,040 [INFO] Datos JSON preparados para envío
+2025-06-13 16:08:37,060 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:37,098 [INFO] Lectura BMP390
+2025-06-13 16:08:37,284 [INFO] Lectura LTR390
+2025-06-13 16:08:37,290 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:08:37,308 [INFO] Lectura sensor suelo
+2025-06-13 16:08:37,740 [INFO] 192.168.95.222 - - [13/Jun/2025 16:08:37] "GET / HTTP/1.1" 200 -
+2025-06-13 16:08:41,065 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:08:41,068 [INFO] Datos JSON preparados para envío
+2025-06-13 16:08:41,096 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:42,125 [INFO] Lectura BMP390
+2025-06-13 16:08:42,316 [INFO] Lectura LTR390
+2025-06-13 16:08:42,323 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:08:42,341 [INFO] Lectura sensor suelo
+2025-06-13 16:08:46,180 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:08:46,183 [INFO] Datos JSON preparados para envío
+2025-06-13 16:08:46,474 [INFO] 192.168.95.222 - - [13/Jun/2025 16:08:46] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:08:46,475 [INFO] Movimiento a la izquierda
+2025-06-13 16:08:47,246 [INFO] Lectura BMP390
+2025-06-13 16:08:47,434 [INFO] Lectura LTR390
+2025-06-13 16:08:47,440 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:08:47,459 [INFO] Lectura sensor suelo
+2025-06-13 16:08:47,637 [INFO] 192.168.95.222 - - [13/Jun/2025 16:08:47] "GET / HTTP/1.1" 200 -
+2025-06-13 16:08:51,096 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:08:51,097 [INFO] Datos JSON preparados para envío
+2025-06-13 16:08:52,070 [INFO] 192.168.95.222 - - [13/Jun/2025 16:08:52] "POST /mover HTTP/1.1" 200 -
+2025-06-13 16:08:52,070 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:52,155 [INFO] Lectura BMP390
+2025-06-13 16:08:52,352 [INFO] Lectura LTR390
+2025-06-13 16:08:52,358 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:08:52,374 [INFO] Lectura sensor suelo
+2025-06-13 16:08:53,335 [INFO] 192.168.95.222 - - [13/Jun/2025 16:08:53] "GET / HTTP/1.1" 200 -
+2025-06-13 16:08:55,256 [INFO] Movimiento hacia adelante
+2025-06-13 16:08:56,318 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:08:56,321 [INFO] Datos JSON preparados para envío
+2025-06-13 16:08:57,379 [INFO] Lectura BMP390
+2025-06-13 16:08:57,562 [INFO] Lectura LTR390
+2025-06-13 16:08:57,568 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:08:57,587 [INFO] Lectura sensor suelo
+2025-06-13 16:08:58,439 [INFO] Movimiento hacia adelante
+2025-06-13 16:09:01,540 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:09:01,543 [INFO] Datos JSON preparados para envío
+2025-06-13 16:09:01,582 [INFO] Movimiento hacia adelante
+2025-06-13 16:09:02,600 [INFO] Lectura BMP390
+2025-06-13 16:09:02,793 [INFO] Lectura LTR390
+2025-06-13 16:09:02,796 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:09:02,812 [INFO] Lectura sensor suelo
+2025-06-13 16:09:04,735 [INFO] Movimiento hacia adelante
+2025-06-13 16:09:06,763 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:09:06,766 [INFO] Datos JSON preparados para envío
+2025-06-13 16:09:07,821 [INFO] Lectura BMP390
+2025-06-13 16:09:07,898 [INFO] Movimiento hacia adelante
+2025-06-13 16:09:08,009 [INFO] Lectura LTR390
+2025-06-13 16:09:08,014 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:09:08,032 [INFO] Lectura sensor suelo
+2025-06-13 16:09:11,064 [INFO] Movimiento hacia adelante
+2025-06-13 16:09:11,549 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:09:11,550 [INFO] Datos JSON preparados para envío
+2025-06-13 16:09:12,606 [INFO] Lectura BMP390
+2025-06-13 16:09:12,793 [INFO] Lectura LTR390
+2025-06-13 16:09:12,798 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:09:12,815 [INFO] Lectura sensor suelo
+2025-06-13 16:09:14,219 [INFO] Movimiento hacia adelante
+2025-06-13 16:09:16,901 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:09:16,904 [INFO] Datos JSON preparados para envío
+2025-06-13 16:09:17,367 [INFO] Movimiento hacia adelante
+2025-06-13 16:09:17,961 [INFO] Lectura BMP390
+2025-06-13 16:09:18,144 [INFO] Lectura LTR390
+2025-06-13 16:09:18,150 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:09:18,167 [INFO] Lectura sensor suelo
+2025-06-13 16:09:20,543 [INFO] Movimiento hacia adelante
+2025-06-13 16:09:22,125 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:09:22,128 [INFO] Datos JSON preparados para envío
+2025-06-13 16:09:23,183 [INFO] Lectura BMP390
+2025-06-13 16:09:23,367 [INFO] Lectura LTR390
+2025-06-13 16:09:23,373 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:09:23,390 [INFO] Lectura sensor suelo
+2025-06-13 16:09:23,550 [INFO] 192.168.95.222 - - [13/Jun/2025 16:09:23] "GET /datos HTTP/1.1" 200 -
+2025-06-13 16:09:23,701 [INFO] Movimiento hacia adelante
+2025-06-13 16:09:26,850 [INFO] Movimiento hacia adelante
+2025-06-13 16:09:27,346 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:09:27,349 [INFO] Datos JSON preparados para envío
+2025-06-13 16:09:28,410 [INFO] Lectura BMP390
+2025-06-13 16:09:28,600 [INFO] Lectura LTR390
+2025-06-13 16:09:28,606 [INFO] Lectura desde ESP32-S3 por serial
+2025-06-13 16:09:28,624 [INFO] Lectura sensor suelo
+2025-06-13 16:09:29,642 [INFO] 192.168.95.222 - - [13/Jun/2025 16:09:29] "GET /datos HTTP/1.1" 200 -
+2025-06-13 16:09:30,041 [INFO] Movimiento hacia adelante
+2025-06-13 16:09:31,501 [INFO] 192.168.95.222 - - [13/Jun/2025 16:09:31] "GET /datos HTTP/1.1" 200 -
+2025-06-13 16:09:32,196 [INFO] Lectura datos climáticos NASA
+2025-06-13 16:09:32,199 [INFO] Datos JSON preparados para envío
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

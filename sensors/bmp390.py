@@ -1,16 +1,8 @@
-# bmp390.py
-
-"""
-Módulo para interactuar con el sensor BMP390.
-
-Funcionalidades:
-- Inicialización del sensor
-- Lectura de temperatura y presión
-"""
-
 import time
 import adafruit_bmp3xx
 from config import i2c
+
+
 
 # -----------------------------
 # 🧭 Inicialización del sensor
@@ -30,9 +22,6 @@ def init_bmp390():
 # 🌡 Lectura de datos
 # -----------------------------
 def leer_bmp390(sensor):
-    """
-    Retorna una tupla: (temperatura °C, presión hPa)
-    """
     try:
         temperatura = sensor.temperature
         presion = sensor.pressure

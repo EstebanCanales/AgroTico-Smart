@@ -1,0 +1,674 @@
+2025-05-19 15:17:42,097 [INFO] Inicio del sistema
+2025-05-19 15:17:43,200 [INFO] Lectura BMP390
+2025-05-19 15:17:43,405 [INFO] Lectura LTR390
+2025-05-19 15:17:43,406 [ERROR] Error al leer SCD30
+2025-05-19 15:17:48,629 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:17:48,637 [INFO] Datos JSON preparados para envío
+2025-05-19 15:17:49,687 [INFO] Lectura BMP390
+2025-05-19 15:17:49,869 [INFO] Lectura LTR390
+2025-05-19 15:17:49,870 [ERROR] Error al leer SCD30
+2025-05-19 15:17:53,309 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:17:53,316 [INFO] Datos JSON preparados para envío
+2025-05-19 15:17:54,368 [INFO] Lectura BMP390
+2025-05-19 15:17:54,540 [INFO] Lectura LTR390
+2025-05-19 15:17:54,541 [ERROR] Error al leer SCD30
+2025-05-19 15:17:57,847 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:17:57,852 [INFO] Datos JSON preparados para envío
+2025-05-19 15:17:58,901 [INFO] Lectura BMP390
+2025-05-19 15:17:59,082 [INFO] Lectura LTR390
+2025-05-19 15:17:59,083 [ERROR] Error al leer SCD30
+2025-05-19 15:18:01,853 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:18:01,858 [INFO] Datos JSON preparados para envío
+2025-05-19 15:18:02,907 [INFO] Lectura BMP390
+2025-05-19 15:18:03,088 [INFO] Lectura LTR390
+2025-05-19 15:18:03,089 [ERROR] Error al leer SCD30
+2025-05-19 15:18:06,519 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:18:06,524 [INFO] Datos JSON preparados para envío
+2025-05-19 15:18:07,573 [INFO] Lectura BMP390
+2025-05-19 15:18:07,754 [INFO] Lectura LTR390
+2025-05-19 15:18:07,755 [ERROR] Error al leer SCD30
+2025-05-19 15:18:10,629 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:18:10,633 [INFO] Datos JSON preparados para envío
+2025-05-19 15:18:11,682 [INFO] Lectura BMP390
+2025-05-19 15:18:11,863 [INFO] Lectura LTR390
+2025-05-19 15:18:11,864 [ERROR] Error al leer SCD30
+2025-05-19 15:18:16,183 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:18:16,187 [INFO] Datos JSON preparados para envío
+2025-05-19 15:18:17,237 [INFO] Lectura BMP390
+2025-05-19 15:18:17,418 [INFO] Lectura LTR390
+2025-05-19 15:18:17,420 [ERROR] Error al leer SCD30
+2025-05-19 15:18:21,034 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:18:21,039 [INFO] Datos JSON preparados para envío
+2025-05-19 15:18:22,089 [INFO] Lectura BMP390
+2025-05-19 15:18:22,269 [INFO] Lectura LTR390
+2025-05-19 15:18:22,271 [ERROR] Error al leer SCD30
+2025-05-19 15:22:09,736 [INFO] Inicio del sistema
+2025-05-19 15:22:16,135 [INFO] Lectura BMP390
+2025-05-19 15:22:16,397 [INFO] Lectura LTR390
+2025-05-19 15:22:16,423 [ERROR] Error al leer SCD30
+2025-05-19 15:22:19,876 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:22:19,880 [INFO] Datos JSON preparados para envío
+2025-05-19 15:22:20,954 [INFO] Lectura BMP390
+2025-05-19 15:22:21,179 [INFO] Lectura LTR390
+2025-05-19 15:22:21,206 [ERROR] Error al leer SCD30
+2025-05-19 15:22:24,398 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:22:24,405 [INFO] Datos JSON preparados para envío
+2025-05-19 15:22:25,483 [INFO] Lectura BMP390
+2025-05-19 15:22:25,707 [INFO] Lectura LTR390
+2025-05-19 15:22:25,733 [ERROR] Error al leer SCD30
+2025-05-19 15:22:29,051 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:22:29,054 [INFO] Datos JSON preparados para envío
+2025-05-19 15:22:30,129 [INFO] Lectura BMP390
+2025-05-19 15:22:30,364 [INFO] Lectura LTR390
+2025-05-19 15:22:30,390 [ERROR] Error al leer SCD30
+2025-05-19 15:22:34,314 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:22:34,321 [INFO] Datos JSON preparados para envío
+2025-05-19 15:22:35,395 [INFO] Lectura BMP390
+2025-05-19 15:22:35,648 [INFO] Lectura LTR390
+2025-05-19 15:22:35,674 [ERROR] Error al leer SCD30
+2025-05-19 15:22:39,432 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:22:39,439 [INFO] Datos JSON preparados para envío
+2025-05-19 15:22:40,513 [INFO] Lectura BMP390
+2025-05-19 15:22:40,737 [INFO] Lectura LTR390
+2025-05-19 15:22:40,764 [ERROR] Error al leer SCD30
+2025-05-19 15:22:43,812 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:22:43,816 [INFO] Datos JSON preparados para envío
+2025-05-19 15:22:44,894 [INFO] Lectura BMP390
+2025-05-19 15:22:45,118 [INFO] Lectura LTR390
+2025-05-19 15:22:45,144 [ERROR] Error al leer SCD30
+2025-05-19 15:22:48,551 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:22:48,555 [INFO] Datos JSON preparados para envío
+2025-05-19 15:22:49,633 [INFO] Lectura BMP390
+2025-05-19 15:22:49,868 [INFO] Lectura LTR390
+2025-05-19 15:22:49,897 [ERROR] Error al leer SCD30
+2025-05-19 15:22:53,376 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:22:53,382 [INFO] Datos JSON preparados para envío
+2025-05-19 15:22:54,455 [INFO] Lectura BMP390
+2025-05-19 15:22:54,678 [INFO] Lectura LTR390
+2025-05-19 15:22:54,703 [ERROR] Error al leer SCD30
+2025-05-19 15:22:58,050 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:22:58,053 [INFO] Datos JSON preparados para envío
+2025-05-19 15:22:59,127 [INFO] Lectura BMP390
+2025-05-19 15:22:59,356 [INFO] Lectura LTR390
+2025-05-19 15:22:59,382 [ERROR] Error al leer SCD30
+2025-05-19 15:23:03,222 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:23:03,228 [INFO] Datos JSON preparados para envío
+2025-05-19 15:23:04,301 [INFO] Lectura BMP390
+2025-05-19 15:23:04,529 [INFO] Lectura LTR390
+2025-05-19 15:23:04,554 [ERROR] Error al leer SCD30
+2025-05-19 15:23:07,755 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:23:07,761 [INFO] Datos JSON preparados para envío
+2025-05-19 15:23:08,836 [INFO] Lectura BMP390
+2025-05-19 15:23:09,058 [INFO] Lectura LTR390
+2025-05-19 15:23:09,083 [ERROR] Error al leer SCD30
+2025-05-19 15:23:12,694 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:23:12,699 [INFO] Datos JSON preparados para envío
+2025-05-19 15:23:13,778 [INFO] Lectura BMP390
+2025-05-19 15:23:14,004 [INFO] Lectura LTR390
+2025-05-19 15:23:14,030 [ERROR] Error al leer SCD30
+2025-05-19 15:25:47,887 [INFO] Inicio del sistema
+2025-05-19 15:25:54,149 [INFO] Lectura BMP390
+2025-05-19 15:25:54,353 [INFO] Lectura LTR390
+2025-05-19 15:25:54,366 [ERROR] Error al leer SCD30
+2025-05-19 15:25:57,678 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:25:57,682 [INFO] Datos JSON preparados para envío
+2025-05-19 15:25:58,730 [INFO] Lectura BMP390
+2025-05-19 15:25:58,905 [INFO] Lectura LTR390
+2025-05-19 15:25:58,922 [ERROR] Error al leer SCD30
+2025-05-19 15:26:02,445 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:26:02,450 [INFO] Datos JSON preparados para envío
+2025-05-19 15:26:03,498 [INFO] Lectura BMP390
+2025-05-19 15:26:03,674 [INFO] Lectura LTR390
+2025-05-19 15:26:03,676 [ERROR] Error al leer SCD30
+2025-05-19 15:26:06,486 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:26:06,493 [INFO] Datos JSON preparados para envío
+2025-05-19 15:39:13,428 [INFO] Inicio del sistema
+2025-05-19 15:39:14,521 [INFO] Lectura BMP390
+2025-05-19 15:39:14,727 [INFO] Lectura LTR390
+2025-05-19 15:39:14,728 [ERROR] Error al leer SCD30
+2025-05-19 15:39:14,731 [WARNING] GPS sin señal
+2025-05-19 15:39:14,734 [INFO] Datos JSON preparados para envío
+2025-05-19 15:39:15,781 [INFO] Lectura BMP390
+2025-05-19 15:39:15,957 [INFO] Lectura LTR390
+2025-05-19 15:39:15,958 [ERROR] Error al leer SCD30
+2025-05-19 15:39:19,452 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:39:19,457 [INFO] Datos JSON preparados para envío
+2025-05-19 15:39:20,504 [INFO] Lectura BMP390
+2025-05-19 15:39:20,678 [INFO] Lectura LTR390
+2025-05-19 15:39:20,679 [ERROR] Error al leer SCD30
+2025-05-19 15:39:24,284 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:39:24,290 [INFO] Datos JSON preparados para envío
+2025-05-19 15:39:25,337 [INFO] Lectura BMP390
+2025-05-19 15:39:25,511 [INFO] Lectura LTR390
+2025-05-19 15:39:25,514 [ERROR] Error al leer SCD30
+2025-05-19 15:39:29,271 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:39:29,285 [INFO] Datos JSON preparados para envío
+2025-05-19 15:39:30,332 [INFO] Lectura BMP390
+2025-05-19 15:39:30,506 [INFO] Lectura LTR390
+2025-05-19 15:39:30,507 [ERROR] Error al leer SCD30
+2025-05-19 15:39:33,624 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:39:33,629 [INFO] Datos JSON preparados para envío
+2025-05-19 15:39:34,676 [INFO] Lectura BMP390
+2025-05-19 15:39:34,850 [INFO] Lectura LTR390
+2025-05-19 15:39:34,852 [ERROR] Error al leer SCD30
+2025-05-19 15:39:38,068 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:39:38,073 [INFO] Datos JSON preparados para envío
+2025-05-19 15:39:39,119 [INFO] Lectura BMP390
+2025-05-19 15:39:39,293 [INFO] Lectura LTR390
+2025-05-19 15:39:39,294 [ERROR] Error al leer SCD30
+2025-05-19 15:39:42,554 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:39:42,560 [INFO] Datos JSON preparados para envío
+2025-05-19 15:39:43,607 [INFO] Lectura BMP390
+2025-05-19 15:39:43,780 [INFO] Lectura LTR390
+2025-05-19 15:39:43,781 [ERROR] Error al leer SCD30
+2025-05-19 15:39:47,208 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:39:47,213 [INFO] Datos JSON preparados para envío
+2025-05-19 15:39:48,261 [INFO] Lectura BMP390
+2025-05-19 15:39:48,434 [INFO] Lectura LTR390
+2025-05-19 15:39:48,435 [ERROR] Error al leer SCD30
+2025-05-19 15:39:51,689 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:39:51,694 [INFO] Datos JSON preparados para envío
+2025-05-19 15:39:52,741 [INFO] Lectura BMP390
+2025-05-19 15:39:52,916 [INFO] Lectura LTR390
+2025-05-19 15:39:52,917 [ERROR] Error al leer SCD30
+2025-05-19 15:39:55,716 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:39:55,726 [INFO] Datos JSON preparados para envío
+2025-05-19 15:39:56,773 [INFO] Lectura BMP390
+2025-05-19 15:39:56,947 [INFO] Lectura LTR390
+2025-05-19 15:39:56,947 [ERROR] Error al leer SCD30
+2025-05-19 15:40:00,245 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:00,255 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:01,301 [INFO] Lectura BMP390
+2025-05-19 15:40:01,475 [INFO] Lectura LTR390
+2025-05-19 15:40:01,476 [ERROR] Error al leer SCD30
+2025-05-19 15:40:04,761 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:04,766 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:05,813 [INFO] Lectura BMP390
+2025-05-19 15:40:05,986 [INFO] Lectura LTR390
+2025-05-19 15:40:05,987 [ERROR] Error al leer SCD30
+2025-05-19 15:40:09,500 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:09,505 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:10,552 [INFO] Lectura BMP390
+2025-05-19 15:40:10,727 [INFO] Lectura LTR390
+2025-05-19 15:40:10,728 [ERROR] Error al leer SCD30
+2025-05-19 15:40:14,513 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:14,520 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:15,568 [INFO] Lectura BMP390
+2025-05-19 15:40:15,741 [INFO] Lectura LTR390
+2025-05-19 15:40:15,742 [ERROR] Error al leer SCD30
+2025-05-19 15:40:18,778 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:18,783 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:19,830 [INFO] Lectura BMP390
+2025-05-19 15:40:20,004 [INFO] Lectura LTR390
+2025-05-19 15:40:20,005 [ERROR] Error al leer SCD30
+2025-05-19 15:40:24,143 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:24,149 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:25,196 [INFO] Lectura BMP390
+2025-05-19 15:40:25,369 [INFO] Lectura LTR390
+2025-05-19 15:40:25,371 [ERROR] Error al leer SCD30
+2025-05-19 15:40:28,612 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:28,617 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:29,664 [INFO] Lectura BMP390
+2025-05-19 15:40:29,837 [INFO] Lectura LTR390
+2025-05-19 15:40:29,838 [ERROR] Error al leer SCD30
+2025-05-19 15:40:32,883 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:32,888 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:33,934 [INFO] Lectura BMP390
+2025-05-19 15:40:34,113 [INFO] Lectura LTR390
+2025-05-19 15:40:34,115 [ERROR] Error al leer SCD30
+2025-05-19 15:40:36,906 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:36,911 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:37,958 [INFO] Lectura BMP390
+2025-05-19 15:40:38,131 [INFO] Lectura LTR390
+2025-05-19 15:40:38,132 [ERROR] Error al leer SCD30
+2025-05-19 15:40:41,763 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:41,770 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:42,817 [INFO] Lectura BMP390
+2025-05-19 15:40:42,991 [INFO] Lectura LTR390
+2025-05-19 15:40:42,992 [ERROR] Error al leer SCD30
+2025-05-19 15:40:45,812 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:45,820 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:46,868 [INFO] Lectura BMP390
+2025-05-19 15:40:47,041 [INFO] Lectura LTR390
+2025-05-19 15:40:47,042 [ERROR] Error al leer SCD30
+2025-05-19 15:40:50,445 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:50,450 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:51,498 [INFO] Lectura BMP390
+2025-05-19 15:40:51,673 [INFO] Lectura LTR390
+2025-05-19 15:40:51,674 [ERROR] Error al leer SCD30
+2025-05-19 15:40:54,832 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:54,843 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:55,890 [INFO] Lectura BMP390
+2025-05-19 15:40:56,063 [INFO] Lectura LTR390
+2025-05-19 15:40:56,065 [ERROR] Error al leer SCD30
+2025-05-19 15:40:58,909 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:40:58,914 [INFO] Datos JSON preparados para envío
+2025-05-19 15:40:59,961 [INFO] Lectura BMP390
+2025-05-19 15:41:00,136 [INFO] Lectura LTR390
+2025-05-19 15:41:00,137 [ERROR] Error al leer SCD30
+2025-05-19 15:41:03,785 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:41:03,790 [INFO] Datos JSON preparados para envío
+2025-05-19 15:41:04,837 [INFO] Lectura BMP390
+2025-05-19 15:41:05,011 [INFO] Lectura LTR390
+2025-05-19 15:41:05,012 [ERROR] Error al leer SCD30
+2025-05-19 15:41:08,828 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:41:08,837 [INFO] Datos JSON preparados para envío
+2025-05-19 15:41:09,884 [INFO] Lectura BMP390
+2025-05-19 15:41:10,057 [INFO] Lectura LTR390
+2025-05-19 15:41:10,059 [ERROR] Error al leer SCD30
+2025-05-19 15:41:13,726 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:41:13,730 [INFO] Datos JSON preparados para envío
+2025-05-19 15:41:14,777 [INFO] Lectura BMP390
+2025-05-19 15:41:14,951 [INFO] Lectura LTR390
+2025-05-19 15:41:14,952 [ERROR] Error al leer SCD30
+2025-05-19 15:41:18,064 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:41:18,073 [INFO] Datos JSON preparados para envío
+2025-05-19 15:41:19,119 [INFO] Lectura BMP390
+2025-05-19 15:41:19,292 [INFO] Lectura LTR390
+2025-05-19 15:41:19,293 [ERROR] Error al leer SCD30
+2025-05-19 15:41:22,210 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:41:22,216 [INFO] Datos JSON preparados para envío
+2025-05-19 15:41:23,263 [INFO] Lectura BMP390
+2025-05-19 15:41:23,437 [INFO] Lectura LTR390
+2025-05-19 15:41:23,438 [ERROR] Error al leer SCD30
+2025-05-19 15:41:26,923 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:41:26,932 [INFO] Datos JSON preparados para envío
+2025-05-19 15:41:27,979 [INFO] Lectura BMP390
+2025-05-19 15:41:28,155 [INFO] Lectura LTR390
+2025-05-19 15:41:28,156 [ERROR] Error al leer SCD30
+2025-05-19 15:41:31,530 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:41:31,535 [INFO] Datos JSON preparados para envío
+2025-05-19 15:41:32,582 [INFO] Lectura BMP390
+2025-05-19 15:41:32,756 [INFO] Lectura LTR390
+2025-05-19 15:41:32,757 [ERROR] Error al leer SCD30
+2025-05-19 15:41:36,752 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:41:36,758 [INFO] Datos JSON preparados para envío
+2025-05-19 15:41:37,803 [INFO] Lectura BMP390
+2025-05-19 15:41:37,976 [INFO] Lectura LTR390
+2025-05-19 15:41:37,979 [ERROR] Error al leer SCD30
+2025-05-19 15:41:41,095 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:41:41,100 [INFO] Datos JSON preparados para envío
+2025-05-19 15:41:42,148 [INFO] Lectura BMP390
+2025-05-19 15:41:42,325 [INFO] Lectura LTR390
+2025-05-19 15:41:42,326 [ERROR] Error al leer SCD30
+2025-05-19 15:41:45,176 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:41:45,184 [INFO] Datos JSON preparados para envío
+2025-05-19 15:41:46,231 [INFO] Lectura BMP390
+2025-05-19 15:41:46,404 [INFO] Lectura LTR390
+2025-05-19 15:41:46,405 [ERROR] Error al leer SCD30
+2025-05-19 15:52:30,109 [INFO] Inicio del sistema
+2025-05-19 15:52:31,199 [INFO] Lectura BMP390
+2025-05-19 15:52:31,401 [INFO] Lectura LTR390
+2025-05-19 15:52:31,402 [ERROR] Error al leer SCD30
+2025-05-19 15:52:34,498 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:52:34,502 [INFO] Datos JSON preparados para envío
+2025-05-19 15:52:35,550 [INFO] Lectura BMP390
+2025-05-19 15:52:35,724 [INFO] Lectura LTR390
+2025-05-19 15:52:35,725 [ERROR] Error al leer SCD30
+2025-05-19 15:52:38,690 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:52:38,693 [INFO] Datos JSON preparados para envío
+2025-05-19 15:52:39,739 [INFO] Lectura BMP390
+2025-05-19 15:52:39,911 [INFO] Lectura LTR390
+2025-05-19 15:52:39,912 [ERROR] Error al leer SCD30
+2025-05-19 15:52:43,118 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:52:43,120 [INFO] Datos JSON preparados para envío
+2025-05-19 15:52:44,167 [INFO] Lectura BMP390
+2025-05-19 15:52:44,347 [INFO] Lectura LTR390
+2025-05-19 15:52:44,348 [ERROR] Error al leer SCD30
+2025-05-19 15:52:47,061 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:52:47,064 [INFO] Datos JSON preparados para envío
+2025-05-19 15:52:48,119 [INFO] Lectura BMP390
+2025-05-19 15:52:48,299 [INFO] Lectura LTR390
+2025-05-19 15:52:48,300 [ERROR] Error al leer SCD30
+2025-05-19 15:52:51,835 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:52:51,838 [INFO] Datos JSON preparados para envío
+2025-05-19 15:52:52,886 [INFO] Lectura BMP390
+2025-05-19 15:52:53,064 [INFO] Lectura LTR390
+2025-05-19 15:52:53,065 [ERROR] Error al leer SCD30
+2025-05-19 15:52:56,486 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:52:56,496 [INFO] Datos JSON preparados para envío
+2025-05-19 15:52:57,551 [INFO] Lectura BMP390
+2025-05-19 15:52:57,729 [INFO] Lectura LTR390
+2025-05-19 15:52:57,732 [ERROR] Error al leer SCD30
+2025-05-19 15:53:00,880 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:00,884 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:01,932 [INFO] Lectura BMP390
+2025-05-19 15:53:02,106 [INFO] Lectura LTR390
+2025-05-19 15:53:02,108 [ERROR] Error al leer SCD30
+2025-05-19 15:53:05,634 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:05,641 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:06,689 [INFO] Lectura BMP390
+2025-05-19 15:53:06,863 [INFO] Lectura LTR390
+2025-05-19 15:53:06,865 [ERROR] Error al leer SCD30
+2025-05-19 15:53:10,252 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:10,258 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:11,306 [INFO] Lectura BMP390
+2025-05-19 15:53:11,481 [INFO] Lectura LTR390
+2025-05-19 15:53:11,483 [ERROR] Error al leer SCD30
+2025-05-19 15:53:14,309 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:14,319 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:15,368 [INFO] Lectura BMP390
+2025-05-19 15:53:15,541 [INFO] Lectura LTR390
+2025-05-19 15:53:15,543 [ERROR] Error al leer SCD30
+2025-05-19 15:53:19,238 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:19,241 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:20,287 [INFO] Lectura BMP390
+2025-05-19 15:53:20,464 [INFO] Lectura LTR390
+2025-05-19 15:53:20,467 [ERROR] Error al leer SCD30
+2025-05-19 15:53:23,937 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:23,939 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:24,992 [INFO] Lectura BMP390
+2025-05-19 15:53:25,169 [INFO] Lectura LTR390
+2025-05-19 15:53:25,170 [ERROR] Error al leer SCD30
+2025-05-19 15:53:28,123 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:28,126 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:29,177 [INFO] Lectura BMP390
+2025-05-19 15:53:29,352 [INFO] Lectura LTR390
+2025-05-19 15:53:29,353 [ERROR] Error al leer SCD30
+2025-05-19 15:53:32,642 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:32,657 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:33,721 [INFO] Lectura BMP390
+2025-05-19 15:53:33,896 [INFO] Lectura LTR390
+2025-05-19 15:53:33,897 [ERROR] Error al leer SCD30
+2025-05-19 15:53:36,660 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:36,664 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:37,712 [INFO] Lectura BMP390
+2025-05-19 15:53:37,887 [INFO] Lectura LTR390
+2025-05-19 15:53:37,888 [ERROR] Error al leer SCD30
+2025-05-19 15:53:40,801 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:40,807 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:41,854 [INFO] Lectura BMP390
+2025-05-19 15:53:42,028 [INFO] Lectura LTR390
+2025-05-19 15:53:42,029 [ERROR] Error al leer SCD30
+2025-05-19 15:53:45,148 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:45,153 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:46,200 [INFO] Lectura BMP390
+2025-05-19 15:53:46,373 [INFO] Lectura LTR390
+2025-05-19 15:53:46,374 [ERROR] Error al leer SCD30
+2025-05-19 15:53:49,362 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:49,368 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:50,415 [INFO] Lectura BMP390
+2025-05-19 15:53:50,589 [INFO] Lectura LTR390
+2025-05-19 15:53:50,589 [ERROR] Error al leer SCD30
+2025-05-19 15:53:54,577 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:54,581 [INFO] Datos JSON preparados para envío
+2025-05-19 15:53:55,629 [INFO] Lectura BMP390
+2025-05-19 15:53:55,803 [INFO] Lectura LTR390
+2025-05-19 15:53:55,803 [ERROR] Error al leer SCD30
+2025-05-19 15:53:58,950 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:53:58,955 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:00,004 [INFO] Lectura BMP390
+2025-05-19 15:54:00,177 [INFO] Lectura LTR390
+2025-05-19 15:54:00,177 [ERROR] Error al leer SCD30
+2025-05-19 15:54:03,195 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:54:03,200 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:04,248 [INFO] Lectura BMP390
+2025-05-19 15:54:04,422 [INFO] Lectura LTR390
+2025-05-19 15:54:04,423 [ERROR] Error al leer SCD30
+2025-05-19 15:54:07,578 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:54:07,581 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:08,628 [INFO] Lectura BMP390
+2025-05-19 15:54:08,797 [INFO] Lectura LTR390
+2025-05-19 15:54:08,797 [ERROR] Error al leer SCD30
+2025-05-19 15:54:12,140 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:54:12,145 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:13,193 [INFO] Lectura BMP390
+2025-05-19 15:54:13,366 [INFO] Lectura LTR390
+2025-05-19 15:54:13,367 [ERROR] Error al leer SCD30
+2025-05-19 15:54:16,633 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:54:16,641 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:17,692 [INFO] Lectura BMP390
+2025-05-19 15:54:17,867 [INFO] Lectura LTR390
+2025-05-19 15:54:17,868 [ERROR] Error al leer SCD30
+2025-05-19 15:54:21,566 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:54:21,571 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:22,619 [INFO] Lectura BMP390
+2025-05-19 15:54:22,793 [INFO] Lectura LTR390
+2025-05-19 15:54:22,794 [ERROR] Error al leer SCD30
+2025-05-19 15:54:26,073 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:54:26,078 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:27,126 [INFO] Lectura BMP390
+2025-05-19 15:54:27,299 [INFO] Lectura LTR390
+2025-05-19 15:54:27,301 [ERROR] Error al leer SCD30
+2025-05-19 15:54:30,500 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:54:30,505 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:31,553 [INFO] Lectura BMP390
+2025-05-19 15:54:31,729 [INFO] Lectura LTR390
+2025-05-19 15:54:31,730 [ERROR] Error al leer SCD30
+2025-05-19 15:54:40,149 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:54:40,154 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:41,204 [INFO] Lectura BMP390
+2025-05-19 15:54:41,372 [INFO] Lectura LTR390
+2025-05-19 15:54:41,373 [ERROR] Error al leer SCD30
+2025-05-19 15:54:44,434 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:54:44,439 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:45,487 [INFO] Lectura BMP390
+2025-05-19 15:54:45,660 [INFO] Lectura LTR390
+2025-05-19 15:54:45,661 [ERROR] Error al leer SCD30
+2025-05-19 15:54:48,613 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:54:48,618 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:49,666 [INFO] Lectura BMP390
+2025-05-19 15:54:49,840 [INFO] Lectura LTR390
+2025-05-19 15:54:49,841 [ERROR] Error al leer SCD30
+2025-05-19 15:54:53,447 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:54:53,452 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:54,500 [INFO] Lectura BMP390
+2025-05-19 15:54:54,673 [INFO] Lectura LTR390
+2025-05-19 15:54:54,674 [ERROR] Error al leer SCD30
+2025-05-19 15:54:57,705 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:54:57,710 [INFO] Datos JSON preparados para envío
+2025-05-19 15:54:58,756 [INFO] Lectura BMP390
+2025-05-19 15:54:58,928 [INFO] Lectura LTR390
+2025-05-19 15:54:58,929 [ERROR] Error al leer SCD30
+2025-05-19 15:55:01,825 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:55:01,831 [INFO] Datos JSON preparados para envío
+2025-05-19 15:55:02,878 [INFO] Lectura BMP390
+2025-05-19 15:55:03,050 [INFO] Lectura LTR390
+2025-05-19 15:55:03,051 [ERROR] Error al leer SCD30
+2025-05-19 15:59:36,268 [INFO] Inicio del sistema
+2025-05-19 15:59:37,387 [INFO] Lectura BMP390
+2025-05-19 15:59:37,608 [INFO] Lectura LTR390
+2025-05-19 15:59:37,609 [ERROR] Error al leer SCD30
+2025-05-19 15:59:37,614 [WARNING] GPS sin señal
+2025-05-19 15:59:37,631 [INFO] Datos JSON preparados para envío
+2025-05-19 15:59:38,686 [INFO] Lectura BMP390
+2025-05-19 15:59:38,886 [INFO] Lectura LTR390
+2025-05-19 15:59:38,887 [ERROR] Error al leer SCD30
+2025-05-19 15:59:38,888 [WARNING] GPS sin señal
+2025-05-19 15:59:38,889 [INFO] Datos JSON preparados para envío
+2025-05-19 15:59:39,951 [INFO] Lectura BMP390
+2025-05-19 15:59:40,133 [INFO] Lectura LTR390
+2025-05-19 15:59:40,134 [ERROR] Error al leer SCD30
+2025-05-19 15:59:43,181 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:59:43,183 [INFO] Datos JSON preparados para envío
+2025-05-19 15:59:44,257 [INFO] Lectura BMP390
+2025-05-19 15:59:44,448 [INFO] Lectura LTR390
+2025-05-19 15:59:44,449 [ERROR] Error al leer SCD30
+2025-05-19 15:59:48,009 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:59:48,012 [INFO] Datos JSON preparados para envío
+2025-05-19 15:59:49,064 [INFO] Lectura BMP390
+2025-05-19 15:59:49,247 [INFO] Lectura LTR390
+2025-05-19 15:59:49,248 [ERROR] Error al leer SCD30
+2025-05-19 15:59:53,547 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:59:53,552 [INFO] Datos JSON preparados para envío
+2025-05-19 15:59:54,604 [INFO] Lectura BMP390
+2025-05-19 15:59:54,785 [INFO] Lectura LTR390
+2025-05-19 15:59:54,786 [ERROR] Error al leer SCD30
+2025-05-19 15:59:58,377 [INFO] Lectura datos climáticos NASA
+2025-05-19 15:59:58,383 [INFO] Datos JSON preparados para envío
+2025-05-19 15:59:59,435 [INFO] Lectura BMP390
+2025-05-19 15:59:59,616 [INFO] Lectura LTR390
+2025-05-19 15:59:59,617 [ERROR] Error al leer SCD30
+2025-05-19 16:00:03,045 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:00:03,050 [INFO] Datos JSON preparados para envío
+2025-05-19 16:00:04,110 [INFO] Lectura BMP390
+2025-05-19 16:00:04,291 [INFO] Lectura LTR390
+2025-05-19 16:00:04,292 [ERROR] Error al leer SCD30
+2025-05-19 16:00:07,865 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:00:07,867 [INFO] Datos JSON preparados para envío
+2025-05-19 16:00:08,923 [INFO] Lectura BMP390
+2025-05-19 16:00:09,107 [INFO] Lectura LTR390
+2025-05-19 16:00:09,108 [ERROR] Error al leer SCD30
+2025-05-19 16:00:11,932 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:00:11,935 [INFO] Datos JSON preparados para envío
+2025-05-19 16:00:12,987 [INFO] Lectura BMP390
+2025-05-19 16:00:13,167 [INFO] Lectura LTR390
+2025-05-19 16:00:13,168 [ERROR] Error al leer SCD30
+2025-05-19 16:06:50,969 [INFO] Inicio del sistema
+2025-05-19 16:06:57,247 [INFO] Lectura BMP390
+2025-05-19 16:06:57,459 [INFO] Lectura LTR390
+2025-05-19 16:06:57,476 [ERROR] Error al leer SCD30
+2025-05-19 16:07:01,139 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:07:01,143 [INFO] Datos JSON preparados para envío
+2025-05-19 16:07:02,195 [INFO] Lectura BMP390
+2025-05-19 16:07:02,376 [INFO] Lectura LTR390
+2025-05-19 16:07:02,393 [ERROR] Error al leer SCD30
+2025-05-19 16:07:05,486 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:07:05,491 [INFO] Datos JSON preparados para envío
+2025-05-19 16:07:06,546 [INFO] Lectura BMP390
+2025-05-19 16:07:06,732 [INFO] Lectura LTR390
+2025-05-19 16:07:06,747 [ERROR] Error al leer SCD30
+2025-05-19 16:08:08,208 [INFO] Inicio del sistema
+2025-05-19 16:08:14,485 [INFO] Lectura BMP390
+2025-05-19 16:08:14,702 [INFO] Lectura LTR390
+2025-05-19 16:08:14,717 [ERROR] Error al leer SCD30
+2025-05-19 16:08:14,720 [WARNING] GPS sin señal
+2025-05-19 16:08:14,723 [INFO] Datos JSON preparados para envío
+2025-05-19 16:08:15,788 [INFO] Lectura BMP390
+2025-05-19 16:08:15,981 [INFO] Lectura LTR390
+2025-05-19 16:08:15,996 [ERROR] Error al leer SCD30
+2025-05-19 16:08:19,060 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:08:19,071 [INFO] Datos JSON preparados para envío
+2025-05-19 16:08:20,124 [INFO] Lectura BMP390
+2025-05-19 16:08:20,305 [INFO] Lectura LTR390
+2025-05-19 16:08:20,321 [ERROR] Error al leer SCD30
+2025-05-19 16:08:23,867 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:08:23,871 [INFO] Datos JSON preparados para envío
+2025-05-19 16:08:24,923 [INFO] Lectura BMP390
+2025-05-19 16:08:25,103 [INFO] Lectura LTR390
+2025-05-19 16:08:25,122 [ERROR] Error al leer SCD30
+2025-05-19 16:08:28,572 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:08:28,577 [INFO] Datos JSON preparados para envío
+2025-05-19 16:08:29,629 [INFO] Lectura BMP390
+2025-05-19 16:08:29,809 [INFO] Lectura LTR390
+2025-05-19 16:08:29,825 [ERROR] Error al leer SCD30
+2025-05-19 16:08:32,744 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:08:32,749 [INFO] Datos JSON preparados para envío
+2025-05-19 16:08:33,802 [INFO] Lectura BMP390
+2025-05-19 16:08:33,982 [INFO] Lectura LTR390
+2025-05-19 16:08:33,998 [ERROR] Error al leer SCD30
+2025-05-19 16:08:36,972 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:08:36,976 [INFO] Datos JSON preparados para envío
+2025-05-19 16:08:38,028 [INFO] Lectura BMP390
+2025-05-19 16:08:38,209 [INFO] Lectura LTR390
+2025-05-19 16:08:38,224 [ERROR] Error al leer SCD30
+2025-05-19 16:08:41,783 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:08:41,788 [INFO] Datos JSON preparados para envío
+2025-05-19 16:08:42,840 [INFO] Lectura BMP390
+2025-05-19 16:08:43,020 [INFO] Lectura LTR390
+2025-05-19 16:08:43,035 [ERROR] Error al leer SCD30
+2025-05-19 16:08:45,786 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:08:45,789 [INFO] Datos JSON preparados para envío
+2025-05-19 16:08:46,841 [INFO] Lectura BMP390
+2025-05-19 16:08:47,022 [INFO] Lectura LTR390
+2025-05-19 16:08:47,040 [ERROR] Error al leer SCD30
+2025-05-19 16:08:50,210 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:08:50,217 [INFO] Datos JSON preparados para envío
+2025-05-19 16:08:51,270 [INFO] Lectura BMP390
+2025-05-19 16:08:51,451 [INFO] Lectura LTR390
+2025-05-19 16:08:51,466 [ERROR] Error al leer SCD30
+2025-05-19 16:08:54,163 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:08:54,169 [INFO] Datos JSON preparados para envío
+2025-05-19 16:08:55,221 [INFO] Lectura BMP390
+2025-05-19 16:08:55,401 [INFO] Lectura LTR390
+2025-05-19 16:08:55,417 [ERROR] Error al leer SCD30
+2025-05-19 16:08:58,684 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:08:58,689 [INFO] Datos JSON preparados para envío
+2025-05-19 16:08:59,741 [INFO] Lectura BMP390
+2025-05-19 16:08:59,921 [INFO] Lectura LTR390
+2025-05-19 16:08:59,938 [ERROR] Error al leer SCD30
+2025-05-19 16:09:02,876 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:02,882 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:03,934 [INFO] Lectura BMP390
+2025-05-19 16:09:04,114 [INFO] Lectura LTR390
+2025-05-19 16:09:04,130 [ERROR] Error al leer SCD30
+2025-05-19 16:09:07,422 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:07,435 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:08,487 [INFO] Lectura BMP390
+2025-05-19 16:09:08,668 [INFO] Lectura LTR390
+2025-05-19 16:09:08,685 [ERROR] Error al leer SCD30
+2025-05-19 16:09:12,289 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:12,294 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:13,346 [INFO] Lectura BMP390
+2025-05-19 16:09:13,526 [INFO] Lectura LTR390
+2025-05-19 16:09:13,543 [ERROR] Error al leer SCD30
+2025-05-19 16:09:16,370 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:16,375 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:17,427 [INFO] Lectura BMP390
+2025-05-19 16:09:17,608 [INFO] Lectura LTR390
+2025-05-19 16:09:17,624 [ERROR] Error al leer SCD30
+2025-05-19 16:09:20,762 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:20,768 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:21,822 [INFO] Lectura BMP390
+2025-05-19 16:09:22,003 [INFO] Lectura LTR390
+2025-05-19 16:09:22,020 [ERROR] Error al leer SCD30
+2025-05-19 16:09:25,355 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:25,361 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:26,413 [INFO] Lectura BMP390
+2025-05-19 16:09:26,593 [INFO] Lectura LTR390
+2025-05-19 16:09:26,610 [ERROR] Error al leer SCD30
+2025-05-19 16:09:30,429 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:30,433 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:31,485 [INFO] Lectura BMP390
+2025-05-19 16:09:31,666 [INFO] Lectura LTR390
+2025-05-19 16:09:31,681 [ERROR] Error al leer SCD30
+2025-05-19 16:09:34,570 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:34,575 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:35,627 [INFO] Lectura BMP390
+2025-05-19 16:09:35,809 [INFO] Lectura LTR390
+2025-05-19 16:09:35,827 [ERROR] Error al leer SCD30
+2025-05-19 16:09:39,141 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:39,146 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:40,199 [INFO] Lectura BMP390
+2025-05-19 16:09:40,378 [INFO] Lectura LTR390
+2025-05-19 16:09:40,394 [ERROR] Error al leer SCD30
+2025-05-19 16:09:43,560 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:43,566 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:44,618 [INFO] Lectura BMP390
+2025-05-19 16:09:44,798 [INFO] Lectura LTR390
+2025-05-19 16:09:44,815 [ERROR] Error al leer SCD30
+2025-05-19 16:09:48,397 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:48,402 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:49,454 [INFO] Lectura BMP390
+2025-05-19 16:09:49,634 [INFO] Lectura LTR390
+2025-05-19 16:09:49,651 [ERROR] Error al leer SCD30
+2025-05-19 16:09:52,475 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:52,482 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:53,534 [INFO] Lectura BMP390
+2025-05-19 16:09:53,715 [INFO] Lectura LTR390
+2025-05-19 16:09:53,730 [ERROR] Error al leer SCD30
+2025-05-19 16:09:57,862 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:09:57,866 [INFO] Datos JSON preparados para envío
+2025-05-19 16:09:58,918 [INFO] Lectura BMP390
+2025-05-19 16:09:59,099 [INFO] Lectura LTR390
+2025-05-19 16:09:59,114 [ERROR] Error al leer SCD30
+2025-05-19 16:10:02,996 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:10:03,005 [INFO] Datos JSON preparados para envío
+2025-05-19 16:10:04,058 [INFO] Lectura BMP390
+2025-05-19 16:10:04,238 [INFO] Lectura LTR390
+2025-05-19 16:10:04,254 [ERROR] Error al leer SCD30
+2025-05-19 16:10:07,684 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:10:07,688 [INFO] Datos JSON preparados para envío
+2025-05-19 16:10:08,741 [INFO] Lectura BMP390
+2025-05-19 16:10:08,925 [INFO] Lectura LTR390
+2025-05-19 16:10:08,940 [ERROR] Error al leer SCD30
+2025-05-19 16:10:12,757 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:10:12,763 [INFO] Datos JSON preparados para envío
+2025-05-19 16:10:13,815 [INFO] Lectura BMP390
+2025-05-19 16:10:13,995 [INFO] Lectura LTR390
+2025-05-19 16:10:14,010 [ERROR] Error al leer SCD30
+2025-05-19 16:10:17,186 [INFO] Lectura datos climáticos NASA
+2025-05-19 16:10:17,192 [INFO] Datos JSON preparados para envío
+2025-05-19 16:10:18,244 [INFO] Lectura BMP390
+2025-05-19 16:10:18,424 [INFO] Lectura LTR390
+2025-05-19 16:10:18,439 [ERROR] Error al leer SCD30

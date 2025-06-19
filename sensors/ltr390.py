@@ -1,13 +1,3 @@
-# ltr390.py
-
-"""
-Módulo para interactuar con el sensor LTR-390 (luz y UV).
-
-Funcionalidades:
-- Inicialización del sensor
-- Lectura de luz visible y índice UV
-"""
-
 import time
 import adafruit_ltr390
 from config import i2c
@@ -28,13 +18,13 @@ def init_ltr390():
 # 🌞 Lectura de datos
 # -----------------------------
 def leer_ltr390(sensor):
-    """
-    Retorna una tupla: (luz visible, índice UV)
-    """
     try:
         luz_visible = sensor.light
         indice_uv = sensor.uvi
-        return luz_visible, indice_uv
+        raw_UV = sensor.uvs
+        lux_light = sensor.lux
+        
+        return luz_visible, indice_uv, raw_UV, lux_light
     except Exception as e:
         print(f"[LTR390] Error al leer datos: {e}")
         return None, None
