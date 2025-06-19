@@ -1,4 +1,5 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, Response
+import os
 import motors.stepper as stepper
 import threading
 
@@ -12,6 +13,10 @@ datos_globales = {}  # Variable global para almacenar el último JSON
 @app.route("/")
 def index():
     return render_template("index.html")
+
+@app.route("/dashboard")
+def dashboard():
+    return render_template("dashboard.html")
 
 @app.route("/datos", methods=["GET"])
 def mostrar_datos():
@@ -42,7 +47,6 @@ def mover():
             stepper.down_servo() 
     
     return render_template("mover.html", direccion=direccion)
-    return "OK", 200
 
 def get_current_direction():
     with control_lock:

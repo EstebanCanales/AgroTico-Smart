@@ -114,33 +114,27 @@ def leer_datos_gps_y_clima(gps):
     return datos_gps, clima
 
 def control_remoto():
+    direccion_anterior = None
+
     while True:
         direccion = get_current_direction()
         
         if direccion == "izquierda":
             print("[CONTROL] IZQUIERDA")
             logger.info("Movimiento a la izquierda")
-            stepper.move_left()
+            #stepper.move_left()
         elif direccion == "derecha":
             print("[CONTROL] DERECHA")
             logger.info("Movimiento a la derecha")
-            stepper.move_right()
+            #stepper.move_right()
         elif direccion == "atras":
             print("[CONTROL] ATRÁS")
             logger.info("Movimiento hacia atrás")
-            stepper.move_backward()
+            #stepper.move_backward()
         elif direccion == "adelante":
             print("[CONTROL] ADELANTE")
             logger.info("Movimiento hacia adelante")
-            stepper.move_forward()
-        elif direccion == "subir":
-            print("[CONTROL] SUBIR")
-            logger.info("Subiendo servo")    
-            #stepper.up_servo()
-        elif direccion == "bajar":
-            print("[CONTROL] BAJAR")
-            logger.info("Bajando servo")
-            #stepper.down_servo()
+            #stepper.move_forward()
         else:
             stepper.stop_motor()
 
